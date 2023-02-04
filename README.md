@@ -21,13 +21,13 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
 
 ## Data format:
 
-The data is available in json format (see figure below) where each document (speech) is a json file.
+<p>The data is available in json format (see figure below) where each document (speech) is a json file.</p>
 
-The unit of analysis is a paragraph. Sometimes, the splits are not correct and some sentences have been split up 
-so that the first part of the sentence is included in one paragraph and the second part in another.
+<p>The unit of analysis is a paragraph. Sometimes, the splits are not correct and some sentences have <br/> 
+been split up so that the first part of the sentence is included in one paragraph and the second part <br/> in another.</p>
 
-The json dictionary keys are the paragraph ids.
-For each paragraph, we include the following lists:
+<p>The json dictionary keys are the paragraph ids.
+For each paragraph, we include the following lists:</p>
 
   * Tokens: the tokens for this paragraph
   * Annotations: a list of dictionaries, where each item in the list is a dictionary with cue words and
@@ -36,13 +36,13 @@ For each paragraph, we include the following lists:
 
 ![alt text](img/json-format-task1.png "Data format task 1")
 
-In the example above, we only have one cue (and therefore only one dictionary in the Annotations list).
+<p>In the example above, we only have one cue (and therefore only one dictionary in the Annotations list).</p>
 
-The cue has the paragraph id "18" and the token id "3". To retrieve the word form for this cue, you can 
+<p>The cue has the paragraph id "18" and the token id "3". To retrieve the word form for this cue, you can 
 extract the token with id 3 (i.e., the fourth token in the list) from paragraph 18, which is "lehnen". 
 This is a particle verb and the verb prefix is encoded as 'PTK' (paragraph 18, token id 8 => "ab").
 In addition to the cue word(s) and its particle, the Annotations include the roles for this cue (i.e., 
 Source, Message, Addresse, Topic, Medium and Evidence. For more information, see the annotation guidelines 
-(folder: guidelines).
+(folder: guidelines).</p>
 
 
