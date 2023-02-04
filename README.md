@@ -9,5 +9,5 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
 
 ## Data Format:
 
-![alt text](https://github.com/umanlp/SpkAtt-2023/img/json-format-task1.png "Data format task 1")
+![alt text](img/json-format-task1.png "Data format task 1")
 
