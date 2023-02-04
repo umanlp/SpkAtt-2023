@@ -41,7 +41,7 @@ For each paragraph, we include the following lists:</p>
 extract the token with id 3 (i.e., the fourth token in the list) from paragraph 18, which is "lehnen". <br/>
 This is a particle verb and the verb prefix is encoded as 'PTK' (paragraph 18, token id 8 => "ab"). <br/>
 In addition to the cue word(s) and its particle, the Annotations include the roles for this cue (i.e., <br/>
-Source, Message, Addresse, Topic, Medium and Evidence. For more information, see the annotation guidelines <br/>
-(folder: guidelines).</p>
+Source, Message, Addresse, Topic, Medium and Evidence. For more information, see the annotation  <br/>
+guidelines (folder: guidelines).</p>
 
 
