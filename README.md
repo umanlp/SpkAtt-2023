@@ -9,7 +9,7 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
 
 ## Important dates:
 
-
+ * February, 2023 - Trial data release
  * April 1, 2023 - Training and development data release
  * June 15, 2023 - Test data release (blind)
  * July 1, 2023 - Submissions open
@@ -20,6 +20,21 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
 
 
 ## Data format:
+
+The data is available in json format (see figure below) where
+each document (speech) is a json file.
+
+The unit of analysis is a paragraph. Sometimes, the splits are
+not correct and some sentences have been split up so that the 
+first part of the sentence is included in one paragraph and the 
+second part in another.
+
+The json dictionary keys are the paragraph ids.
+For each paragraph, we include the following lists:
+
+  * Tokens: the tokens for this paragraph
+  * Annotations: a list of dictionaries, where each item in the list is a dictionary with cue words and roles for this cue.
+
 
 ![alt text](img/json-format-task1.png "Data format task 1")
 
