@@ -35,9 +35,12 @@ For each paragraph, we include the following lists:
   * Tokens: the tokens for this paragraph
   * Annotations: a list of dictionaries, where each item in the list is a dictionary with cue words and roles for this cue.
 
-In the example below, we only have one cue (and therefore only one dictionary in the Annotations list).
+
+![alt text](img/json-format-task1.png "Data format task 1")
+
+In the example above, we only have one cue (and therefore only one dictionary in the Annotations list).
+
 The cue has the paragraph id "18" and the token id "3". To retrieve the word form for this cue, you can extract the token with id 3 (i.e., the fourth token in the list) from paragraph 18, which is "lehnen". This is a particle verb and the verb prefix is encoded as 'PTK' (paragraph 18, token id 8 => "ab").
 In addition to the cue word(s) and its particle, the Annotations include the roles for this cue (i.e., Source, Message, Addresse, Topic, Medium and Evidence. For more information, see the annotation guidelines (folder: guidelines).
 
-![alt text](img/json-format-task1.png "Data format task 1")
 
