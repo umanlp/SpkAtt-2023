@@ -37,7 +37,7 @@ For each paragraph, we include the following lists:
 
 In the example below, we only have one cue (and therefore only one dictionary in the Annotations list).
 The cue has the paragraph id "18" and the token id "3". To retrieve the word form for this cue, you can extract the token with id 3 (i.e., the fourth token in the list) from paragraph 18, which is "lehnen". This is a particle verb and the verb prefix is encoded as 'PTK' (paragraph 18, token id 8 => "ab").
-In addition to the cue word(s) and its particle, the Annotations include the roles for this cue (i.e., Source, Message, Addresse, Topic, Medium and Evidence. For more information, see the annotation guidelines (guidelines/Guidelines_SpeakerAttribution_in_Parliamentary_Debates-SpkAtt-2023_Task1.pdf).
+In addition to the cue word(s) and its particle, the Annotations include the roles for this cue (i.e., Source, Message, Addresse, Topic, Medium and Evidence. For more information, see the annotation guidelines (folder: guidelines).
 
 ![alt text](img/json-format-task1.png "Data format task 1")
 
