@@ -23,9 +23,8 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
 
 The data is available in json format (see figure below) where each document (speech) is a json file.
 
-The unit of analysis is a paragraph. Sometimes, the splits are not correct and some sentences have 
-been split up so that the first part of the sentence is included in one paragraph and the second part 
-in another.
+The unit of analysis is a paragraph. Sometimes, the splits are not correct and some sentences have been split up 
+so that the first part of the sentence is included in one paragraph and the second part in another.
 
 The json dictionary keys are the paragraph ids.
 For each paragraph, we include the following lists:
