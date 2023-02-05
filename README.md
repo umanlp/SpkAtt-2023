@@ -34,6 +34,6 @@ For each paragraph, we include the following lists:</p>
 
 
 <!--![alt text](img/dataformat_task1.pdf "Data format task 1")-->
-See this <a href="./pdfs/dataformat_task1.pdf" class="image fit">pdf</a> for a description of the data format for Task 1.
-
+See this <a href="./doc/dataformat_task1.pdf">pdf</a> for a description of the data format for Task 1.
+A detailed description of our annotation schema can be found <a href="./doc/Guidelines_SpeakerAttribution_in_Parliamentary_Debates-SpkAtt-2023_Task1.pdf">here</a>
 
