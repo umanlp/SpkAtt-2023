@@ -33,7 +33,18 @@ For each paragraph, we include the following lists:</p>
   * Annotations: a list of dictionaries, where each item in the list is a dictionary with cue words <br/> and roles for this cue.
 
 
-![alt text](img/data-format-task1.ps "Data format task 1")
+![alt text](img/data-format-task1-0.png "Data format task 1-1")
+
+![alt text](img/data-format-task1-1.png "Data format task 1-2")
+
+![alt text](img/data-format-task1-2.png "Data format task 1-3")
+
+![alt text](img/data-format-task1-3.png "Data format task 1-4")
+
+![alt text](img/data-format-task1-4.png "Data format task 1-5")
+
+![alt text](img/data-format-task1-5.png "Data format task 1-6")
+
 
 <!--<p>In the example above, we only have one cue (and therefore only one dictionary in the Annotations list).</p>
 
