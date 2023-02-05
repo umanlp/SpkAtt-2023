@@ -33,7 +33,9 @@ For each paragraph, we include the following lists:</p>
   * Annotations: a list of dictionaries, where each item in the list is a dictionary with cue words <br/> and roles for this cue.
 
 
-![alt text](img/dataformat_task1.pdf "Data format task 1")
+<!--![alt text](img/dataformat_task1.pdf "Data format task 1")-->
+
+<object data="./img/dataformat_task1.pdf" width="400" height="700" type='application/pdf'></object>
 
 
 <!--<p>In the example above, we only have one cue (and therefore only one dictionary in the Annotations list).</p>
