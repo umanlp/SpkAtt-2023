@@ -33,26 +33,7 @@ For each paragraph, we include the following lists:</p>
   * Annotations: a list of dictionaries, where each item in the list is a dictionary with cue words <br/> and roles for this cue.
 
 
-![alt text](img/dataformat_task1-0.png "Data format task 1-1")
+<!--![alt text](img/dataformat_task1.pdf "Data format task 1")-->
+See this <a href="./img/dataformat_task1.pdf" class="image fit">pdf</a> for a description of the data format for Task 1.
 
-![alt text](img/dataformat_task1-1.png "Data format task 1-2")
-
-![alt text](img/dataformat_task1-2.png "Data format task 1-3")
-
-![alt text](img/dataformat_task1-3.png "Data format task 1-4")
-
-![alt text](img/dataformat_task1-4.png "Data format task 1-5")
-
-![alt text](img/dataformat_task1-5.png "Data format task 1-6")
-
-
-<!--<p>In the example above, we only have one cue (and therefore only one dictionary in the Annotations list).</p>
-
-<p>The cue has the paragraph id "18" and the token id "3". To retrieve the word form for this cue, you can <br/>
-extract the token with id 3 (i.e., the fourth token in the list) from paragraph 18, which is "lehnen". <br/>
-This is a particle verb and the verb prefix is encoded as 'PTK' (paragraph 18, token id 8 => "ab"). <br/>
-In addition to the cue word(s) and its particle, the Annotations include the roles for this cue (i.e., <br/>
-Source, Message, Addresse, Topic, Medium and Evidence. For more information, see the annotation  <br/>
-guidelines (folder: guidelines).</p>
--->
 
