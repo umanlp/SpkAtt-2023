@@ -21,10 +21,9 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
 
 ## Data format:
 
-<p>The data is available in json format (see figure below) where each document (speech) is a json file.</p>
+<p>The data is available in json format where each document (speech) is a json file.</p>
 
-<p>The unit of analysis is a paragraph. Sometimes, the splits are not correct and some sentences have <br/> 
-been split up so that the first part of the sentence is included in one paragraph and the second part <br/> in another.</p>
+<p>The unit of analysis is a paragraph. A paragraph can include one or more sentences.</p>
 
 <p>The json dictionary keys are the paragraph ids.
 For each paragraph, we include the following lists:</p>
@@ -34,6 +33,6 @@ For each paragraph, we include the following lists:</p>
 
 
 <!--![alt text](img/dataformat_task1.pdf "Data format task 1")-->
-See this <a href="./doc/dataformat_task1.pdf">pdf</a> for a description of the data format for Task 1.
-A detailed description of our annotation schema can be found <a href="./doc/Guidelines_SpeakerAttribution_in_Parliamentary_Debates-SpkAtt-2023_Task1.pdf">here</a>
+For a more detailed description of the data format (Task 1) and some examples, see this <a href="./doc/dataformat_task1.pdf">pdf</a>.
+For more information on our annotation schem, please refer to the <a href="./doc/Guidelines_SpeakerAttribution_in_Parliamentary_Debates-SpkAtt-2023_Task1.pdf">annotation guidelines</a>.
 
