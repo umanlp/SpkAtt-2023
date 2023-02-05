@@ -128,13 +128,6 @@
       ],
       "Annotations": [
          {
-            "Addr": [],
-            "Evidence": [],
-            "Medium": [],
-            "Message": [],
-            "PTK": [],
-            "Source": [],
-            "Topic": [],
             "Cue": [
                "1:102"
             ]
@@ -280,9 +273,6 @@
       ],
       "Annotations": [
          {
-            "Addr": [],
-            "Evidence": [],
-            "Medium": [],
             "Message": [
                "3:10",
                "3:11",
@@ -298,19 +288,14 @@
                "3:21",
                "3:22"
             ],
-            "PTK": [],
             "Source": [
                "3:5"
             ],
-            "Topic": [],
             "Cue": [
                "3:8"
             ]
          },
          {
-            "Addr": [],
-            "Evidence": [],
-            "Medium": [],
             "Message": [
                "3:14",
                "3:15",
@@ -322,19 +307,15 @@
                "3:21",
                "3:22"
             ],
-            "PTK": [],
             "Source": [
                "3:12"
             ],
-            "Topic": [],
             "Cue": [
                "3:13",
                "3:11"
             ]
          },
          {
-            "Addr": [],
-            "Evidence": [],
             "Medium": [
                "3:16",
                "3:17"
@@ -343,17 +324,11 @@
                "3:21",
                "3:22"
             ],
-            "PTK": [],
-            "Source": [],
-            "Topic": [],
             "Cue": [
                "3:19"
             ]
          },
          {
-            "Addr": [],
-            "Evidence": [],
-            "Medium": [],
             "Message": [
                "3:45",
                "3:46",
@@ -363,11 +338,9 @@
                "3:50",
                "3:51"
             ],
-            "PTK": [],
             "Source": [
                "3:38"
             ],
-            "Topic": [],
             "Cue": [
                "3:52"
             ]
@@ -617,29 +590,19 @@
       ],
       "Annotations": [
          {
-            "Addr": [],
-            "Evidence": [],
-            "Medium": [],
             "Message": [
                "7:64",
                "7:65"
             ],
-            "PTK": [],
             "Source": [
                "7:66",
                "7:67"
             ],
-            "Topic": [],
             "Cue": [
                "7:70"
             ]
          },
          {
-            "Addr": [],
-            "Evidence": [],
-            "Medium": [],
-            "Message": [],
-            "PTK": [],
             "Source": [
                "7:74",
                "7:75"
@@ -898,13 +861,6 @@
       ],
       "Annotations": [
          {
-            "Addr": [],
-            "Evidence": [],
-            "Medium": [],
-            "Message": [],
-            "PTK": [],
-            "Source": [],
-            "Topic": [],
             "Cue": [
                "15:8"
             ]
