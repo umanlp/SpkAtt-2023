@@ -1,6 +1,6 @@
 # SpkAtt-2023
 
-This repository contains the data and supplementary materials for the 
+This repository contains the data and supplementary materials for Task 1 of the 
 
 ## 2023 Shared Task on Speaker Attribution (SpkAtt-2023),
 
@@ -19,7 +19,7 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
  * September 18-22, 2023 - Workshop at KONVENS 2023
 
 
-## Data format:
+## Task 1 data format:
 
 <p>The data is available in json format where each document (speech) is a json file.</p>
 
