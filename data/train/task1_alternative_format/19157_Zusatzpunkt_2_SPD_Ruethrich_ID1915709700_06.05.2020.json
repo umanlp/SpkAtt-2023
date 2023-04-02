@@ -1,0 +1,948 @@
+{
+   "1": {
+      "Tokens": [
+         "Sehr",
+         "geehrter",
+         "Herr",
+         "Präsident",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "Liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "3": {
+      "Tokens": [
+         "Kitas",
+         "sind",
+         "für",
+         "Kinder",
+         "da",
+         "."
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "Sie",
+         "lernen",
+         "dort",
+         ",",
+         "sie",
+         "treffen",
+         "ihre",
+         "Freunde",
+         ",",
+         "sie",
+         "erleben",
+         "Gemeinsamkeit",
+         "über",
+         "ihre",
+         "Familie",
+         "hinaus",
+         "."
+      ],
+      "Annotations": []
+   },
+   "5": {
+      "Tokens": [
+         "Bildung",
+         ",",
+         "Förderung",
+         ",",
+         "Schutz",
+         "und",
+         "vor",
+         "allem",
+         "Teilhabe",
+         "sind",
+         "Kinderrechte",
+         ",",
+         "und",
+         "zwar",
+         "für",
+         "jedes",
+         "Kind",
+         "."
+      ],
+      "Annotations": []
+   },
+   "6": {
+      "Tokens": [
+         "Gerade",
+         "wir",
+         "Sozis",
+         "kämpfen",
+         "seit",
+         "Jahr",
+         "und",
+         "Tag",
+         "gemeinsam",
+         "mit",
+         "vielen",
+         "anderen",
+         "für",
+         "dieses",
+         "umfassende",
+         "Verständnis",
+         "von",
+         "Kita",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "6:16",
+               "6:17"
+            ],
+            "Cue": [
+               "6:15"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "7": {
+      "Tokens": [
+         "Um",
+         "diese",
+         "Rechte",
+         "einzuschränken",
+         ",",
+         "bedarf",
+         "es",
+         "also",
+         "einer",
+         "sehr",
+         "guten",
+         "Begründung",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "7:11"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "8": {
+      "Tokens": [
+         "Um",
+         "die",
+         "Infektion",
+         "mit",
+         "dem",
+         "Coronavirus",
+         "einzudämmen",
+         ",",
+         "ist",
+         "die",
+         "Schließung",
+         "der",
+         "Kitas",
+         "wichtig",
+         "gewesen",
+         ",",
+         "und",
+         "sie",
+         "war",
+         "erfolgreich",
+         "."
+      ],
+      "Annotations": []
+   },
+   "9": {
+      "Tokens": [
+         "Dafür",
+         "können",
+         "wir",
+         "sehr",
+         "dankbar",
+         "sein",
+         ",",
+         "aber",
+         "ohne",
+         "jetzt",
+         "leichtsinnig",
+         "zu",
+         "werden",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "9:0"
+            ],
+            "Source": [
+               "9:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "9:5",
+               "9:4"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "10": {
+      "Tokens": [
+         "Leichtsinnig",
+         "wäre",
+         "es",
+         ",",
+         "jetzt",
+         "einfach",
+         "wieder",
+         "alles",
+         "zu",
+         "öffnen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "11": {
+      "Tokens": [
+         "Es",
+         "wäre",
+         "aber",
+         "auch",
+         "fahrlässig",
+         ",",
+         "einer",
+         "ganzen",
+         "Kindergeneration",
+         "ihre",
+         "Entwicklungsmöglichkeiten",
+         "auf",
+         "unabsehbare",
+         "Zeit",
+         "zu",
+         "nehmen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "12": {
+      "Tokens": [
+         "Spielen",
+         ",",
+         "Lernen",
+         ",",
+         "Streiten",
+         ",",
+         "Lachen",
+         "gehören",
+         "zur",
+         "normalen",
+         "Entwicklung",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "12:4"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "13": {
+      "Tokens": [
+         "Diese",
+         "zu",
+         "stören",
+         ",",
+         "kann",
+         "auch",
+         "gesundheitliche",
+         ",",
+         "psychische",
+         "und",
+         "soziale",
+         "Folgen",
+         "haben",
+         "."
+      ],
+      "Annotations": []
+   },
+   "14": {
+      "Tokens": [
+         "Das",
+         "gilt",
+         "für",
+         "alle",
+         "Altersklassen",
+         ",",
+         "also",
+         "in",
+         "Kitas",
+         ",",
+         "Schulen",
+         ",",
+         "Hort",
+         "und",
+         "Tagespflege",
+         ",",
+         "aber",
+         "auch",
+         "für",
+         "die",
+         "außerschulische",
+         "Kinder-",
+         "und",
+         "Jugendarbeit",
+         "."
+      ],
+      "Annotations": []
+   },
+   "15": {
+      "Tokens": [
+         "Liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         ",",
+         "Kinder",
+         "sind",
+         "nicht",
+         "nur",
+         "unsere",
+         "Zukunft",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "16": {
+      "Tokens": [
+         "sie",
+         "sind",
+         "heute",
+         "schon",
+         "da",
+         "."
+      ],
+      "Annotations": []
+   },
+   "17": {
+      "Tokens": [
+         "Die",
+         "Coronapandemie",
+         "darf",
+         "nicht",
+         "dazu",
+         "führen",
+         ",",
+         "dass",
+         "wir",
+         "eine",
+         "ganze",
+         "Generation",
+         "zum",
+         "Verstummen",
+         "bringen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "18": {
+      "Tokens": [
+         "Die",
+         "Kinder",
+         "sind",
+         "die",
+         "Betroffenen",
+         "der",
+         "Kitaschließungen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "19": {
+      "Tokens": [
+         "Infolgedessen",
+         "leisten",
+         "die",
+         "Familien",
+         "in",
+         "unserem",
+         "Land",
+         "gerade",
+         "Herausragendes",
+         "."
+      ],
+      "Annotations": []
+   },
+   "20": {
+      "Tokens": [
+         "Danke",
+         "dafür",
+         "und",
+         "höchsten",
+         "Respekt",
+         "!"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "20:1"
+            ],
+            "Cue": [
+               "20:0"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "21": {
+      "Tokens": [
+         "Aber",
+         "Kinder",
+         "brauchen",
+         "Kinder",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "22": {
+      "Tokens": [
+         "sie",
+         "brauchen",
+         "Zeit",
+         "miteinander",
+         ",",
+         "um",
+         "sich",
+         "zu",
+         "eigenständigen",
+         "Persönlichkeiten",
+         "zu",
+         "entwickeln",
+         "."
+      ],
+      "Annotations": []
+   },
+   "23": {
+      "Tokens": [
+         "Dafür",
+         "brauchen",
+         "sie",
+         "klare",
+         "Perspektiven",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "23:4"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "24": {
+      "Tokens": [
+         "Wenn",
+         "wir",
+         "davon",
+         "ausgehen",
+         ",",
+         "dass",
+         "Bildung",
+         "in",
+         "der",
+         "Kita",
+         "beginnt",
+         ",",
+         "dann",
+         "ist",
+         "es",
+         "auf",
+         "Dauer",
+         "nicht",
+         "akzeptabel",
+         ",",
+         "den",
+         "Kitabesuch",
+         "allein",
+         "von",
+         "der",
+         "beruflichen",
+         "oder",
+         "persönlichen",
+         "Situation",
+         "der",
+         "Eltern",
+         "abhängig",
+         "zu",
+         "machen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "24:2",
+               "24:5",
+               "24:6",
+               "24:7",
+               "24:8",
+               "24:9",
+               "24:10"
+            ],
+            "Source": [
+               "24:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "24:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "25": {
+      "Tokens": [
+         "Um",
+         "allen",
+         "Kindern",
+         ",",
+         "soweit",
+         "es",
+         "geht",
+         ",",
+         "gerecht",
+         "zu",
+         "werden",
+         "-",
+         "und",
+         "gleichzeitig",
+         "immer",
+         "mit",
+         "Blick",
+         "auf",
+         "die",
+         "nötige",
+         "Eindämmung",
+         "der",
+         "Pandemie",
+         "-",
+         ",",
+         "ist",
+         "für",
+         "mich",
+         "klar",
+         ",",
+         "dass",
+         "alle",
+         "Kinder",
+         "vor",
+         "der",
+         "Sommerferienzeit",
+         "ihre",
+         "Kitas",
+         ",",
+         "Schulen",
+         ",",
+         "den",
+         "Hort",
+         "zeitweise",
+         ",",
+         "tage-",
+         "oder",
+         "wochenweise",
+         ",",
+         "in",
+         "kleinen",
+         "festen",
+         "Gruppen",
+         "wieder",
+         "besuchen",
+         "können",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "25:28",
+               "25:29",
+               "25:30",
+               "25:31",
+               "25:32",
+               "25:33",
+               "25:34",
+               "25:35",
+               "25:36",
+               "25:37",
+               "25:38",
+               "25:39",
+               "25:40",
+               "25:41",
+               "25:42",
+               "25:43",
+               "25:44",
+               "25:45",
+               "25:46",
+               "25:47",
+               "25:48",
+               "25:49",
+               "25:50",
+               "25:51",
+               "25:52",
+               "25:53",
+               "25:54",
+               "25:55"
+            ],
+            "Source": [
+               "25:25",
+               "25:26",
+               "25:27"
+            ],
+            "Topic": [],
+            "Cue": [
+               "25:26"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "26": {
+      "Tokens": [
+         "Die",
+         "Erzieherinnen",
+         "und",
+         "Erzieher",
+         "und",
+         "die",
+         "Lehrerinnen",
+         "und",
+         "Lehrer",
+         "in",
+         "den",
+         "Einrichtungen",
+         "und",
+         "bei",
+         "den",
+         "Trägern",
+         "entwickeln",
+         "dafür",
+         "individuell",
+         "passende",
+         "Konzepte",
+         "."
+      ],
+      "Annotations": []
+   },
+   "27": {
+      "Tokens": [
+         "Die",
+         "Öffnung",
+         "geht",
+         "also",
+         "in",
+         "Schritten",
+         "voran",
+         ":",
+         "von",
+         "einer",
+         "Ausweitung",
+         "der",
+         "Notbetreuung",
+         "über",
+         "einen",
+         "eingeschränkten",
+         "Regelbetrieb",
+         "hin",
+         "zu",
+         "dem",
+         "langfristig",
+         "angestrebten",
+         "normalen",
+         "Betrieb",
+         ",",
+         "den",
+         "wir",
+         "uns",
+         "alle",
+         "so",
+         "sehr",
+         "wünschen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "27:22",
+               "27:23"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "27:21"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "27:25"
+            ],
+            "Source": [
+               "27:26"
+            ],
+            "Topic": [],
+            "Cue": [
+               "27:31"
+            ],
+            "PTC": [
+               "27:27"
+            ]
+         }
+      ]
+   },
+   "28": {
+      "Tokens": [
+         "Vor",
+         "Ort",
+         "sind",
+         "die",
+         "Länder",
+         "und",
+         "Kommunen",
+         "gefragt",
+         ",",
+         "diese",
+         "Schritte",
+         "zu",
+         "gehen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "29": {
+      "Tokens": [
+         "Genau",
+         "das",
+         "ist",
+         "möglich",
+         "durch",
+         "den",
+         "Vierstufenplan",
+         ",",
+         "den",
+         "die",
+         "Kultusministerinnen",
+         "und",
+         "-minister",
+         "zusammen",
+         "mit",
+         "unserer",
+         "Familienministerin",
+         "Franziska",
+         "Giffey",
+         "letzte",
+         "Woche",
+         "vorgelegt",
+         "haben",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "29:8"
+            ],
+            "Source": [
+               "29:9",
+               "29:10",
+               "29:11",
+               "29:12",
+               "29:13",
+               "29:14",
+               "29:15",
+               "29:16",
+               "29:17",
+               "29:18"
+            ],
+            "Topic": [],
+            "Cue": [
+               "29:21"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "30": {
+      "Tokens": [
+         "Er",
+         "gibt",
+         "die",
+         "dringend",
+         "nötige",
+         "Orientierung",
+         "."
+      ],
+      "Annotations": []
+   },
+   "31": {
+      "Tokens": [
+         "Liebe",
+         "antragstellende",
+         "FDP",
+         ",",
+         "Ihr",
+         "Antrag",
+         "in",
+         "allen",
+         "Ehren",
+         ",",
+         "aber",
+         "er",
+         "ist",
+         "überholt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "31:4"
+            ],
+            "Topic": [],
+            "Cue": [
+               "31:5"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "32": {
+      "Tokens": [
+         "Sie",
+         "müssten",
+         "einfach",
+         "fixer",
+         "sein",
+         "als",
+         "die",
+         "Regierung",
+         "."
+      ],
+      "Annotations": []
+   },
+   "33": {
+      "Tokens": [
+         "Vielen",
+         "Dank",
+         ",",
+         "Frau",
+         "Kollegin",
+         "Rüthrich",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "33:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "34": {
+      "Tokens": [
+         "-",
+         "Für",
+         "die",
+         "Fraktion",
+         "Die",
+         "Linke",
+         "hat",
+         "als",
+         "Nächstes",
+         "das",
+         "Wort",
+         "die",
+         "Kollegin",
+         "Katrin",
+         "Werner",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "34:10"
+            ],
+            "PTC": []
+         }
+      ]
+   }
+}

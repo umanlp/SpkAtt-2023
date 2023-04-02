@@ -1,0 +1,1578 @@
+{
+   "1": {
+      "Tokens": [
+         "Sehr",
+         "geehrter",
+         "Herr",
+         "Präsident",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "Geehrte",
+         "Abgeordnete",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "3": {
+      "Tokens": [
+         "Bei",
+         "der",
+         "Grenzöffnung",
+         "wurde",
+         "sehenden",
+         "Auges",
+         "voll",
+         "auf",
+         "Risiko",
+         "gefahren",
+         ","
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "der",
+         "Verlust",
+         "der",
+         "Sicherheit",
+         "einfach",
+         "einkalkuliert",
+         "."
+      ],
+      "Annotations": []
+   },
+   "5": {
+      "Tokens": [
+         "Der",
+         "Fall",
+         "Susanna",
+         "zeigt",
+         "beispielhaft",
+         "den",
+         "Maximalschaden",
+         "der",
+         "Durchwinkekultur",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [
+               "5:0",
+               "5:1",
+               "5:2"
+            ],
+            "Medium": [],
+            "Message": [
+               "5:5",
+               "5:6",
+               "5:7",
+               "5:8"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "5:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "6": {
+      "Tokens": [
+         "Ein",
+         "Hohn",
+         ",",
+         "wenn",
+         "Frau",
+         "Merkel",
+         "uns",
+         "erzählt",
+         ",",
+         "der",
+         "Mord",
+         "sei",
+         "eine",
+         "Aufforderung",
+         "an",
+         "uns",
+         "alle",
+         ",",
+         "die",
+         "Integration",
+         "sehr",
+         "ernst",
+         "zu",
+         "nehmen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "6:6"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "6:9",
+               "6:10",
+               "6:11",
+               "6:12",
+               "6:13",
+               "6:14",
+               "6:15",
+               "6:16",
+               "6:17",
+               "6:18",
+               "6:19",
+               "6:20",
+               "6:21",
+               "6:22",
+               "6:23"
+            ],
+            "Source": [
+               "6:4",
+               "6:5"
+            ],
+            "Topic": [],
+            "Cue": [
+               "6:7"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [
+               "6:14",
+               "6:15",
+               "6:16"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "6:18",
+               "6:19",
+               "6:20",
+               "6:21",
+               "6:22",
+               "6:23"
+            ],
+            "Source": [],
+            "Topic": [
+               "6:9",
+               "6:10"
+            ],
+            "Cue": [
+               "6:13"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "7": {
+      "Tokens": [
+         "Der",
+         "Mörder",
+         "war",
+         "als",
+         "abgelehnter",
+         "Asylbewerber",
+         "ohnehin",
+         "kein",
+         "Fall",
+         "für",
+         "Integration",
+         ",",
+         "sondern",
+         "abzuschieben",
+         "."
+      ],
+      "Annotations": []
+   },
+   "8": {
+      "Tokens": [
+         "Aber",
+         "selbst",
+         "ein",
+         "Mord",
+         "ist",
+         "nur",
+         "Anlass",
+         "für",
+         "sie",
+         ",",
+         "ihre",
+         "abwegigen",
+         "Dogmen",
+         "zu",
+         "propagieren",
+         "."
+      ],
+      "Annotations": []
+   },
+   "9": {
+      "Tokens": [
+         "Sie",
+         "lässt",
+         "unberechtigte",
+         "Personen",
+         "unerkannter",
+         "Identität",
+         "rein",
+         "-"
+      ],
+      "Annotations": []
+   },
+   "10": {
+      "Tokens": [
+         "Vergewaltiger",
+         ",",
+         "Mörder",
+         ",",
+         "Terroristen",
+         "inklusive",
+         "-",
+         ",",
+         "und",
+         "wir",
+         "sollen",
+         "uns",
+         "verantwortlich",
+         "fühlen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "11": {
+      "Tokens": [
+         "Nicht",
+         "wir",
+         "haben",
+         "zu",
+         "handeln",
+         ",",
+         "die",
+         "Verursacherin",
+         "muss",
+         "endlich",
+         "Verantwortung",
+         "übernehmen",
+         "und",
+         "zurücktreten",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "12": {
+      "Tokens": [
+         "Ein",
+         "Staat",
+         ",",
+         "der",
+         "seine",
+         "Bürger",
+         "nicht",
+         "schützt",
+         ",",
+         "aber",
+         "sie",
+         "zwingt",
+         ",",
+         "Betrüger",
+         "zu",
+         "alimentieren",
+         "."
+      ],
+      "Annotations": []
+   },
+   "13": {
+      "Tokens": [
+         "Wer",
+         "illegal",
+         "die",
+         "Grenze",
+         "übertritt",
+         ",",
+         "ist",
+         "Betrüger",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "14": {
+      "Tokens": [
+         "wer",
+         "ohne",
+         "Papiere",
+         "kommt",
+         ",",
+         "will",
+         "das",
+         "deutsche",
+         "Volk",
+         "betrügen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "15": {
+      "Tokens": [
+         "Dieser",
+         "Betrug",
+         "ist",
+         "Raub",
+         ",",
+         "ist",
+         "Gewalt",
+         ",",
+         "ist",
+         "Kriminalität",
+         "."
+      ],
+      "Annotations": []
+   },
+   "16": {
+      "Tokens": [
+         "Und",
+         "wer",
+         "Leute",
+         "ohne",
+         "Papiere",
+         "reinlässt",
+         ",",
+         "leistet",
+         "Beihilfe",
+         ",",
+         "ist",
+         "Mittäter",
+         "."
+      ],
+      "Annotations": []
+   },
+   "17": {
+      "Tokens": [
+         "Jeder",
+         "darf",
+         "sich",
+         "doch",
+         "jetzt",
+         "fragen",
+         ":",
+         "Merkels",
+         "„",
+         "Ist",
+         "mir",
+         "egal",
+         ",",
+         "ob",
+         "ich",
+         "schuld",
+         "an",
+         "den",
+         "Migranten",
+         "bin",
+         ";"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "17:7",
+               "17:8",
+               "17:9",
+               "17:10",
+               "17:11",
+               "17:12",
+               "17:13",
+               "17:14",
+               "17:15",
+               "17:16",
+               "17:17",
+               "17:18",
+               "17:19",
+               "17:20",
+               "18:0",
+               "18:1",
+               "18:2",
+               "18:3",
+               "18:4",
+               "18:5",
+               "18:6",
+               "18:7",
+               "18:8",
+               "18:9",
+               "18:10",
+               "19:0",
+               "19:1",
+               "19:2",
+               "19:3",
+               "19:4",
+               "19:5",
+               "19:6",
+               "19:7",
+               "19:8",
+               "19:9",
+               "19:10",
+               "19:11",
+               "19:12",
+               "19:13",
+               "19:14",
+               "19:15",
+               "19:16",
+               "19:17",
+               "19:18",
+               "19:19",
+               "19:20"
+            ],
+            "Source": [
+               "17:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "17:5"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "18": {
+      "Tokens": [
+         "jetzt",
+         "sind",
+         "sie",
+         "halt",
+         "da",
+         "“",
+         ",",
+         "meint",
+         "das",
+         "auch",
+         ":"
+      ],
+      "Annotations": []
+   },
+   "19": {
+      "Tokens": [
+         "„",
+         "Ist",
+         "mir",
+         "egal",
+         ",",
+         "ob",
+         "ich",
+         "schuld",
+         "am",
+         "Schicksal",
+         "der",
+         "Mädchen",
+         "bin",
+         ",",
+         "jetzt",
+         "sind",
+         "sie",
+         "halt",
+         "tot",
+         "“",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "20": {
+      "Tokens": [
+         "Wann",
+         "ist",
+         "endlich",
+         "Schluss",
+         "mit",
+         "diesem",
+         "Wahnsinn",
+         ",",
+         "mit",
+         "dieser",
+         "allzu",
+         "oft",
+         "tödlichen",
+         "Willkommenskultur",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "21": {
+      "Tokens": [
+         "Da",
+         "wird",
+         "ein",
+         "Millionenheer",
+         "archaisch",
+         "geprägter",
+         "junger",
+         "Männer",
+         "ins",
+         "Land",
+         "gelassen",
+         ",",
+         "denen",
+         "Frauen",
+         "als",
+         "Schlampen",
+         "und",
+         "Übergriffsobjekte",
+         "gelten",
+         ",",
+         "wenn",
+         "sie",
+         "sich",
+         "nicht",
+         "der",
+         "islamischen",
+         "Unterdrückungskultur",
+         "anbequemen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "22": {
+      "Tokens": [
+         "Gelernte",
+         "Frauenverachtung",
+         "aber",
+         "ist",
+         "programmierter",
+         "Frauenmord",
+         "."
+      ],
+      "Annotations": []
+   },
+   "23": {
+      "Tokens": [
+         "Beim",
+         "BAMF",
+         "braucht",
+         "es",
+         "nicht",
+         "mehr",
+         "Bearbeiter",
+         ",",
+         "sondern",
+         "weniger",
+         "Scheinasylanten",
+         "."
+      ],
+      "Annotations": []
+   },
+   "24": {
+      "Tokens": [
+         "Seit",
+         "2015",
+         "ging",
+         "es",
+         "doch",
+         "nur",
+         "noch",
+         "um",
+         "den",
+         "Anschein",
+         "von",
+         "Bearbeitung",
+         "."
+      ],
+      "Annotations": []
+   },
+   "25": {
+      "Tokens": [
+         "Herr",
+         "Weise",
+         "hatte",
+         "Potemkinsche",
+         "Dörfer",
+         "zu",
+         "errichten",
+         ",",
+         "die",
+         "Bürger",
+         "zu",
+         "täuschen",
+         "durch",
+         "angeblich",
+         "bewältigte",
+         "Fallzahlen",
+         ",",
+         "hinter",
+         "denen",
+         "aber",
+         "gar",
+         "keine",
+         "seriöse",
+         "Bearbeitung",
+         "stand",
+         "."
+      ],
+      "Annotations": []
+   },
+   "26": {
+      "Tokens": [
+         "Erscheinen",
+         "des",
+         "Antragstellers",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "27": {
+      "Tokens": [
+         "Braucht",
+         "es",
+         "nicht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "28": {
+      "Tokens": [
+         "Das",
+         "Gewünschte",
+         "ankreuzen",
+         "geht",
+         "schneller",
+         "."
+      ],
+      "Annotations": []
+   },
+   "29": {
+      "Tokens": [
+         "Identitätsnachweis",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "30": {
+      "Tokens": [
+         "Braucht",
+         "es",
+         "nicht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "31": {
+      "Tokens": [
+         "Noch",
+         "schneller",
+         "."
+      ],
+      "Annotations": []
+   },
+   "32": {
+      "Tokens": [
+         "Papiere",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "33": {
+      "Tokens": [
+         "Braucht",
+         "es",
+         "nicht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "34": {
+      "Tokens": [
+         "Vereidigte",
+         "Dolmetscher",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "35": {
+      "Tokens": [
+         "Braucht",
+         "es",
+         "nicht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "36": {
+      "Tokens": [
+         "Ausgebildete",
+         "Entscheider",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "37": {
+      "Tokens": [
+         "Braucht",
+         "es",
+         "auch",
+         "nicht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "38": {
+      "Tokens": [
+         "Alles",
+         "ganz",
+         "nach",
+         "Merkels",
+         "Motto",
+         "„",
+         "Aus",
+         "Illegalen",
+         "Legale",
+         "machen",
+         "“",
+         "."
+      ],
+      "Annotations": []
+   },
+   "39": {
+      "Tokens": [
+         "Ein",
+         "Amt",
+         "nicht",
+         "für",
+         "Geldwäsche",
+         "-",
+         "nein",
+         ",",
+         "für",
+         "Rechtswäsche",
+         "."
+      ],
+      "Annotations": []
+   },
+   "40": {
+      "Tokens": [
+         "Hauptsache",
+         ",",
+         "der",
+         "Wahlkampf",
+         "2017",
+         "würde",
+         "ungestört",
+         "laufen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "41": {
+      "Tokens": [
+         "Dem",
+         "wurden",
+         "Sorgfalt",
+         "und",
+         "Sicherheit",
+         "geopfert",
+         "."
+      ],
+      "Annotations": []
+   },
+   "42": {
+      "Tokens": [
+         "Heute",
+         "müssen",
+         "wir",
+         "sagen",
+         ":",
+         "auch",
+         "Menschenleben",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "42:5",
+               "42:6"
+            ],
+            "Source": [
+               "42:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "42:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "43": {
+      "Tokens": [
+         "Merkel",
+         "gibt",
+         "zu",
+         ":",
+         "Das",
+         "Kanzleramt",
+         ",",
+         "sie",
+         "selbst",
+         "ist",
+         "verantwortlich",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "43:4",
+               "43:5",
+               "43:6",
+               "43:7",
+               "43:8",
+               "43:9",
+               "43:10"
+            ],
+            "Source": [
+               "43:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "43:1"
+            ],
+            "PTC": [
+               "43:2"
+            ]
+         }
+      ]
+   },
+   "44": {
+      "Tokens": [
+         "Ein",
+         "allzu",
+         "billiges",
+         "Wort",
+         ",",
+         "wenn",
+         "man",
+         "dann",
+         "den",
+         "Stuhl",
+         "nicht",
+         "räumt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "44:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "45": {
+      "Tokens": [
+         "Wenn",
+         "die",
+         "Koalition",
+         "uns",
+         "jährlich",
+         "200",
+         "000",
+         "Migranten",
+         "aufzwingen",
+         "will",
+         ",",
+         "braucht",
+         "es",
+         "200",
+         "AnKER-Zentren",
+         "."
+      ],
+      "Annotations": []
+   },
+   "46": {
+      "Tokens": [
+         "Der",
+         "Minister",
+         "hat",
+         "Schwierigkeiten",
+         ",",
+         "sechs",
+         "Pilotzentren",
+         "zu",
+         "schaffen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "47": {
+      "Tokens": [
+         "Da",
+         "geht",
+         "nichts",
+         "schneller",
+         "."
+      ],
+      "Annotations": []
+   },
+   "48": {
+      "Tokens": [
+         "Örtliche",
+         "Konzentration",
+         "schafft",
+         "nicht",
+         "mehr",
+         "Verwaltungsrichter",
+         "."
+      ],
+      "Annotations": []
+   },
+   "49": {
+      "Tokens": [
+         "Da",
+         "wird",
+         "nicht",
+         "besser",
+         "abgeschoben",
+         "."
+      ],
+      "Annotations": []
+   },
+   "50": {
+      "Tokens": [
+         "Ohne",
+         "erzwungene",
+         "Residenzpflicht",
+         "tauchen",
+         "die",
+         "einfach",
+         "ab",
+         "."
+      ],
+      "Annotations": []
+   },
+   "51": {
+      "Tokens": [
+         "Es",
+         "ist",
+         "nicht",
+         "der",
+         "Job",
+         "der",
+         "Bundespolizei",
+         "."
+      ],
+      "Annotations": []
+   },
+   "52": {
+      "Tokens": [
+         "Die",
+         "müssten",
+         "die",
+         "Grenze",
+         "kontrollieren",
+         "und",
+         "die",
+         "Leute",
+         "erst",
+         "gar",
+         "nicht",
+         "reinlassen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "53": {
+      "Tokens": [
+         "Im",
+         "September",
+         "2015",
+         "gab",
+         "es",
+         "natürlich",
+         "keine",
+         "humanitäre",
+         "Ausnahmesituation",
+         "."
+      ],
+      "Annotations": []
+   },
+   "54": {
+      "Tokens": [
+         "Die",
+         "Leute",
+         "waren",
+         "in",
+         "Ungarn",
+         "in",
+         "Sicherheit",
+         "und",
+         "lange",
+         "vorher",
+         "."
+      ],
+      "Annotations": []
+   },
+   "55": {
+      "Tokens": [
+         "Denen",
+         "ging",
+         "es",
+         "um",
+         "kalte",
+         "Vorteilsnahme",
+         "im",
+         "Staat",
+         "mit",
+         "den",
+         "besten",
+         "Sozialsystemen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "56": {
+      "Tokens": [
+         "Die",
+         "ganze",
+         "sogenannte",
+         "Willkommenskultur",
+         "ist",
+         "inhuman",
+         "."
+      ],
+      "Annotations": []
+   },
+   "57": {
+      "Tokens": [
+         "Mit",
+         "demselben",
+         "Geld",
+         "hilft",
+         "man",
+         "hundertmal",
+         "effektiver",
+         "vor",
+         "Ort",
+         ",",
+         "und",
+         "zwar",
+         "den",
+         "wirklich",
+         "Armen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "58": {
+      "Tokens": [
+         "Und",
+         "wo",
+         "Herr",
+         "Seehofer",
+         "nur",
+         "bereits",
+         "Registrierte",
+         "zurückweisen",
+         "will",
+         ",",
+         "also",
+         "nicht",
+         "mal",
+         "das",
+         "rechtlich",
+         "Gebotene",
+         "fordert",
+         ",",
+         "da",
+         "stellt",
+         "Merkel",
+         "sich",
+         "schon",
+         "quer",
+         "und",
+         "erzwingt",
+         "die",
+         "ewige",
+         "Fortsetzung",
+         "ihrer",
+         "sogenannten",
+         "Ausnahmeentscheidung",
+         "-",
+         "also",
+         "Dauerüberflutung",
+         "durch",
+         "Illegale",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "58:11",
+               "58:12",
+               "58:13",
+               "58:14",
+               "58:15"
+            ],
+            "Source": [
+               "58:2",
+               "58:3"
+            ],
+            "Topic": [],
+            "Cue": [
+               "58:16"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "59": {
+      "Tokens": [
+         "Herrn",
+         "Seehofers",
+         "Vorschlag",
+         "ist",
+         "aber",
+         "völlig",
+         "ungenügend",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "59:0",
+               "59:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "59:2"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "60": {
+      "Tokens": [
+         "Die",
+         "Betrüger",
+         "werden",
+         "sich",
+         "einfach",
+         "nicht",
+         "mehr",
+         "vor",
+         "Erreichen",
+         "Deutschlands",
+         "registrieren",
+         "lassen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "61": {
+      "Tokens": [
+         "Aber",
+         "Frau",
+         "Merkel",
+         "will",
+         "uns",
+         "sogar",
+         "erzählen",
+         ",",
+         "ihre",
+         "gänzlich",
+         "offene",
+         "Grenze",
+         "sei",
+         "vorrangiges",
+         "europäisches",
+         "Recht",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "61:4"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "61:8",
+               "61:9",
+               "61:10",
+               "61:11",
+               "61:12",
+               "61:13",
+               "61:14",
+               "61:15"
+            ],
+            "Source": [
+               "61:1",
+               "61:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "61:6"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "62": {
+      "Tokens": [
+         "Was",
+         "für",
+         "ein",
+         "Unsinn",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "63": {
+      "Tokens": [
+         "Dublin",
+         "III",
+         "ist",
+         "europäisches",
+         "Recht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "64": {
+      "Tokens": [
+         "Gerade",
+         "da",
+         "ist",
+         "der",
+         "Erstzutrittsstaat",
+         "zuständig",
+         "und",
+         "nicht",
+         "Deutschland",
+         "."
+      ],
+      "Annotations": []
+   },
+   "65": {
+      "Tokens": [
+         "Danach",
+         "müssten",
+         "sogar",
+         "alle",
+         "zurückgewiesen",
+         "werden",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "66": {
+      "Tokens": [
+         "denn",
+         "sie",
+         "kommen",
+         "über",
+         "sichere",
+         "Drittstaaten",
+         "aus",
+         "einem",
+         "anderen",
+         "Erstzutrittsland",
+         "."
+      ],
+      "Annotations": []
+   },
+   "67": {
+      "Tokens": [
+         "Dublin",
+         "anzuwenden",
+         ",",
+         "ist",
+         "kein",
+         "nationaler",
+         "Alleingang",
+         "."
+      ],
+      "Annotations": []
+   },
+   "68": {
+      "Tokens": [
+         "Nationaler",
+         "Alleingang",
+         "war",
+         "Merkels",
+         "Handstreich",
+         "im",
+         "September",
+         "2015."
+      ],
+      "Annotations": []
+   },
+   "69": {
+      "Tokens": [
+         "Meine",
+         "Damen",
+         "und",
+         "Herren",
+         ",",
+         "Zeit",
+         "für",
+         "den",
+         "Masterplan",
+         "zur",
+         "Zurückweisung",
+         "einer",
+         "illegal",
+         "agierenden",
+         "Kanzlerin",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "69:11",
+               "69:12",
+               "69:13",
+               "69:14"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "69:10"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "70": {
+      "Tokens": [
+         "Zwei",
+         "Drittel",
+         "der",
+         "Bürger",
+         "wollen",
+         "die",
+         "Grenzschließung",
+         "sofort",
+         ",",
+         "appellieren",
+         "an",
+         "Sie",
+         "als",
+         "ihre",
+         "Repräsentanten",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "70:10",
+               "70:11",
+               "70:12",
+               "70:13",
+               "70:14"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "70:0",
+               "70:1",
+               "70:2",
+               "70:3"
+            ],
+            "Topic": [],
+            "Cue": [
+               "70:9"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "71": {
+      "Tokens": [
+         "Werden",
+         "Sie",
+         "Ihrer",
+         "Verantwortung",
+         "für",
+         "das",
+         "Land",
+         "gerecht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "72": {
+      "Tokens": [
+         "Entfernen",
+         "Sie",
+         "diese",
+         "Frau",
+         "aus",
+         "dem",
+         "Amt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "73": {
+      "Tokens": [
+         "Wählen",
+         "Sie",
+         "sie",
+         "ab",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "74": {
+      "Tokens": [
+         "Sprengen",
+         "Sie",
+         "die",
+         "Fesseln",
+         "der",
+         "Parteidisziplin"
+      ],
+      "Annotations": []
+   },
+   "75": {
+      "Tokens": [
+         "und",
+         "den",
+         "Würgegriff",
+         "dieser",
+         "Politik",
+         "unendlichen",
+         "Schadens",
+         "."
+      ],
+      "Annotations": []
+   },
+   "76": {
+      "Tokens": [
+         "Schützen",
+         "Sie",
+         "das",
+         "Leben",
+         "der",
+         "Bürger",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "77": {
+      "Tokens": [
+         "Retten",
+         "Sie",
+         "den",
+         "Rechtsstaat",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "78": {
+      "Tokens": [
+         "Befreien",
+         "Sie",
+         "das",
+         "Land",
+         "von",
+         "dieser",
+         "Politik",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "79": {
+      "Tokens": [
+         "Liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         ",",
+         "als",
+         "Nächstes",
+         "spricht",
+         "zu",
+         "uns",
+         "ein",
+         "Mitglied",
+         "des",
+         "Bundesrates",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "79:8",
+               "79:9"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "79:10",
+               "79:11",
+               "79:12",
+               "79:13"
+            ],
+            "Topic": [],
+            "Cue": [
+               "79:7"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "80": {
+      "Tokens": [
+         "Ich",
+         "erteile",
+         "Herrn",
+         "Senator",
+         "Andreas",
+         "Geisel",
+         "das",
+         "Wort",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "80:7"
+            ],
+            "PTC": []
+         }
+      ]
+   }
+}

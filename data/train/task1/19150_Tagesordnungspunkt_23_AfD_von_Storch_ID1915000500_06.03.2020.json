@@ -1,0 +1,465 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "-",
+            "Ich",
+            "habe",
+            "eigentlich",
+            "nur",
+            "eine",
+            "Frage",
+            "stellen",
+            "wollen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Dass",
+            "Frauen",
+            "und",
+            "Männer",
+            "die",
+            "gleichen",
+            "Chancen",
+            "haben",
+            "sollen",
+            ",",
+            "ist",
+            "klar",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "das",
+            "ist",
+            "Gleichberechtigung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Nun",
+            "haben",
+            "Sie",
+            "gesagt",
+            ":",
+            "Sie",
+            "müssen",
+            "die",
+            "Chancen",
+            "gleich",
+            "verwerten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "-",
+            "Sagen",
+            "Sie",
+            "mir",
+            ",",
+            "welches",
+            "Recht",
+            "Frauen",
+            "in",
+            "Deutschland",
+            "nicht",
+            "haben",
+            ",",
+            "das",
+            "Männer",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Was",
+            "können",
+            "Frauen",
+            "rechtlich",
+            "nicht",
+            "tun",
+            ",",
+            "was",
+            "Männer",
+            "tun",
+            "können",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Haben",
+            "wir",
+            "da",
+            "Nachholbedarf",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Gibt",
+            "es",
+            "da",
+            "irgendetwas",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Sagen",
+            "Sie",
+            "mir",
+            "ein",
+            "Gesetz",
+            ",",
+            "einen",
+            "Bereich",
+            ",",
+            "in",
+            "dem",
+            "Frauen",
+            "nicht",
+            "das",
+            "machen",
+            "können",
+            "-",
+            "rechtlich",
+            "-",
+            ",",
+            "was",
+            "Männer",
+            "machen",
+            "können",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Dass",
+            "das",
+            "Ergebnis",
+            "nicht",
+            "das",
+            "gleiche",
+            "ist",
+            ",",
+            "das",
+            "ist",
+            "immer",
+            "schwierig",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Und",
+            "wenn",
+            "wir",
+            "von",
+            "einer",
+            "50-Prozent-Quote",
+            "reden",
+            ",",
+            "möchte",
+            "ich",
+            "auch",
+            "gerne",
+            "wissen",
+            ":",
+            "Wie",
+            "verträgt",
+            "sich",
+            "das",
+            "mit",
+            "der",
+            "Tatsache",
+            ",",
+            "dass",
+            "wir",
+            "drei",
+            "Geschlechter",
+            "haben",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Mögen",
+            "Sie",
+            "antworten",
+            ",",
+            "Frau",
+            "Kollegin",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Gern",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Sie",
+            "möchten",
+            "antworten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Bitte",
+            ",",
+            "dann",
+            "haben",
+            "Sie",
+            "das",
+            "Wort",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "1:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "1:7",
+            "1:6"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "4:5",
+            "4:6",
+            "4:7",
+            "4:8",
+            "4:9",
+            "4:10"
+         ],
+         "Source": [
+            "4:2"
+         ],
+         "Topic": [],
+         "Cue": [
+            "4:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [
+            "5:3"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "5:5",
+            "5:6",
+            "5:7",
+            "5:8",
+            "5:9",
+            "5:10",
+            "5:11",
+            "5:12",
+            "5:13",
+            "5:14",
+            "5:15"
+         ],
+         "Source": [
+            "5:2"
+         ],
+         "Topic": [],
+         "Cue": [
+            "5:1"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {
+         "Addr": [
+            "9:2"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "9:3",
+            "9:4",
+            "9:5",
+            "9:6",
+            "9:7",
+            "9:8",
+            "9:9",
+            "9:10",
+            "9:11",
+            "9:12",
+            "9:13",
+            "9:14",
+            "9:15",
+            "9:16",
+            "9:17",
+            "9:18",
+            "9:19",
+            "9:20",
+            "9:21",
+            "9:22",
+            "9:23"
+         ],
+         "Source": [
+            "9:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "9:0"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "9:4"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "11:2"
+         ],
+         "Topic": [
+            "11:3",
+            "11:4",
+            "11:5"
+         ],
+         "Cue": [
+            "11:6"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "11:14",
+            "11:15",
+            "11:16",
+            "11:17",
+            "11:18",
+            "11:19",
+            "11:20",
+            "11:21",
+            "11:22",
+            "11:23",
+            "11:24",
+            "11:25",
+            "11:26"
+         ],
+         "Source": [
+            "11:9"
+         ],
+         "Topic": [],
+         "Cue": [
+            "11:12"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [
+            "12:4",
+            "12:5"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "12:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "12:2"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "14:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "14:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "15:6"
+         ],
+         "PTC": []
+      }
+   ]
+}

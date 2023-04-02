@@ -1,0 +1,2192 @@
+{
+   "1": {
+      "Tokens": [
+         "Sehr",
+         "geehrte",
+         "Frau",
+         "Präsidentin",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "Liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "3": {
+      "Tokens": [
+         "Bei",
+         "meinen",
+         "Schulbesuchen",
+         "und",
+         "in",
+         "Gesprächen",
+         "mit",
+         "Schülerinnen",
+         "und",
+         "Schülern",
+         "frage",
+         "ich",
+         "regelmäßig",
+         "nach",
+         ",",
+         "welchen",
+         "Berufswunsch",
+         "die",
+         "Schülerinnen",
+         "und",
+         "Schüler",
+         "denn",
+         "haben",
+         "und",
+         "welchen",
+         "Beruf",
+         "sie",
+         "erlernen",
+         "wollen",
+         ",",
+         "wenn",
+         "sie",
+         "die",
+         "Schule",
+         "zum",
+         "Beispiel",
+         "nach",
+         "dem",
+         "folgenden",
+         "Schuljahr",
+         "verlassen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "3:6",
+               "3:7",
+               "3:8",
+               "3:9"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "3:5"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "3:15",
+               "3:16",
+               "3:17",
+               "3:18",
+               "3:19",
+               "3:20",
+               "3:21",
+               "3:22",
+               "3:23",
+               "3:24",
+               "3:25",
+               "3:26",
+               "3:27",
+               "3:28",
+               "3:29",
+               "3:30",
+               "3:31",
+               "3:32",
+               "3:33",
+               "3:34",
+               "3:35",
+               "3:36",
+               "3:37",
+               "3:38",
+               "3:39",
+               "3:40"
+            ],
+            "Source": [
+               "3:11"
+            ],
+            "Topic": [],
+            "Cue": [
+               "3:10"
+            ],
+            "PTC": [
+               "3:13"
+            ]
+         }
+      ]
+   },
+   "4": {
+      "Tokens": [
+         "Ich",
+         "bekomme",
+         "ganz",
+         ",",
+         "ganz",
+         "selten",
+         "eine",
+         "Antwort",
+         ",",
+         "die",
+         "lautet",
+         ":",
+         "Ich",
+         "will",
+         "in",
+         "einem",
+         "Handwerksberuf",
+         "meine",
+         "Ausbildung",
+         "machen",
+         ",",
+         "ich",
+         "will",
+         "ein",
+         "Handwerk",
+         "erlernen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "4:9",
+               "4:10",
+               "4:11",
+               "4:12",
+               "4:13",
+               "4:14",
+               "4:15",
+               "4:16",
+               "4:17",
+               "4:18",
+               "4:19",
+               "4:20",
+               "4:21",
+               "4:22",
+               "4:23",
+               "4:24",
+               "4:25"
+            ],
+            "Source": [
+               "4:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "4:1",
+               "4:7"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "4:12",
+               "4:13",
+               "4:14",
+               "4:15",
+               "4:16",
+               "4:17",
+               "4:18",
+               "4:19",
+               "4:20",
+               "4:21",
+               "4:22",
+               "4:23",
+               "4:24",
+               "4:25"
+            ],
+            "Source": [],
+            "Topic": [
+               "4:9"
+            ],
+            "Cue": [
+               "4:10"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "5": {
+      "Tokens": [
+         "-",
+         "Jetzt",
+         "kann",
+         "man",
+         "sagen",
+         ",",
+         "das",
+         "sei",
+         "nur",
+         "meine",
+         "Wahrnehmung",
+         "oder",
+         "habe",
+         "etwas",
+         "mit",
+         "der",
+         "Struktur",
+         "der",
+         "Schulen",
+         "bei",
+         "uns",
+         "in",
+         "Baden-Württemberg",
+         "zu",
+         "tun",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "5:6",
+               "5:7",
+               "5:8",
+               "5:9",
+               "5:10",
+               "5:11",
+               "5:12",
+               "5:13",
+               "5:14",
+               "5:15",
+               "5:16",
+               "5:17",
+               "5:18",
+               "5:19",
+               "5:20",
+               "5:21",
+               "5:22",
+               "5:23",
+               "5:24"
+            ],
+            "Source": [
+               "5:3"
+            ],
+            "Topic": [],
+            "Cue": [
+               "5:4"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "6": {
+      "Tokens": [
+         "Aber",
+         "nein",
+         ",",
+         "das",
+         "ist",
+         "keine",
+         "subjektive",
+         "Wahrnehmung",
+         "."
+      ],
+      "Annotations": []
+   },
+   "7": {
+      "Tokens": [
+         "Die",
+         "Zahlen",
+         "von",
+         "2017",
+         "besagen",
+         ",",
+         "dass",
+         "19",
+         "000",
+         "Ausbildungsplätze",
+         "im",
+         "Handwerk",
+         "nicht",
+         "besetzt",
+         "wurden",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [
+               "7:0",
+               "7:1",
+               "7:2",
+               "7:3"
+            ],
+            "Medium": [],
+            "Message": [
+               "7:6",
+               "7:7",
+               "7:8",
+               "7:9",
+               "7:10",
+               "7:11",
+               "7:12",
+               "7:13",
+               "7:14"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "7:4"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "8": {
+      "Tokens": [
+         "Da",
+         "muss",
+         "man",
+         "sich",
+         "natürlich",
+         "fragen",
+         ",",
+         "warum",
+         "das",
+         "Handwerk",
+         "nicht",
+         "attraktiv",
+         "ist",
+         ",",
+         "warum",
+         "die",
+         "jungen",
+         "Leute",
+         "nicht",
+         "ins",
+         "Handwerk",
+         "gehen",
+         "und",
+         "ob",
+         "das",
+         "daran",
+         "liegt",
+         ",",
+         "dass",
+         "es",
+         "in",
+         "bestimmten",
+         "Gewerken",
+         "keine",
+         "Meisterpflicht",
+         "mehr",
+         "gibt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "8:7",
+               "8:8",
+               "8:9",
+               "8:10",
+               "8:11",
+               "8:12",
+               "8:13",
+               "8:14",
+               "8:15",
+               "8:16",
+               "8:17",
+               "8:18",
+               "8:19",
+               "8:20",
+               "8:21",
+               "8:22",
+               "8:23",
+               "8:24",
+               "8:25",
+               "8:26",
+               "8:27",
+               "8:28",
+               "8:29",
+               "8:30",
+               "8:31",
+               "8:32",
+               "8:33",
+               "8:34",
+               "8:35",
+               "8:36"
+            ],
+            "Source": [
+               "8:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "8:5"
+            ],
+            "PTC": [
+               "8:3"
+            ]
+         }
+      ]
+   },
+   "9": {
+      "Tokens": [
+         "Das",
+         "könnte",
+         "ja",
+         ",",
+         "auch",
+         "wenn",
+         "man",
+         "der",
+         "Logik",
+         "der",
+         "Anträge",
+         "folgt",
+         ",",
+         "durchaus",
+         "dahinterstecken",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "9:10"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "10": {
+      "Tokens": [
+         "Aber",
+         "dann",
+         ",",
+         "meine",
+         "sehr",
+         "geehrten",
+         "Damen",
+         "und",
+         "Herren",
+         ",",
+         "müsste",
+         "es",
+         "ja",
+         "signifikante",
+         "Unterschiede",
+         "zwischen",
+         "den",
+         "Berufen",
+         "geben",
+         ",",
+         "in",
+         "denen",
+         "es",
+         "eine",
+         "Meisterpflicht",
+         "gibt",
+         ",",
+         "und",
+         "denen",
+         ",",
+         "in",
+         "denen",
+         "es",
+         "keine",
+         "Meisterpflicht",
+         "gibt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "11": {
+      "Tokens": [
+         "Dann",
+         "müsste",
+         "man",
+         "feststellen",
+         ",",
+         "dass",
+         "die",
+         "Berufe",
+         "ohne",
+         "Meisterpflicht",
+         "nicht",
+         "so",
+         "attraktiv",
+         "sind",
+         "und",
+         "die",
+         "Auszubildenden",
+         "nicht",
+         "in",
+         "diese",
+         "Berufe",
+         "hineingehen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "11:5",
+               "11:6",
+               "11:7",
+               "11:8",
+               "11:9",
+               "11:10",
+               "11:11",
+               "11:12",
+               "11:13",
+               "11:14",
+               "11:15",
+               "11:16",
+               "11:17",
+               "11:18",
+               "11:19",
+               "11:20",
+               "11:21"
+            ],
+            "Source": [
+               "11:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "11:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "12": {
+      "Tokens": [
+         "So",
+         "ist",
+         "es",
+         "aber",
+         "bei",
+         "weitem",
+         "nicht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "13": {
+      "Tokens": [
+         "Deshalb",
+         "ist",
+         "die",
+         "Frage",
+         "der",
+         "Attraktivität",
+         "des",
+         "Handwerks",
+         "weiterzufassen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "13:4",
+               "13:5",
+               "13:6",
+               "13:7"
+            ],
+            "Cue": [
+               "13:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "14": {
+      "Tokens": [
+         "Grundprobleme",
+         "des",
+         "Handwerks",
+         "wurden",
+         "hier",
+         "schon",
+         "aufgezeigt",
+         ",",
+         "einmal",
+         "von",
+         "meiner",
+         "Kollegin",
+         "Poschmann",
+         ",",
+         "aber",
+         "auch",
+         "von",
+         "Klaus",
+         "Ernst",
+         ",",
+         "aber",
+         "auch",
+         "ich",
+         "will",
+         "sie",
+         "wiederholen",
+         ",",
+         "damit",
+         "deutlich",
+         "wird",
+         ",",
+         "worüber",
+         "wir",
+         "reden",
+         "müssen",
+         ",",
+         "wenn",
+         "es",
+         "um",
+         "die",
+         "Attraktivität",
+         "im",
+         "Handwerk",
+         "geht",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "14:0",
+               "14:1",
+               "14:2"
+            ],
+            "Source": [
+               "14:8",
+               "14:9",
+               "14:10",
+               "14:11",
+               "14:12",
+               "14:13",
+               "14:14",
+               "14:15",
+               "14:16",
+               "14:17",
+               "14:18"
+            ],
+            "Topic": [],
+            "Cue": [
+               "14:6"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "14:24"
+            ],
+            "Source": [
+               "14:21",
+               "14:22"
+            ],
+            "Topic": [],
+            "Cue": [
+               "14:25"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "14:32"
+            ],
+            "Topic": [
+               "14:31"
+            ],
+            "Cue": [
+               "14:33"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "15": {
+      "Tokens": [
+         "Die",
+         "Beschäftigten",
+         "im",
+         "Handwerk",
+         "verdienen",
+         "im",
+         "Durchschnitt",
+         "20",
+         "Prozent",
+         "weniger",
+         "als",
+         "die",
+         "Beschäftigten",
+         "in",
+         "allen",
+         "anderen",
+         "Branchen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "16": {
+      "Tokens": [
+         "Nur",
+         "noch",
+         "30",
+         "Prozent",
+         "der",
+         "Beschäftigten",
+         "fallen",
+         "unter",
+         "einen",
+         "Tarifvertrag",
+         "."
+      ],
+      "Annotations": []
+   },
+   "17": {
+      "Tokens": [
+         "Da",
+         "frage",
+         "ich",
+         "mich",
+         ":",
+         "Ist",
+         "das",
+         "attraktiv",
+         "?"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "17:5",
+               "17:6",
+               "17:7"
+            ],
+            "Source": [
+               "17:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "17:1"
+            ],
+            "PTC": [
+               "17:3"
+            ]
+         }
+      ]
+   },
+   "18": {
+      "Tokens": [
+         "Wenn",
+         "ich",
+         "mich",
+         "frage",
+         ",",
+         "wo",
+         "ich",
+         "arbeiten",
+         "gehen",
+         "will",
+         ",",
+         "dann",
+         "muss",
+         "ich",
+         "feststellen",
+         ":",
+         "garantiert",
+         "nicht",
+         "dort",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "18:5",
+               "18:6",
+               "18:7",
+               "18:8",
+               "18:9"
+            ],
+            "Source": [
+               "18:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "18:3"
+            ],
+            "PTC": [
+               "18:2"
+            ]
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "18:16",
+               "18:17",
+               "18:18"
+            ],
+            "Source": [
+               "18:13"
+            ],
+            "Topic": [],
+            "Cue": [
+               "18:14"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "19": {
+      "Tokens": [
+         "Im",
+         "„",
+         "handwerk",
+         "magazin",
+         "“",
+         "wird",
+         "geschrieben",
+         "-",
+         "es",
+         "sind",
+         "also",
+         "keine",
+         "Zahlen",
+         ",",
+         "die",
+         "wir",
+         "selbst",
+         "erstellt",
+         "haben",
+         "-",
+         ":"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [
+               "19:0",
+               "19:1",
+               "19:2",
+               "19:3",
+               "19:4"
+            ],
+            "Message": [
+               "20:0",
+               "20:1",
+               "20:2",
+               "20:3",
+               "20:4",
+               "20:5",
+               "20:6",
+               "20:7",
+               "20:8",
+               "20:9",
+               "20:10",
+               "20:11",
+               "20:12"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "19:6"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "20": {
+      "Tokens": [
+         "Der",
+         "Durchschnittsverdienst",
+         "eines",
+         "Handwerkers",
+         "liegt",
+         "zwischen",
+         "1",
+         "800",
+         "und",
+         "2",
+         "900",
+         "Euro",
+         "brutto",
+         "."
+      ],
+      "Annotations": []
+   },
+   "21": {
+      "Tokens": [
+         "Jetzt",
+         "soll",
+         "mir",
+         "bitte",
+         "schön",
+         "mal",
+         "jemand",
+         "erklären",
+         ",",
+         "wie",
+         "attraktiv",
+         "das",
+         "ist",
+         ",",
+         "wie",
+         "es",
+         "möglich",
+         "sein",
+         "soll",
+         ",",
+         "eine",
+         "Familie",
+         "mit",
+         "1",
+         "800",
+         "Euro",
+         "brutto",
+         "zu",
+         "versorgen",
+         ",",
+         "und",
+         "warum",
+         "man",
+         "in",
+         "einem",
+         "solchen",
+         "Beruf",
+         ",",
+         "auch",
+         "wenn",
+         "er",
+         "wieder",
+         "durch",
+         "die",
+         "Meisterpflicht",
+         "aufgewertet",
+         "wird",
+         ",",
+         "eine",
+         "Ausbildung",
+         "machen",
+         "soll",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "21:2"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "21:9",
+               "21:10",
+               "21:11",
+               "21:12",
+               "21:13",
+               "21:14",
+               "21:15",
+               "21:16",
+               "21:17",
+               "21:18",
+               "21:19",
+               "21:20",
+               "21:21",
+               "21:22",
+               "21:23",
+               "21:24",
+               "21:25",
+               "21:26",
+               "21:27",
+               "21:28",
+               "21:29",
+               "21:30",
+               "21:31",
+               "21:32",
+               "21:33",
+               "21:34",
+               "21:35",
+               "21:36",
+               "21:37",
+               "21:38",
+               "21:39",
+               "21:40",
+               "21:41",
+               "21:42",
+               "21:43",
+               "21:44",
+               "21:45",
+               "21:46",
+               "21:47",
+               "21:48",
+               "21:49",
+               "21:50",
+               "21:51"
+            ],
+            "Source": [
+               "21:6"
+            ],
+            "Topic": [],
+            "Cue": [
+               "21:7"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "22": {
+      "Tokens": [
+         "Das",
+         "muss",
+         "mir",
+         "mal",
+         "jemand",
+         "erklären",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "22:2"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "22:0"
+            ],
+            "Source": [
+               "22:4"
+            ],
+            "Topic": [],
+            "Cue": [
+               "22:5"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "23": {
+      "Tokens": [
+         "Ich",
+         "kann",
+         "es",
+         "nicht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "24": {
+      "Tokens": [
+         "Sehr",
+         "geehrte",
+         "Damen",
+         "und",
+         "Herren",
+         ",",
+         "liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         ",",
+         "natürlich",
+         "müssen",
+         "wir",
+         "über",
+         "die",
+         "Einführung",
+         "der",
+         "Meisterpflicht",
+         "in",
+         "einigen",
+         "Gewerken",
+         "nachdenken",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "24:13"
+            ],
+            "Topic": [
+               "24:14",
+               "24:15",
+               "24:16",
+               "24:17",
+               "24:18",
+               "24:19",
+               "24:20",
+               "24:21"
+            ],
+            "Cue": [
+               "24:22"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "25": {
+      "Tokens": [
+         "Das",
+         "tun",
+         "wir",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "26": {
+      "Tokens": [
+         "das",
+         "wurde",
+         "heute",
+         "auch",
+         "schon",
+         "erwähnt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "26:0"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "26:5"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "27": {
+      "Tokens": [
+         "Letztendlich",
+         "geht",
+         "es",
+         "bei",
+         "der",
+         "Steigerung",
+         "der",
+         "Attraktivität",
+         "des",
+         "Handwerks",
+         "aus",
+         "meiner",
+         "Sicht",
+         "aber",
+         "um",
+         "mehr",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "27:0",
+               "27:1",
+               "27:2",
+               "27:3",
+               "27:4",
+               "27:5",
+               "27:6",
+               "27:7",
+               "27:8",
+               "27:9",
+               "27:13",
+               "27:14",
+               "27:15"
+            ],
+            "Source": [
+               "27:11"
+            ],
+            "Topic": [],
+            "Cue": [
+               "27:12",
+               "27:10"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "28": {
+      "Tokens": [
+         "Das",
+         "Handwerk",
+         "ist",
+         "wichtig",
+         ",",
+         "das",
+         "hat",
+         "heute",
+         "jeder",
+         "Redner",
+         "hier",
+         "gesagt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "28:5"
+            ],
+            "Source": [
+               "28:8",
+               "28:9",
+               "28:10"
+            ],
+            "Topic": [],
+            "Cue": [
+               "28:11"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "29": {
+      "Tokens": [
+         "Das",
+         "ist",
+         "keine",
+         "Frage",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "29:0"
+            ],
+            "Cue": [
+               "29:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "30": {
+      "Tokens": [
+         "Frau",
+         "Kollegin",
+         "Katzmarek",
+         ",",
+         "gestatten",
+         "Sie",
+         "eine",
+         "Frage",
+         "oder",
+         "Bemerkung",
+         "aus",
+         "den",
+         "Reihen",
+         "des",
+         "Koalitionspartners",
+         "?"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "30:10",
+               "30:11",
+               "30:12",
+               "30:13",
+               "30:14"
+            ],
+            "Topic": [],
+            "Cue": [
+               "30:7"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "30:10",
+               "30:11",
+               "30:12",
+               "30:13",
+               "30:14"
+            ],
+            "Topic": [],
+            "Cue": [
+               "30:9"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "31": {
+      "Tokens": [
+         "Wenn",
+         "der",
+         "Koalitionspartner",
+         "mit",
+         "mir",
+         "hier",
+         "heute",
+         "diskutieren",
+         "will",
+         ",",
+         "dann",
+         "soll",
+         "er",
+         "es",
+         "bitte",
+         "tun",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "31:3",
+               "31:4"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "31:1",
+               "31:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "31:7"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "32": {
+      "Tokens": [
+         "Vielen",
+         "Dank",
+         ",",
+         "Frau",
+         "Präsidentin",
+         ",",
+         "dass",
+         "Sie",
+         "diese",
+         "Zwischenfrage",
+         "zulassen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "32:9"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "33": {
+      "Tokens": [
+         "Nein",
+         ",",
+         "Frau",
+         "Katzmarek",
+         "lässt",
+         "sie",
+         "zu",
+         "."
+      ],
+      "Annotations": []
+   },
+   "34": {
+      "Tokens": [
+         "Aber",
+         "macht",
+         "nichts",
+         "."
+      ],
+      "Annotations": []
+   },
+   "35": {
+      "Tokens": [
+         "Na",
+         "ja",
+         ",",
+         "die",
+         "Frau",
+         "Präsidentin",
+         "hat",
+         "sie",
+         "ja",
+         "auch",
+         "zugelassen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "36": {
+      "Tokens": [
+         "-",
+         "Frau",
+         "Kollegin",
+         ",",
+         "ich",
+         "habe",
+         "bei",
+         "Ihren",
+         "Ausführungen",
+         "gerade",
+         "so",
+         "ein",
+         "bisschen",
+         "gestutzt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "36:7"
+            ],
+            "Topic": [],
+            "Cue": [
+               "36:8"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "37": {
+      "Tokens": [
+         "Ist",
+         "Ihnen",
+         "eigentlich",
+         "bekannt",
+         ",",
+         "dass",
+         "man",
+         "im",
+         "Handwerk",
+         "nur",
+         "ausbilden",
+         "kann",
+         ",",
+         "wenn",
+         "man",
+         "auch",
+         "eine",
+         "Meisterprüfung",
+         "hat",
+         "?"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "37:5",
+               "37:6",
+               "37:7",
+               "37:8",
+               "37:9",
+               "37:10",
+               "37:11",
+               "37:12",
+               "37:13",
+               "37:14",
+               "37:15",
+               "37:16",
+               "37:17",
+               "37:18"
+            ],
+            "Source": [
+               "37:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "37:0",
+               "37:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "38": {
+      "Tokens": [
+         "Die",
+         "vielen",
+         "Betriebe",
+         "im",
+         "Handwerk",
+         ",",
+         "die",
+         "ohne",
+         "Meister",
+         "geführt",
+         "werden",
+         ",",
+         "dürfen",
+         "überhaupt",
+         "keine",
+         "Lehrlinge",
+         "ausbilden",
+         "."
+      ],
+      "Annotations": []
+   },
+   "39": {
+      "Tokens": [
+         "Da",
+         "wir",
+         "im",
+         "Handwerk",
+         "das",
+         "Problem",
+         "haben",
+         ",",
+         "dass",
+         "Nachwuchs",
+         "fehlt",
+         "und",
+         "wir",
+         "diesen",
+         "generieren",
+         "müssen",
+         ",",
+         "geht",
+         "die",
+         "Diskussion",
+         "bei",
+         "Ihnen",
+         "ein",
+         "bisschen",
+         "daran",
+         "vorbei",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "39:19"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "40": {
+      "Tokens": [
+         "Ist",
+         "Ihnen",
+         "das",
+         "bekannt",
+         "?"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "40:2"
+            ],
+            "Source": [
+               "40:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "40:0",
+               "40:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "41": {
+      "Tokens": [
+         "Mir",
+         "ist",
+         "bekannt",
+         ",",
+         "dass",
+         "es",
+         "eine",
+         "Ausbildereignungsprüfung",
+         "nach",
+         "der",
+         "Ausbilder-Eignungsverordnung",
+         "braucht",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "41:4",
+               "41:5",
+               "41:6",
+               "41:7",
+               "41:8",
+               "41:9",
+               "41:10",
+               "41:11"
+            ],
+            "Source": [
+               "41:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "41:1",
+               "41:2"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "42": {
+      "Tokens": [
+         "Ich",
+         "hoffe",
+         ",",
+         "das",
+         "ist",
+         "Ihnen",
+         "auch",
+         "bekannt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "42:3",
+               "42:4",
+               "42:5",
+               "42:6",
+               "42:7"
+            ],
+            "Source": [
+               "42:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "42:1"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "42:3"
+            ],
+            "Source": [
+               "42:5"
+            ],
+            "Topic": [],
+            "Cue": [
+               "42:4",
+               "42:7"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "43": {
+      "Tokens": [
+         "Sie",
+         "ist",
+         "die",
+         "Voraussetzung",
+         "für",
+         "die",
+         "Ausbildung",
+         "."
+      ],
+      "Annotations": []
+   },
+   "44": {
+      "Tokens": [
+         "Es",
+         "muss",
+         "also",
+         "erst",
+         "eine",
+         "Ausbildereignungsprüfung",
+         "vorliegen",
+         ",",
+         "erst",
+         "dann",
+         "kann",
+         "man",
+         "ausbilden",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "44:4",
+               "44:5"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "44:6"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "45": {
+      "Tokens": [
+         "-",
+         "Doch",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "46": {
+      "Tokens": [
+         "Ich",
+         "fang",
+         "mit",
+         "Ihnen",
+         "hier",
+         "jetzt",
+         "keine",
+         "Kontroverse",
+         "an",
+         "."
+      ],
+      "Annotations": []
+   },
+   "47": {
+      "Tokens": [
+         "Da",
+         "können",
+         "wir",
+         "gerne",
+         "noch",
+         "mal",
+         "nachschlagen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "48": {
+      "Tokens": [
+         "Sehr",
+         "geehrte",
+         "Damen",
+         "und",
+         "Herren",
+         ",",
+         "liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         ",",
+         "zum",
+         "Schluss",
+         "lassen",
+         "Sie",
+         "mich",
+         "bitte",
+         "noch",
+         "auf",
+         "einen",
+         "Punkt",
+         "hinweisen",
+         ":"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "48:18",
+               "48:19",
+               "48:20",
+               "49:0",
+               "49:1",
+               "49:2",
+               "49:3",
+               "49:4",
+               "49:5",
+               "49:6",
+               "49:7",
+               "49:8",
+               "49:9",
+               "49:10",
+               "49:11",
+               "49:12",
+               "49:13",
+               "49:14",
+               "49:15",
+               "49:16",
+               "49:17",
+               "49:18",
+               "49:19",
+               "49:20",
+               "49:21",
+               "49:22",
+               "49:23",
+               "49:24",
+               "49:25",
+               "49:26"
+            ],
+            "Source": [
+               "48:15"
+            ],
+            "Topic": [],
+            "Cue": [
+               "48:21"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "49": {
+      "Tokens": [
+         "Für",
+         "die",
+         "Menschen",
+         ",",
+         "die",
+         "im",
+         "Handwerk",
+         "arbeiten",
+         ",",
+         "ist",
+         "es",
+         "wichtig",
+         ",",
+         "dass",
+         "wir",
+         "über",
+         "sie",
+         "reden",
+         ",",
+         "aber",
+         "schöne",
+         "Worte",
+         "alleine",
+         "helfen",
+         "ihnen",
+         "natürlich",
+         "nicht",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "49:14"
+            ],
+            "Topic": [
+               "49:15",
+               "49:16"
+            ],
+            "Cue": [
+               "49:17"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "49:21"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "50": {
+      "Tokens": [
+         "Was",
+         "diese",
+         "Menschen",
+         "brauchen",
+         ",",
+         "ist",
+         ",",
+         "dass",
+         "ihre",
+         "Arbeit",
+         ",",
+         "die",
+         "gut",
+         ",",
+         "richtig",
+         "und",
+         "wichtig",
+         "ist",
+         ",",
+         "auch",
+         "wertgeschätzt",
+         "wird",
+         ",",
+         "wertgeschätzt",
+         "wird",
+         "zum",
+         "Beispiel",
+         "durch",
+         "Tarifverträge",
+         ",",
+         "durch",
+         "gute",
+         "Bezahlung",
+         ",",
+         "durch",
+         "faire",
+         "Arbeitszeiten",
+         "und",
+         "durch",
+         "gute",
+         "Rahmenbedingungen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "51": {
+      "Tokens": [
+         "Das",
+         "Ziel",
+         "muss",
+         "es",
+         "sein",
+         ",",
+         "die",
+         "Arbeit",
+         "dieser",
+         "Menschen",
+         "in",
+         "unserem",
+         "Land",
+         "wertzuschätzen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "52": {
+      "Tokens": [
+         "Die",
+         "beiden",
+         "Anträge",
+         ",",
+         "die",
+         "uns",
+         "vorliegen",
+         ",",
+         "gehen",
+         "darauf",
+         "absolut",
+         "nicht",
+         "ein",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "52:2"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [
+               "52:5"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "52:4"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "52:6"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [
+               "52:0",
+               "52:1",
+               "52:2",
+               "52:3",
+               "52:4",
+               "52:5",
+               "52:6"
+            ],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "52:9"
+            ],
+            "Cue": [
+               "52:8",
+               "52:12"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "53": {
+      "Tokens": [
+         "Deshalb",
+         "werden",
+         "wir",
+         "sie",
+         "ablehnen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "53:3"
+            ],
+            "Source": [
+               "53:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "53:4"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "54": {
+      "Tokens": [
+         "Herzlichen",
+         "Dank",
+         "."
+      ],
+      "Annotations": []
+   },
+   "55": {
+      "Tokens": [
+         "Das",
+         "Wort",
+         "hat",
+         "der",
+         "Abgeordnete",
+         "Mario",
+         "Mieruch",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "55:1"
+            ],
+            "PTC": []
+         }
+      ]
+   }
+}

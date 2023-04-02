@@ -1,0 +1,364 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Recht",
+            "vielen",
+            "Dank",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "-",
+            "Kollege",
+            "Bernstiel",
+            "und",
+            "auch",
+            "die",
+            "vorhergehenden",
+            "Redner",
+            ",",
+            "die",
+            "diese",
+            "Ausländerkriminalität",
+            "hier",
+            "so",
+            "verharmlosen",
+            ",",
+            "ich",
+            "darf",
+            "Ihnen",
+            "einmal",
+            "ein",
+            "paar",
+            "Zahlen",
+            "nennen",
+            ":"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Wir",
+            "haben",
+            "in",
+            "Deutschland",
+            "ungefähr",
+            "6",
+            "Millionen",
+            "Straftaten",
+            "pro",
+            "Jahr",
+            "bei",
+            "ungefähr",
+            "2",
+            "Millionen",
+            "Straftatverdächtigen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Also",
+            ":",
+            "6",
+            "Millionen",
+            "Straftaten",
+            "und",
+            "2",
+            "Millionen",
+            "Straftatverdächtige",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Bei",
+            "den",
+            "Straftatverdächtigen",
+            "haben",
+            "wir",
+            "610",
+            "000",
+            ",",
+            "also",
+            "ungefähr",
+            "600",
+            "000",
+            ",",
+            "Nichtdeutsche",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Von",
+            "2",
+            "Millionen",
+            "sind",
+            "600",
+            "000",
+            "Nichtdeutsche",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Wenn",
+            "Sie",
+            "das",
+            "hochrechnen",
+            ",",
+            "dann",
+            "sind",
+            "das",
+            "1,8",
+            "Millionen",
+            "Straftaten",
+            "pro",
+            "Jahr",
+            "durch",
+            "Nichtdeutsche",
+            ",",
+            "meine",
+            "Damen",
+            "und",
+            "Herren",
+            ",",
+            "die",
+            "Sie",
+            "hier",
+            "reingeholt",
+            "haben",
+            "-",
+            "zu",
+            "unseren",
+            "eigenen",
+            "deutschen",
+            "Kriminellen",
+            "noch",
+            "dazu",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Es",
+            "ist",
+            "eine",
+            "große",
+            "Sauerei",
+            "und",
+            "eine",
+            "Verhöhnung",
+            "der",
+            "Opfer",
+            "-",
+            "das",
+            "sage",
+            "ich",
+            "in",
+            "aller",
+            "Deutlichkeit",
+            "-",
+            ",",
+            "wie",
+            "Sie",
+            "das",
+            "hier",
+            "verharmlosen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "1,8",
+            "Millionen",
+            "Straftaten",
+            "durch",
+            "Nichtdeutsche",
+            ",",
+            "meine",
+            "Damen",
+            "und",
+            "Herren",
+            ":",
+            "Da",
+            "sollten",
+            "Sie",
+            "sich",
+            "mal",
+            "Gedanken",
+            "machen",
+            ",",
+            "was",
+            "mit",
+            "den",
+            "Opfern",
+            "passiert",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Um",
+            "die",
+            "geht",
+            "es",
+            "hier",
+            ",",
+            "und",
+            "nicht",
+            "um",
+            "Ihre",
+            "Täter",
+            ",",
+            "die",
+            "Sie",
+            "hier",
+            "hätscheln",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Möchten",
+            "Sie",
+            "darauf",
+            "antworten",
+            ",",
+            "Herr",
+            "Bernstiel",
+            "?"
+         ]
+      }
+   ],
+   "Annotations": [
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "1:10",
+            "1:11"
+         ],
+         "Source": [
+            "1:9"
+         ],
+         "Topic": [],
+         "Cue": [
+            "1:14"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [
+            "1:18"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "1:20",
+            "1:21",
+            "1:22"
+         ],
+         "Source": [
+            "1:16"
+         ],
+         "Topic": [],
+         "Cue": [
+            "1:23"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "7:11"
+         ],
+         "Source": [
+            "7:13"
+         ],
+         "Topic": [],
+         "Cue": [
+            "7:12"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "7:21"
+         ],
+         "Source": [
+            "7:20"
+         ],
+         "Topic": [],
+         "Cue": [
+            "7:23"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "8:19",
+            "8:20",
+            "8:21",
+            "8:22",
+            "8:23"
+         ],
+         "Source": [
+            "8:13"
+         ],
+         "Topic": [],
+         "Cue": [
+            "8:17",
+            "8:16"
+         ],
+         "PTC": [
+            "8:14"
+         ]
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "10:1"
+         ],
+         "Topic": [
+            "10:2"
+         ],
+         "Cue": [
+            "10:3"
+         ],
+         "PTC": []
+      }
+   ]
+}

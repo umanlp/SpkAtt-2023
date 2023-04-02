@@ -1,0 +1,829 @@
+{
+   "1": {
+      "Tokens": [
+         "Herr",
+         "Präsident",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "Meine",
+         "Damen",
+         "und",
+         "Herren",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "3": {
+      "Tokens": [
+         "In",
+         "Deutschland",
+         "haben",
+         "wir",
+         "seit",
+         "Langem",
+         "ein",
+         "Nitratproblem",
+         "."
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "An",
+         "jeder",
+         "fünften",
+         "Grundwassermessstelle",
+         "wird",
+         "der",
+         "Grenzwert",
+         "überschritten",
+         "."
+      ],
+      "Annotations": []
+   },
+   "5": {
+      "Tokens": [
+         "Mit",
+         "der",
+         "Novelle",
+         "zur",
+         "Düngeverordnung",
+         "und",
+         "des",
+         "Wasserhaushaltsgesetzes",
+         "werden",
+         "jetzt",
+         "trotzdem",
+         "leider",
+         "nur",
+         "die",
+         "Minimalforderungen",
+         "der",
+         "EU-Kommission",
+         "umgesetzt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "6": {
+      "Tokens": [
+         "Es",
+         "waren",
+         "dabei",
+         "nicht",
+         "die",
+         "Sorgen",
+         "um",
+         "sauberes",
+         "Trinkwasser",
+         ",",
+         "es",
+         "waren",
+         "erst",
+         "massive",
+         "Strafandrohungen",
+         "von",
+         "über",
+         "800",
+         "_",
+         "000",
+         "Euro",
+         "pro",
+         "Tag",
+         ",",
+         "die",
+         "der",
+         "Regierung",
+         "klargemacht",
+         "haben",
+         ":"
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "6:25",
+               "6:26"
+            ],
+            "Evidence": [],
+            "Medium": [
+               "6:24"
+            ],
+            "Message": [
+               "7:0",
+               "7:1",
+               "7:2",
+               "7:3",
+               "7:4"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "6:27"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "7": {
+      "Tokens": [
+         "Aussitzen",
+         "ist",
+         "keine",
+         "Option",
+         "mehr",
+         "."
+      ],
+      "Annotations": []
+   },
+   "8": {
+      "Tokens": [
+         "Auf",
+         "dem",
+         "Papier",
+         "mag",
+         "das",
+         "Nitratproblem",
+         "vorerst",
+         "gelöst",
+         "sein",
+         ",",
+         "in",
+         "der",
+         "Realität",
+         "aber",
+         "nicht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "9": {
+      "Tokens": [
+         "Warum",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "10": {
+      "Tokens": [
+         "In",
+         "der",
+         "Anhörung",
+         "wurde",
+         "klar",
+         ":",
+         "Ein",
+         "Randstreifen",
+         "von",
+         "5",
+         "Metern",
+         "ist",
+         "zu",
+         "schmal",
+         ",",
+         "um",
+         "ein",
+         "wirksamer",
+         "Puffer",
+         "gegen",
+         "Einträge",
+         "zu",
+         "sein",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "10:2"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "10:6",
+               "10:7",
+               "10:8",
+               "10:9",
+               "10:10",
+               "10:11",
+               "10:12",
+               "10:13",
+               "10:14",
+               "10:15",
+               "10:16",
+               "10:17",
+               "10:18",
+               "10:19",
+               "10:20",
+               "10:21",
+               "10:22"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "10:3",
+               "10:4"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "11": {
+      "Tokens": [
+         "Die",
+         "Randstreifen",
+         "dürfen",
+         "sogar",
+         "alle",
+         "5",
+         "Jahre",
+         "umgebrochen",
+         "werden",
+         ",",
+         "damit",
+         "die",
+         "Flächen",
+         "ihren",
+         "Status",
+         "als",
+         "Ackerland",
+         "nicht",
+         "verlieren",
+         "."
+      ],
+      "Annotations": []
+   },
+   "12": {
+      "Tokens": [
+         "Nur",
+         "damit",
+         "alte",
+         "Förderstrukturen",
+         "erhalten",
+         "werden",
+         ",",
+         "werden",
+         "regelmäßig",
+         "wichtige",
+         "Lebensräume",
+         "zerstört",
+         "."
+      ],
+      "Annotations": []
+   },
+   "13": {
+      "Tokens": [
+         "Das",
+         "ließe",
+         "sich",
+         "ganz",
+         "einfach",
+         "ändern",
+         "."
+      ],
+      "Annotations": []
+   },
+   "14": {
+      "Tokens": [
+         "Es",
+         "ist",
+         "doch",
+         "Unsinn",
+         ",",
+         "dass",
+         "genau",
+         "die",
+         "Bäuerinnen",
+         "und",
+         "Bauern",
+         "Nachteile",
+         "haben",
+         ",",
+         "die",
+         "langfristig",
+         "wertvolle",
+         "Randstreifen",
+         "als",
+         "Barriere",
+         "gegen",
+         "Nitrat",
+         "und",
+         "als",
+         "Heimat",
+         "für",
+         "Insekten",
+         "anlegen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "15": {
+      "Tokens": [
+         "Das",
+         "Gesetz",
+         "ist",
+         "ein",
+         "Bürokratiemonster",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "15:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "16": {
+      "Tokens": [
+         "Die",
+         "unteren",
+         "Wasserbehörden",
+         "werden",
+         "nun",
+         "alle",
+         "Äcker",
+         "auf",
+         "ihre",
+         "Hangneigung",
+         "überprüfen",
+         "müssen",
+         ",",
+         "nur",
+         "um",
+         "Ausnahmen",
+         "für",
+         "die",
+         "Landwirte",
+         "zu",
+         "schaffen",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "17": {
+      "Tokens": [
+         "denn",
+         "damit",
+         "ist",
+         "ein",
+         "großer",
+         "Teil",
+         "der",
+         "intensiv",
+         "genutzten",
+         "Auen",
+         "ausgenommen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "18": {
+      "Tokens": [
+         "Es",
+         "ist",
+         "daher",
+         "ein",
+         "immenser",
+         ",",
+         "unnötiger",
+         "und",
+         "ungerechter",
+         "Aufwand",
+         "."
+      ],
+      "Annotations": []
+   },
+   "19": {
+      "Tokens": [
+         "Insgesamt",
+         "hilft",
+         "der",
+         "Gesetzentwurf",
+         "weder",
+         "dem",
+         "Gewässerschutz",
+         "noch",
+         "den",
+         "Landwirten",
+         ",",
+         "noch",
+         "ist",
+         "er",
+         "praktikabel",
+         "umsetzbar",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "19:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "20": {
+      "Tokens": [
+         "Eine",
+         "einfache",
+         "klare",
+         "Regelung",
+         "wäre",
+         "in",
+         "jeder",
+         "Hinsicht",
+         "besser",
+         "gewesen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "21": {
+      "Tokens": [
+         "Wir",
+         "Grüne",
+         "fordern",
+         "bundesweit",
+         "einheitliche",
+         "Gewässerrandstreifen",
+         "mit",
+         "einer",
+         "Breite",
+         "von",
+         "mindestens",
+         "10",
+         "Metern",
+         ",",
+         "und",
+         "das",
+         "unabhängig",
+         "von",
+         "der",
+         "Geländeneigung",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "21:3",
+               "21:4",
+               "21:5",
+               "21:6",
+               "21:7",
+               "21:8",
+               "21:9",
+               "21:10",
+               "21:11",
+               "21:12",
+               "21:13",
+               "21:14",
+               "21:15",
+               "21:16",
+               "21:17",
+               "21:18",
+               "21:19"
+            ],
+            "Source": [
+               "21:0",
+               "21:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "21:2"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "22": {
+      "Tokens": [
+         "Die",
+         "Regierung",
+         "doktert",
+         "aber",
+         "nur",
+         "am",
+         "Düngerecht",
+         "herum",
+         "."
+      ],
+      "Annotations": []
+   },
+   "23": {
+      "Tokens": [
+         "Ich",
+         "frage",
+         "mich",
+         ":",
+         "Vor",
+         "wem",
+         "haben",
+         "Sie",
+         "eigentlich",
+         "so",
+         "große",
+         "Angst",
+         "?"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "23:4",
+               "23:5",
+               "23:6",
+               "23:7",
+               "23:8",
+               "23:9",
+               "23:10",
+               "23:11"
+            ],
+            "Source": [
+               "23:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "23:1"
+            ],
+            "PTC": [
+               "23:2"
+            ]
+         }
+      ]
+   },
+   "24": {
+      "Tokens": [
+         "Die",
+         "Landwirte",
+         "erzeugen",
+         "durch",
+         "den",
+         "wirtschaftlichen",
+         "Druck",
+         "weiterhin",
+         "Nitratüberschüsse",
+         ",",
+         "solange",
+         "die",
+         "Bundesregierung",
+         "die",
+         "Augen",
+         "vor",
+         "dem",
+         "eigentlichen",
+         "Problem",
+         "verschließt",
+         ":",
+         "Zu",
+         "viele",
+         "Tiere",
+         "auf",
+         "zu",
+         "wenig",
+         "Fläche",
+         "produzieren",
+         "zu",
+         "viel",
+         "Gülle",
+         "."
+      ],
+      "Annotations": []
+   },
+   "25": {
+      "Tokens": [
+         "Zu",
+         "Recht",
+         "sind",
+         "die",
+         "Bäuerinnen",
+         "und",
+         "Bauern",
+         "verärgert",
+         ",",
+         "dass",
+         "sie",
+         "jetzt",
+         "wieder",
+         "keine",
+         "Verlässlichkeit",
+         "haben",
+         "."
+      ],
+      "Annotations": []
+   },
+   "26": {
+      "Tokens": [
+         "Ich",
+         "appelliere",
+         "an",
+         "Sie",
+         ":",
+         "Geben",
+         "Sie",
+         "den",
+         "Landwirten",
+         "endlich",
+         "eine",
+         "echte",
+         "Perspektive",
+         ",",
+         "wie",
+         "sie",
+         "rentabel",
+         "und",
+         "im",
+         "Einklang",
+         "mit",
+         "der",
+         "Natur",
+         "wirtschaften",
+         "können",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "26:2",
+               "26:3"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "26:5",
+               "26:6",
+               "26:7",
+               "26:8",
+               "26:9",
+               "26:10",
+               "26:11",
+               "26:12",
+               "26:13",
+               "26:14",
+               "26:15",
+               "26:16",
+               "26:17",
+               "26:18",
+               "26:19",
+               "26:20",
+               "26:21",
+               "26:22",
+               "26:23",
+               "26:24"
+            ],
+            "Source": [
+               "26:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "26:1"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "26:14",
+               "26:15",
+               "26:16",
+               "26:17",
+               "26:18",
+               "26:19",
+               "26:20",
+               "26:21",
+               "26:22",
+               "26:23",
+               "26:24"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "26:12"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "27": {
+      "Tokens": [
+         "Keine",
+         "Bäuerin",
+         "und",
+         "kein",
+         "Bauer",
+         "hat",
+         "schließlich",
+         "Interesse",
+         "daran",
+         ",",
+         "Wasser",
+         "zu",
+         "verschmutzen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "28": {
+      "Tokens": [
+         "Wir",
+         "alle",
+         "brauchen",
+         "jetzt",
+         "eine",
+         "ökologische",
+         "Neuausrichtung",
+         "der",
+         "Agrarpolitik",
+         "und",
+         "ein",
+         "Ende",
+         "der",
+         "industriellen",
+         "Massentierhaltung",
+         "."
+      ],
+      "Annotations": []
+   },
+   "29": {
+      "Tokens": [
+         "Vielen",
+         "Dank",
+         ",",
+         "Frau",
+         "Kollegin",
+         "Bettina",
+         "Hoffmann",
+         "."
+      ],
+      "Annotations": []
+   },
+   "30": {
+      "Tokens": [
+         "-",
+         "Wir",
+         "kommen",
+         "zum",
+         "letzten",
+         "Redner",
+         "zu",
+         "diesem",
+         "Tagesordnungspunkt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "31": {
+      "Tokens": [
+         "Das",
+         "ist",
+         "der",
+         "Kollege",
+         "Artur",
+         "Auernhammer",
+         "für",
+         "die",
+         "CDU/CSU",
+         ",",
+         "der",
+         "auch",
+         "ein",
+         "frisches",
+         "Wasser",
+         "bekommt",
+         "."
+      ],
+      "Annotations": []
+   }
+}

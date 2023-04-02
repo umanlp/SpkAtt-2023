@@ -1,0 +1,1119 @@
+{
+   "1": {
+      "Tokens": [
+         "Herr",
+         "Präsident",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "Liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "3": {
+      "Tokens": [
+         "Ich",
+         "stehe",
+         "hier",
+         "für",
+         "eine",
+         "Generation",
+         "der",
+         "Chancenverwirklicher",
+         ",",
+         "als",
+         "deren",
+         "Vertreterin",
+         ",",
+         "als",
+         "Frau",
+         ",",
+         "als",
+         "Politikerin",
+         ","
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "die",
+         "Chancen",
+         "ergreifen",
+         "und",
+         "ermöglichen",
+         "möchte",
+         ",",
+         "die",
+         "Chancengerechtigkeit",
+         "fordert",
+         ",",
+         "verteidigt",
+         "und",
+         "sich",
+         "dafür",
+         "einsetzt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "4:8"
+            ],
+            "Source": [
+               "4:7"
+            ],
+            "Topic": [],
+            "Cue": [
+               "4:9"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "4:8"
+            ],
+            "Source": [
+               "4:7"
+            ],
+            "Topic": [],
+            "Cue": [
+               "4:11"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "5": {
+      "Tokens": [
+         "Und",
+         "die",
+         "Chancenverwirklichung",
+         "voranbringen",
+         "möchte",
+         "."
+      ],
+      "Annotations": []
+   },
+   "6": {
+      "Tokens": [
+         "Alle",
+         "sagten",
+         "immer",
+         ":",
+         "Das",
+         "geht",
+         "nicht",
+         ".",
+         "-"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "6:4",
+               "6:5",
+               "6:6"
+            ],
+            "Source": [
+               "6:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "6:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "7": {
+      "Tokens": [
+         "Bis",
+         "eine",
+         "kam",
+         ",",
+         "die",
+         "das",
+         "nicht",
+         "wusste",
+         "und",
+         "es",
+         "einfach",
+         "machte",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "7:5"
+            ],
+            "Source": [
+               "7:4"
+            ],
+            "Topic": [],
+            "Cue": [
+               "7:7"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "8": {
+      "Tokens": [
+         "-",
+         "Das",
+         "ist",
+         "die",
+         "Generation",
+         "der",
+         "Chancenverwirklicher",
+         ",",
+         "meine",
+         "Damen",
+         "und",
+         "Herren",
+         "."
+      ],
+      "Annotations": []
+   },
+   "9": {
+      "Tokens": [
+         "Sie",
+         "will",
+         "kein",
+         "Gegeneinander",
+         ",",
+         "sondern",
+         "sie",
+         "will",
+         "ein",
+         "Miteinander",
+         "der",
+         "Geschlechter",
+         ",",
+         "sie",
+         "will",
+         "die",
+         "Potenziale",
+         "bestmöglich",
+         "entfalten",
+         ",",
+         "und",
+         "zwar",
+         "unabhängig",
+         "vom",
+         "Lebensbereich",
+         ",",
+         "und",
+         "sie",
+         "will",
+         "schließlich",
+         "eine",
+         "Kultur",
+         ",",
+         "ein",
+         "Umfeld",
+         ",",
+         "das",
+         "genauso",
+         "modern",
+         "und",
+         "fortschrittsoffen",
+         "ist",
+         "wie",
+         "die",
+         "Welt",
+         ",",
+         "in",
+         "der",
+         "wir",
+         "wohnen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "10": {
+      "Tokens": [
+         "Frauen",
+         "und",
+         "Männer",
+         "sitzen",
+         "doch",
+         "eigentlich",
+         "im",
+         "gleichen",
+         "Boot",
+         ",",
+         "egal",
+         "ob",
+         "es",
+         "darum",
+         "geht",
+         ",",
+         "Karriere",
+         "zu",
+         "machen",
+         ",",
+         "oder",
+         "darum",
+         ",",
+         "wie",
+         "man",
+         "sich",
+         "die",
+         "Elternzeit",
+         "aufteilt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "11": {
+      "Tokens": [
+         "Aber",
+         "besonders",
+         "bedeutend",
+         "wird",
+         "dies",
+         ",",
+         "wenn",
+         "beides",
+         "zusammenkommt",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "12": {
+      "Tokens": [
+         "denn",
+         "es",
+         "gilt",
+         "immer",
+         "noch",
+         "zu",
+         "oft",
+         "ein",
+         "Entweder-oder",
+         ",",
+         "es",
+         "heißt",
+         ":",
+         "du",
+         "oder",
+         "ich",
+         ",",
+         "Familie",
+         "oder",
+         "Führungsposition",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "12:13",
+               "12:14",
+               "12:15",
+               "12:16",
+               "12:17",
+               "12:18",
+               "12:19"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "12:11"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "13": {
+      "Tokens": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "beides",
+         "."
+      ],
+      "Annotations": []
+   },
+   "14": {
+      "Tokens": [
+         "Wir",
+         "wollen",
+         "echte",
+         "Wahlfreiheit",
+         "für",
+         "Eltern",
+         ",",
+         "für",
+         "Familien",
+         ",",
+         "für",
+         "Mütter",
+         ",",
+         "für",
+         "Väter",
+         ",",
+         "für",
+         "jeden",
+         "und",
+         "jede",
+         "Einzelne",
+         "."
+      ],
+      "Annotations": []
+   },
+   "15": {
+      "Tokens": [
+         "Das",
+         "ist",
+         "das",
+         ",",
+         "was",
+         "Chancenverwirklicher",
+         "tatsächlich",
+         "wollen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "16": {
+      "Tokens": [
+         "Wir",
+         "alle",
+         "haben",
+         "unterschiedliche",
+         "Talente",
+         "."
+      ],
+      "Annotations": []
+   },
+   "17": {
+      "Tokens": [
+         "Diese",
+         "frühzeitig",
+         "zu",
+         "erkennen",
+         "und",
+         "zu",
+         "fördern",
+         ",",
+         "und",
+         "zwar",
+         "völlig",
+         "unabhängig",
+         "vom",
+         "Geschlecht",
+         "und",
+         "von",
+         "Rollenstereotypen",
+         ",",
+         "das",
+         "ist",
+         "ein",
+         "Anfang",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "17:0"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "17:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "18": {
+      "Tokens": [
+         "Aber",
+         "auch",
+         "die",
+         "Antworten",
+         "von",
+         "morgen",
+         "werden",
+         "eines",
+         "entscheidend",
+         "brauchen",
+         ",",
+         "nämlich",
+         "die",
+         "MINT-Bildung",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "18:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "19": {
+      "Tokens": [
+         "Mathematik",
+         ",",
+         "Informatik",
+         ",",
+         "Naturwissenschaft",
+         "und",
+         "Technik",
+         ",",
+         "Forschungsgeist",
+         ",",
+         "Lösungsentwicklung",
+         ",",
+         "Technologienutzung",
+         "-",
+         "all",
+         "das",
+         "ist",
+         "das",
+         "Potenzial",
+         ",",
+         "das",
+         "wir",
+         "dringend",
+         "nutzen",
+         "sollten",
+         ",",
+         "wenn",
+         "wir",
+         "weiterhin",
+         "Vorreiter",
+         "werden",
+         "wollen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "20": {
+      "Tokens": [
+         "Es",
+         "ist",
+         "auch",
+         "entscheidend",
+         ",",
+         "wie",
+         "wir",
+         "dafür",
+         "die",
+         "Frauen",
+         "und",
+         "die",
+         "Mädchen",
+         "entsprechend",
+         "begeistern",
+         "können",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "21": {
+      "Tokens": [
+         "denn",
+         "eines",
+         "weiß",
+         "ich",
+         ":",
+         "Sie",
+         "können",
+         "es",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "21:5",
+               "21:6",
+               "21:7"
+            ],
+            "Source": [
+               "21:3"
+            ],
+            "Topic": [],
+            "Cue": [
+               "21:2"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "22": {
+      "Tokens": [
+         "Die",
+         "Frauen",
+         ",",
+         "denen",
+         "ich",
+         "im",
+         "Ingenieurstudium",
+         "immer",
+         "begegnet",
+         "bin",
+         ",",
+         "waren",
+         "super",
+         "smart",
+         ",",
+         "aber",
+         "viel",
+         "zu",
+         "wenige",
+         ",",
+         "und",
+         "genau",
+         "das",
+         "ist",
+         "der",
+         "Punkt",
+         ":"
+      ],
+      "Annotations": []
+   },
+   "23": {
+      "Tokens": [
+         "Es",
+         "waren",
+         "viel",
+         "zu",
+         "wenige",
+         "."
+      ],
+      "Annotations": []
+   },
+   "24": {
+      "Tokens": [
+         "Wir",
+         "brauchen",
+         "viel",
+         "mehr",
+         "."
+      ],
+      "Annotations": []
+   },
+   "25": {
+      "Tokens": [
+         "Dort",
+         "müssen",
+         "wir",
+         "ansetzen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "26": {
+      "Tokens": [
+         "Andere",
+         "Länder",
+         "machen",
+         "es",
+         "uns",
+         "vor",
+         "."
+      ],
+      "Annotations": []
+   },
+   "27": {
+      "Tokens": [
+         "Chancenverwirklicher",
+         "brauchen",
+         "ein",
+         "gutes",
+         "Talentmanagement",
+         ",",
+         "strategisches",
+         "Befördern",
+         "statt",
+         "wohlmeinendes",
+         "Fördern",
+         "."
+      ],
+      "Annotations": []
+   },
+   "28": {
+      "Tokens": [
+         "Wir",
+         "brauchen",
+         "einen",
+         "Pool",
+         "von",
+         "Talenten",
+         ",",
+         "aus",
+         "denen",
+         "die",
+         "Wirtschaft",
+         ",",
+         "die",
+         "Politik",
+         ",",
+         "die",
+         "Parteien",
+         ",",
+         "aber",
+         "auch",
+         "die",
+         "Unternehmen",
+         "schöpfen",
+         "können",
+         "."
+      ],
+      "Annotations": []
+   },
+   "29": {
+      "Tokens": [
+         "Meine",
+         "Damen",
+         "und",
+         "Herren",
+         ",",
+         "wenn",
+         "wir",
+         "das",
+         "tatsächlich",
+         "hätten",
+         "und",
+         "wenn",
+         "wir",
+         "eine",
+         "nachhaltige",
+         "Lösung",
+         "hätten",
+         ",",
+         "dann",
+         "bräuchten",
+         "wir",
+         "heute",
+         "keine",
+         "Diskussion",
+         "über",
+         "Parität",
+         "oder",
+         "Quoten",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "29:24",
+               "29:25",
+               "29:26",
+               "29:27"
+            ],
+            "Cue": [
+               "29:23"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "30": {
+      "Tokens": [
+         "Denn",
+         "was",
+         "hilft",
+         "uns",
+         "eigentlich",
+         "ein",
+         "Paritätsgesetz",
+         ",",
+         "wenn",
+         "wir",
+         "auf",
+         "kommunaler",
+         "Ebene",
+         "Frauen",
+         "gewinnen",
+         "wollen",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "31": {
+      "Tokens": [
+         "Oder",
+         "was",
+         "nutzt",
+         "uns",
+         "eine",
+         "Vorstandsquote",
+         ",",
+         "wenn",
+         "es",
+         "immer",
+         "noch",
+         "nicht",
+         "in",
+         "den",
+         "Köpfen",
+         "angekommen",
+         "ist",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "32": {
+      "Tokens": [
+         "Wir",
+         "sind",
+         "in",
+         "einer",
+         "dynamischen",
+         ",",
+         "vernetzten",
+         "und",
+         "hochkomplexen",
+         "Welt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "33": {
+      "Tokens": [
+         "Sie",
+         "ist",
+         "so",
+         "vielfältig",
+         "und",
+         "von",
+         "Veränderungen",
+         "geprägt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "34": {
+      "Tokens": [
+         "Damit",
+         "passen",
+         "starre",
+         "Quoten",
+         "für",
+         "ein",
+         "Geschlecht",
+         "doch",
+         "gar",
+         "nicht",
+         "zusammen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "35": {
+      "Tokens": [
+         "Die",
+         "Berufe",
+         "und",
+         "die",
+         "Teams",
+         "arbeiten",
+         "unglaublich",
+         "unterschiedlich",
+         ",",
+         "die",
+         "Art",
+         "und",
+         "Weise",
+         "ist",
+         "unterschiedlich",
+         ",",
+         "viel",
+         "vielfältiger",
+         ",",
+         "und",
+         "auch",
+         "die",
+         "Digitalisierung",
+         "unterstützt",
+         "das",
+         "weithin",
+         "."
+      ],
+      "Annotations": []
+   },
+   "36": {
+      "Tokens": [
+         "Frau",
+         "Kollegin",
+         "Bauer",
+         ",",
+         "gestatten",
+         "Sie",
+         "eine",
+         "Zwischenfrage",
+         "der",
+         "Kollegin",
+         "von",
+         "Storch",
+         "?"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "36:8",
+               "36:9",
+               "36:10",
+               "36:11"
+            ],
+            "Topic": [],
+            "Cue": [
+               "36:7"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "37": {
+      "Tokens": [
+         "Gerne",
+         "am",
+         "Ende",
+         "."
+      ],
+      "Annotations": []
+   },
+   "38": {
+      "Tokens": [
+         "-",
+         "Darin",
+         "liegen",
+         "tatsächlich",
+         "die",
+         "vielfältigen",
+         "Chancen",
+         ":",
+         "flexibles",
+         "Arbeiten",
+         "unabhängig",
+         "von",
+         "Ort",
+         "und",
+         "Zeit",
+         ",",
+         "bessere",
+         "Aufstiegschancen",
+         "durch",
+         "lebenslanges",
+         "Lernen",
+         "sowie",
+         "mehr",
+         "Selbstbestimmtheit",
+         "und",
+         "Freiraum",
+         "dafür",
+         ",",
+         "diese",
+         "unterschiedlichen",
+         "Phasen",
+         "und",
+         "Rollen",
+         "im",
+         "Leben",
+         "wahrzunehmen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "39": {
+      "Tokens": [
+         "Lassen",
+         "Sie",
+         "uns",
+         "also",
+         "die",
+         "Chancen",
+         "ergreifen",
+         "und",
+         "verwirklichen",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "40": {
+      "Tokens": [
+         "Lassen",
+         "Sie",
+         "uns",
+         "nicht",
+         "warten",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "41": {
+      "Tokens": [
+         "Lassen",
+         "Sie",
+         "uns",
+         "unseren",
+         "Beitrag",
+         "dazu",
+         "leisten",
+         ",",
+         "dass",
+         "es",
+         "bei",
+         "uns",
+         "in",
+         "den",
+         "Köpfen",
+         ",",
+         "in",
+         "den",
+         "einzelnen",
+         "Parteien",
+         ",",
+         "in",
+         "unserer",
+         "Politik",
+         "ankommt",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "42": {
+      "Tokens": [
+         "Als",
+         "Freie",
+         "Demokratin",
+         "bin",
+         "ich",
+         "Fortschrittsoptimistin",
+         ",",
+         "und",
+         "ich",
+         "bin",
+         "fest",
+         "davon",
+         "überzeugt",
+         ",",
+         "dass",
+         "es",
+         "uns",
+         "so",
+         "und",
+         "nur",
+         "so",
+         "gelingen",
+         "kann",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "42:14",
+               "42:15",
+               "42:16",
+               "42:17",
+               "42:18",
+               "42:19",
+               "42:20",
+               "42:21",
+               "42:22",
+               "42:11"
+            ],
+            "Source": [
+               "42:8"
+            ],
+            "Topic": [],
+            "Cue": [
+               "42:9",
+               "42:12"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "43": {
+      "Tokens": [
+         "Danke",
+         "schön",
+         "."
+      ],
+      "Annotations": []
+   },
+   "44": {
+      "Tokens": [
+         "Dann",
+         "erteile",
+         "ich",
+         "das",
+         "Wort",
+         "zu",
+         "einer",
+         "Zwischenbemerkung",
+         "der",
+         "Kollegin",
+         "von",
+         "Storch",
+         ",",
+         "AfD."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "44:4"
+            ],
+            "PTC": []
+         }
+      ]
+   }
+}

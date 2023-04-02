@@ -1,0 +1,1364 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Sehr",
+            "geehrter",
+            "Herr",
+            "Präsident",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Sehr",
+            "geehrte",
+            "Damen",
+            "und",
+            "Herren",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Gemeinsam",
+            "mit",
+            "anderen",
+            "Kolleginnen",
+            "hier",
+            "aus",
+            "dem",
+            "Hohen",
+            "Haus",
+            "sollte",
+            "ich",
+            "dieses",
+            "Jahr",
+            "zur",
+            "64.",
+            "Sitzung",
+            "der",
+            "Frauenrechtskommission",
+            "der",
+            "Vereinten",
+            "Nationen",
+            "nach",
+            "New",
+            "York",
+            "fliegen",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Thema",
+            "dort",
+            "-",
+            "25",
+            "Jahre",
+            "nach",
+            "Verabschiedung",
+            "der",
+            "wegweisenden",
+            "Pekinger",
+            "Erklärung",
+            "-",
+            ":",
+            "die",
+            "Fortschritte",
+            "beim",
+            "Kampf",
+            "für",
+            "die",
+            "Stärkung",
+            "der",
+            "Rechte",
+            "von",
+            "Frauen",
+            "und",
+            "Mädchen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Die",
+            "Generaldebatte",
+            "der",
+            "Frauenrechtskommission",
+            "wurde",
+            "dieses",
+            "Jahr",
+            "leider",
+            "abgesagt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Die",
+            "grundsätzliche",
+            "Debatte",
+            "für",
+            "mehr",
+            "Geschlechtergerechtigkeit",
+            "lässt",
+            "sich",
+            "jedoch",
+            "nicht",
+            "absagen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Gerade",
+            "heute",
+            "gilt",
+            "es",
+            ",",
+            "Bilanz",
+            "zu",
+            "ziehen",
+            ",",
+            "aber",
+            "auch",
+            "Fortschritte",
+            "stärker",
+            "einzufordern",
+            ",",
+            "um",
+            "einen",
+            "gesellschaftlichen",
+            "Rollback",
+            "weltweit",
+            "zu",
+            "verhindern",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Die",
+            "Pekinger",
+            "Erklärung",
+            "verpflichtet",
+            "uns",
+            ",",
+            "der",
+            "Internationale",
+            "Frauentag",
+            "erinnert",
+            "uns",
+            "und",
+            "die",
+            "weltweite",
+            "Stimmung",
+            "mahnt",
+            "uns",
+            ",",
+            "Erkämpftes",
+            "zu",
+            "erhalten",
+            "und",
+            "Fortschritte",
+            "zu",
+            "gestalten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Noch",
+            "immer",
+            "ist",
+            "es",
+            "so",
+            ",",
+            "dass",
+            "Frauen",
+            "und",
+            "Mädchen",
+            "aufgrund",
+            "ihres",
+            "Geschlechts",
+            "in",
+            "allen",
+            "Gesellschaften",
+            "häufiger",
+            "von",
+            "Diskriminierung",
+            "und",
+            "Gewalt",
+            "betroffen",
+            "sind",
+            ",",
+            "auch",
+            "hier",
+            "in",
+            "Deutschland",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "In",
+            "der",
+            "Wirtschaft",
+            "gilt",
+            ":",
+            "je",
+            "höher",
+            "die",
+            "Position",
+            ",",
+            "desto",
+            "geringer",
+            "der",
+            "Frauenanteil",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Im",
+            "Bundestag",
+            "gilt",
+            ":",
+            "je",
+            "größer",
+            "das",
+            "Parlament",
+            ",",
+            "desto",
+            "geringer",
+            "der",
+            "Frauenanteil",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Die",
+            "Pekinger",
+            "Erklärung",
+            "und",
+            "ihre",
+            "Aktionsplattform",
+            "gaben",
+            "hier",
+            "schon",
+            "vor",
+            "25",
+            "Jahren",
+            "eine",
+            "klare",
+            "Marschrichtung",
+            "vor",
+            ":",
+            "Wir",
+            "wollen",
+            "eine",
+            "Gesellschaft",
+            ",",
+            "in",
+            "der",
+            "Frauen",
+            "mitentscheiden",
+            ",",
+            "und",
+            "keine",
+            ",",
+            "in",
+            "der",
+            "über",
+            "Frauen",
+            "entschieden",
+            "wird",
+            ",",
+            "auch",
+            "nicht",
+            "am",
+            "Arbeitsplatz",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Seit",
+            "der",
+            "Verabschiedung",
+            "des",
+            "Gesetzes",
+            "für",
+            "Frauen",
+            "in",
+            "Führungspositionen",
+            "heute",
+            "auf",
+            "den",
+            "Tag",
+            "genau",
+            "vor",
+            "fünf",
+            "Jahren",
+            "bahnt",
+            "sich",
+            "der",
+            "Fortschritt",
+            "auch",
+            "in",
+            "der",
+            "Privatwirtschaft",
+            "seinen",
+            "Weg",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Aber",
+            "das",
+            "reicht",
+            "nicht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Wenn",
+            "wir",
+            "Fortschritt",
+            "in",
+            "Führung",
+            "wollen",
+            ",",
+            "müssen",
+            "wir",
+            "Frauen",
+            "in",
+            "Führung",
+            "bringen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Deshalb",
+            "muss",
+            "unser",
+            "Ziel",
+            "sein",
+            ",",
+            "die",
+            "Hälfte",
+            "der",
+            "Führungspositionen",
+            "Frauen",
+            "anzuvertrauen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Weil",
+            "wir",
+            "uns",
+            "da",
+            "einig",
+            "sind",
+            "-",
+            "das",
+            "haben",
+            "wir",
+            "schon",
+            "gehört",
+            "-",
+            ",",
+            "haben",
+            "unsere",
+            "SPD-Ministerinnen",
+            "Franziska",
+            "Giffey",
+            "und",
+            "Christine",
+            "Lambrecht",
+            "einen",
+            "weitreichenden",
+            "Vorschlag",
+            "vorgelegt",
+            ",",
+            "um",
+            "auch",
+            "mehr",
+            "Frauen",
+            "in",
+            "Vorstände",
+            "von",
+            "börsennotierten",
+            "Unternehmen",
+            "zu",
+            "bringen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Herzlichen",
+            "Dank",
+            "für",
+            "diese",
+            "Initiative",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Was",
+            "wir",
+            "von",
+            "der",
+            "Wirtschaft",
+            "fordern",
+            ",",
+            "müssen",
+            "wir",
+            "auch",
+            "politisch",
+            "vorleben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Auch",
+            "in",
+            "Sachen",
+            "gleicher",
+            "Repräsentanz",
+            "von",
+            "Frauen",
+            "und",
+            "Männern",
+            "im",
+            "Parlament",
+            "steigen",
+            "die",
+            "Chancen",
+            ",",
+            "dass",
+            "wir",
+            "vorankommen",
+            ",",
+            "liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            ",",
+            "zumindest",
+            "wenn",
+            "es",
+            "nach",
+            "unserem",
+            "Vorschlag",
+            "für",
+            "ein",
+            "modernes",
+            "Wahlrecht",
+            "geht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Wir",
+            "haben",
+            "als",
+            "SPD-Bundestagsfraktion",
+            "die",
+            "Tür",
+            "für",
+            "die",
+            "Parität",
+            "durch",
+            "das",
+            "Wahlrecht",
+            "geöffnet",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Mit",
+            "unserem",
+            "Vorschlag",
+            "wollen",
+            "wir",
+            "in",
+            "einem",
+            "ersten",
+            "Schritt",
+            "zur",
+            "nächsten",
+            "Bundestagswahl",
+            "nur",
+            "Parteien",
+            "zulassen",
+            ",",
+            "deren",
+            "Landeslisten",
+            "paritätisch",
+            "abwechselnd"
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "mit",
+            "einer",
+            "Frau",
+            "und",
+            "einem",
+            "Mann",
+            "-",
+            "oder",
+            "umgekehrt",
+            "-",
+            "besetzt",
+            "sind",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "An",
+            "die",
+            "Kollegin",
+            "von",
+            "der",
+            "CDU/CSU",
+            ":",
+            "Vielleicht",
+            "sollte",
+            "man",
+            "das",
+            "auch",
+            "mal",
+            "Herrn",
+            "Merz",
+            "erklären",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Das",
+            "ist",
+            "keine",
+            "Diskriminierung",
+            "von",
+            "Männern",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "das",
+            "nennt",
+            "man",
+            "„",
+            "Gleichberechtigung",
+            "“",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Die",
+            "Tür",
+            "für",
+            "Parität",
+            "steht",
+            "also",
+            "offen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Sehr",
+            "geehrte",
+            "Damen",
+            "und",
+            "Herren",
+            ",",
+            "hier",
+            "wird",
+            "deutlich",
+            ":",
+            "Mit",
+            "der",
+            "SPD",
+            "geht",
+            "es",
+            "gleichstellungspolitisch",
+            "voran",
+            ",",
+            "nicht",
+            "nur",
+            "in",
+            "der",
+            "Wirtschaft",
+            "und",
+            "im",
+            "Parlament",
+            ",",
+            "sondern",
+            "auch",
+            "beim",
+            "Vorgehen",
+            "gegen",
+            "den",
+            "radikalsten",
+            "Ausdruck",
+            "einer",
+            "männlichen",
+            "Dominanz",
+            ":",
+            "die",
+            "Gewalt",
+            "gegen",
+            "Frauen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "Unser",
+            "Ziel",
+            "ist",
+            "und",
+            "bleibt",
+            "es",
+            ",",
+            "die",
+            "ungleichen",
+            "Machtverhältnisse",
+            "zwischen",
+            "den",
+            "Geschlechtern",
+            "aufzubrechen",
+            ",",
+            "die",
+            "meist",
+            "Grund",
+            "für",
+            "Gewalt",
+            "gegen",
+            "Frauen",
+            "in",
+            "unserer",
+            "Gesellschaft",
+            "sind",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 30,
+         "Tokens": [
+            "Mit",
+            "der",
+            "Förderung",
+            "von",
+            "Hilfsstrukturen",
+            ",",
+            "der",
+            "Stärkung",
+            "von",
+            "Opferrechten",
+            "und",
+            "einer",
+            "breiten",
+            "Aufklärungskampagne",
+            "haben",
+            "wir",
+            "schon",
+            "einiges",
+            "getan",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 31,
+         "Tokens": [
+            "Gewalt",
+            "gegen",
+            "Frauen",
+            "ist",
+            "aber",
+            "keine",
+            "Privatsache",
+            ",",
+            "wie",
+            "etwa",
+            "die",
+            "mediale",
+            "Darstellung",
+            "uns",
+            "das",
+            "bei",
+            "Überschriften",
+            "wie",
+            "„",
+            "Eifersuchtsdrama",
+            "“",
+            "oder",
+            "„",
+            "Beziehungstat",
+            "“",
+            "oft",
+            "suggeriert",
+            ","
+         ]
+      },
+      {
+         "SentenceId": 32,
+         "Tokens": [
+            "sondern",
+            "Ausdruck",
+            "von",
+            "gesellschaftlichen",
+            "Machtverhältnissen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 33,
+         "Tokens": [
+            "Sie",
+            "ist",
+            "eine",
+            "Gewalt",
+            ",",
+            "die",
+            "uns",
+            "alle",
+            "angeht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 34,
+         "Tokens": [
+            "Gerade",
+            "in",
+            "dieser",
+            "Zeit",
+            ",",
+            "in",
+            "der",
+            "sich",
+            "Antifeminismus",
+            "und",
+            "Frauenhass",
+            "lückenlos",
+            "in",
+            "die",
+            "Ideologie",
+            "von",
+            "Menschen",
+            "einfügen",
+            "lassen",
+            ",",
+            "die",
+            "unser",
+            "gesellschaftliches",
+            "Zusammenleben",
+            "im",
+            "Kern",
+            "ablehnen",
+            ",",
+            "ist",
+            "es",
+            "an",
+            "uns",
+            ",",
+            "noch",
+            "mehr",
+            "zu",
+            "betonen",
+            ",",
+            "was",
+            "selbstverständlich",
+            "sein",
+            "muss",
+            ":"
+         ]
+      },
+      {
+         "SentenceId": 35,
+         "Tokens": [
+            "Wir",
+            "Frauen",
+            "gehören",
+            "dazu",
+            ",",
+            "immer",
+            "und",
+            "überall",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 36,
+         "Tokens": [
+            "Wir",
+            "Frauen",
+            "haben",
+            "eine",
+            "Stimme",
+            ",",
+            "im",
+            "Vorstand",
+            "und",
+            "im",
+            "Parlament",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 37,
+         "Tokens": [
+            "Wir",
+            "Frauen",
+            "sind",
+            "keine",
+            "Objekte",
+            "der",
+            "Gewalt",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 38,
+         "Tokens": [
+            "wir",
+            "sind",
+            "stark",
+            "und",
+            "selbstbestimmt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 39,
+         "Tokens": [
+            "Allen",
+            ",",
+            "die",
+            "das",
+            "nicht",
+            "anerkennen",
+            "wollen",
+            ",",
+            "stellen",
+            "wir",
+            "uns",
+            "entgegen",
+            ",",
+            "nicht",
+            "nur",
+            "am",
+            "Internationalen",
+            "Frauentag",
+            ",",
+            "sondern",
+            "an",
+            "jedem",
+            "Tag",
+            "im",
+            "Jahr",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 40,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 41,
+         "Tokens": [
+            "Jetzt",
+            "hat",
+            "das",
+            "Wort",
+            "die",
+            "Kollegin",
+            "Gyde",
+            "Jensen",
+            ",",
+            "FDP",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "4:9"
+         ],
+         "Topic": [],
+         "Cue": [
+            "4:10"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "6:3",
+            "6:4",
+            "6:5"
+         ],
+         "Cue": [
+            "6:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "7:11"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "7:13"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "8:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "8:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [
+            "8:4"
+         ],
+         "Evidence": [],
+         "Medium": [
+            "8:0",
+            "8:1",
+            "8:2"
+         ],
+         "Message": [
+            "8:18",
+            "8:19",
+            "8:20",
+            "8:21",
+            "8:22",
+            "8:23",
+            "8:24"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "8:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "8:18",
+            "8:19",
+            "8:20",
+            "8:21",
+            "8:22",
+            "8:23",
+            "8:24"
+         ],
+         "Source": [
+            "8:10"
+         ],
+         "Topic": [
+            "8:6",
+            "8:7",
+            "8:8"
+         ],
+         "Cue": [
+            "8:9"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "12:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "12:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "12:32",
+            "12:33"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "12:34"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "13:5",
+            "13:6",
+            "13:7",
+            "13:8"
+         ],
+         "Cue": [
+            "13:4"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "17:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "17:5",
+            "17:4"
+         ],
+         "PTC": [
+            "17:2"
+         ]
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "17:7"
+         ],
+         "Source": [
+            "17:9"
+         ],
+         "Topic": [],
+         "Cue": [
+            "17:11"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "17:15",
+            "17:16",
+            "17:17",
+            "17:18",
+            "17:19",
+            "17:20",
+            "17:21"
+         ],
+         "Topic": [],
+         "Cue": [
+            "17:25",
+            "17:24"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [
+            "19:2",
+            "19:3",
+            "19:4"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "19:0"
+         ],
+         "Source": [
+            "19:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "19:5"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "20:30",
+            "20:31",
+            "20:32",
+            "20:33"
+         ],
+         "Source": [
+            "20:28"
+         ],
+         "Topic": [],
+         "Cue": [
+            "20:29"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "22:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "22:2"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [
+            "24:13",
+            "24:14"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "24:10"
+         ],
+         "Source": [
+            "24:9"
+         ],
+         "Topic": [],
+         "Cue": [
+            "24:15"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "26:4"
+         ],
+         "Source": [
+            "26:2"
+         ],
+         "Topic": [
+            "26:0"
+         ],
+         "Cue": [
+            "26:1"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "31:12"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [
+            "31:13"
+         ],
+         "Evidence": [],
+         "Medium": [
+            "31:10",
+            "31:11",
+            "31:12"
+         ],
+         "Message": [
+            "31:14"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "31:26"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "34:21",
+            "34:22",
+            "34:23"
+         ],
+         "Source": [
+            "34:20"
+         ],
+         "Topic": [],
+         "Cue": [
+            "34:26"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "34:38",
+            "34:39",
+            "34:40",
+            "34:41",
+            "34:42",
+            "35:0",
+            "35:1",
+            "35:2",
+            "35:3",
+            "35:4",
+            "35:5",
+            "35:6",
+            "35:7"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "34:36"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "41:3"
+         ],
+         "PTC": []
+      }
+   ]
+}

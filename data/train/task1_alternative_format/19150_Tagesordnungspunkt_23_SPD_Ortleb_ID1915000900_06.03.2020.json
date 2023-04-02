@@ -1,0 +1,1348 @@
+{
+   "1": {
+      "Tokens": [
+         "Sehr",
+         "geehrter",
+         "Herr",
+         "Präsident",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "Liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "3": {
+      "Tokens": [
+         "Sehr",
+         "geehrte",
+         "Damen",
+         "und",
+         "Herren",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "Gemeinsam",
+         "mit",
+         "anderen",
+         "Kolleginnen",
+         "hier",
+         "aus",
+         "dem",
+         "Hohen",
+         "Haus",
+         "sollte",
+         "ich",
+         "dieses",
+         "Jahr",
+         "zur",
+         "64.",
+         "Sitzung",
+         "der",
+         "Frauenrechtskommission",
+         "der",
+         "Vereinten",
+         "Nationen",
+         "nach",
+         "New",
+         "York",
+         "fliegen",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "5": {
+      "Tokens": [
+         "Thema",
+         "dort",
+         "-",
+         "25",
+         "Jahre",
+         "nach",
+         "Verabschiedung",
+         "der",
+         "wegweisenden",
+         "Pekinger",
+         "Erklärung",
+         "-",
+         ":",
+         "die",
+         "Fortschritte",
+         "beim",
+         "Kampf",
+         "für",
+         "die",
+         "Stärkung",
+         "der",
+         "Rechte",
+         "von",
+         "Frauen",
+         "und",
+         "Mädchen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "5:9"
+            ],
+            "Topic": [],
+            "Cue": [
+               "5:10"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "6": {
+      "Tokens": [
+         "Die",
+         "Generaldebatte",
+         "der",
+         "Frauenrechtskommission",
+         "wurde",
+         "dieses",
+         "Jahr",
+         "leider",
+         "abgesagt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "7": {
+      "Tokens": [
+         "Die",
+         "grundsätzliche",
+         "Debatte",
+         "für",
+         "mehr",
+         "Geschlechtergerechtigkeit",
+         "lässt",
+         "sich",
+         "jedoch",
+         "nicht",
+         "absagen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "7:3",
+               "7:4",
+               "7:5"
+            ],
+            "Cue": [
+               "7:2"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "8": {
+      "Tokens": [
+         "Gerade",
+         "heute",
+         "gilt",
+         "es",
+         ",",
+         "Bilanz",
+         "zu",
+         "ziehen",
+         ",",
+         "aber",
+         "auch",
+         "Fortschritte",
+         "stärker",
+         "einzufordern",
+         ",",
+         "um",
+         "einen",
+         "gesellschaftlichen",
+         "Rollback",
+         "weltweit",
+         "zu",
+         "verhindern",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "8:11"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "8:13"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "9": {
+      "Tokens": [
+         "Die",
+         "Pekinger",
+         "Erklärung",
+         "verpflichtet",
+         "uns",
+         ",",
+         "der",
+         "Internationale",
+         "Frauentag",
+         "erinnert",
+         "uns",
+         "und",
+         "die",
+         "weltweite",
+         "Stimmung",
+         "mahnt",
+         "uns",
+         ",",
+         "Erkämpftes",
+         "zu",
+         "erhalten",
+         "und",
+         "Fortschritte",
+         "zu",
+         "gestalten",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "9:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "9:2"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [
+               "9:4"
+            ],
+            "Evidence": [],
+            "Medium": [
+               "9:0",
+               "9:1",
+               "9:2"
+            ],
+            "Message": [
+               "9:18",
+               "9:19",
+               "9:20",
+               "9:21",
+               "9:22",
+               "9:23",
+               "9:24"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "9:3"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "9:18",
+               "9:19",
+               "9:20",
+               "9:21",
+               "9:22",
+               "9:23",
+               "9:24"
+            ],
+            "Source": [
+               "9:10"
+            ],
+            "Topic": [
+               "9:6",
+               "9:7",
+               "9:8"
+            ],
+            "Cue": [
+               "9:9"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "10": {
+      "Tokens": [
+         "Noch",
+         "immer",
+         "ist",
+         "es",
+         "so",
+         ",",
+         "dass",
+         "Frauen",
+         "und",
+         "Mädchen",
+         "aufgrund",
+         "ihres",
+         "Geschlechts",
+         "in",
+         "allen",
+         "Gesellschaften",
+         "häufiger",
+         "von",
+         "Diskriminierung",
+         "und",
+         "Gewalt",
+         "betroffen",
+         "sind",
+         ",",
+         "auch",
+         "hier",
+         "in",
+         "Deutschland",
+         "."
+      ],
+      "Annotations": []
+   },
+   "11": {
+      "Tokens": [
+         "In",
+         "der",
+         "Wirtschaft",
+         "gilt",
+         ":",
+         "je",
+         "höher",
+         "die",
+         "Position",
+         ",",
+         "desto",
+         "geringer",
+         "der",
+         "Frauenanteil",
+         "."
+      ],
+      "Annotations": []
+   },
+   "12": {
+      "Tokens": [
+         "Im",
+         "Bundestag",
+         "gilt",
+         ":",
+         "je",
+         "größer",
+         "das",
+         "Parlament",
+         ",",
+         "desto",
+         "geringer",
+         "der",
+         "Frauenanteil",
+         "."
+      ],
+      "Annotations": []
+   },
+   "13": {
+      "Tokens": [
+         "Die",
+         "Pekinger",
+         "Erklärung",
+         "und",
+         "ihre",
+         "Aktionsplattform",
+         "gaben",
+         "hier",
+         "schon",
+         "vor",
+         "25",
+         "Jahren",
+         "eine",
+         "klare",
+         "Marschrichtung",
+         "vor",
+         ":",
+         "Wir",
+         "wollen",
+         "eine",
+         "Gesellschaft",
+         ",",
+         "in",
+         "der",
+         "Frauen",
+         "mitentscheiden",
+         ",",
+         "und",
+         "keine",
+         ",",
+         "in",
+         "der",
+         "über",
+         "Frauen",
+         "entschieden",
+         "wird",
+         ",",
+         "auch",
+         "nicht",
+         "am",
+         "Arbeitsplatz",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "13:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "13:2"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "13:32",
+               "13:33"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "13:34"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "14": {
+      "Tokens": [
+         "Seit",
+         "der",
+         "Verabschiedung",
+         "des",
+         "Gesetzes",
+         "für",
+         "Frauen",
+         "in",
+         "Führungspositionen",
+         "heute",
+         "auf",
+         "den",
+         "Tag",
+         "genau",
+         "vor",
+         "fünf",
+         "Jahren",
+         "bahnt",
+         "sich",
+         "der",
+         "Fortschritt",
+         "auch",
+         "in",
+         "der",
+         "Privatwirtschaft",
+         "seinen",
+         "Weg",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "14:5",
+               "14:6",
+               "14:7",
+               "14:8"
+            ],
+            "Cue": [
+               "14:4"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "15": {
+      "Tokens": [
+         "Aber",
+         "das",
+         "reicht",
+         "nicht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "16": {
+      "Tokens": [
+         "Wenn",
+         "wir",
+         "Fortschritt",
+         "in",
+         "Führung",
+         "wollen",
+         ",",
+         "müssen",
+         "wir",
+         "Frauen",
+         "in",
+         "Führung",
+         "bringen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "17": {
+      "Tokens": [
+         "Deshalb",
+         "muss",
+         "unser",
+         "Ziel",
+         "sein",
+         ",",
+         "die",
+         "Hälfte",
+         "der",
+         "Führungspositionen",
+         "Frauen",
+         "anzuvertrauen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "18": {
+      "Tokens": [
+         "Weil",
+         "wir",
+         "uns",
+         "da",
+         "einig",
+         "sind",
+         "-",
+         "das",
+         "haben",
+         "wir",
+         "schon",
+         "gehört",
+         "-",
+         ",",
+         "haben",
+         "unsere",
+         "SPD-Ministerinnen",
+         "Franziska",
+         "Giffey",
+         "und",
+         "Christine",
+         "Lambrecht",
+         "einen",
+         "weitreichenden",
+         "Vorschlag",
+         "vorgelegt",
+         ",",
+         "um",
+         "auch",
+         "mehr",
+         "Frauen",
+         "in",
+         "Vorstände",
+         "von",
+         "börsennotierten",
+         "Unternehmen",
+         "zu",
+         "bringen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "18:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "18:5",
+               "18:4"
+            ],
+            "PTC": [
+               "18:2"
+            ]
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "18:7"
+            ],
+            "Source": [
+               "18:9"
+            ],
+            "Topic": [],
+            "Cue": [
+               "18:11"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "18:15",
+               "18:16",
+               "18:17",
+               "18:18",
+               "18:19",
+               "18:20",
+               "18:21"
+            ],
+            "Topic": [],
+            "Cue": [
+               "18:25",
+               "18:24"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "19": {
+      "Tokens": [
+         "Herzlichen",
+         "Dank",
+         "für",
+         "diese",
+         "Initiative",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "20": {
+      "Tokens": [
+         "Was",
+         "wir",
+         "von",
+         "der",
+         "Wirtschaft",
+         "fordern",
+         ",",
+         "müssen",
+         "wir",
+         "auch",
+         "politisch",
+         "vorleben",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "20:2",
+               "20:3",
+               "20:4"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "20:0"
+            ],
+            "Source": [
+               "20:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "20:5"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "21": {
+      "Tokens": [
+         "Auch",
+         "in",
+         "Sachen",
+         "gleicher",
+         "Repräsentanz",
+         "von",
+         "Frauen",
+         "und",
+         "Männern",
+         "im",
+         "Parlament",
+         "steigen",
+         "die",
+         "Chancen",
+         ",",
+         "dass",
+         "wir",
+         "vorankommen",
+         ",",
+         "liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         ",",
+         "zumindest",
+         "wenn",
+         "es",
+         "nach",
+         "unserem",
+         "Vorschlag",
+         "für",
+         "ein",
+         "modernes",
+         "Wahlrecht",
+         "geht",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "21:30",
+               "21:31",
+               "21:32",
+               "21:33"
+            ],
+            "Source": [
+               "21:28"
+            ],
+            "Topic": [],
+            "Cue": [
+               "21:29"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "22": {
+      "Tokens": [
+         "Wir",
+         "haben",
+         "als",
+         "SPD-Bundestagsfraktion",
+         "die",
+         "Tür",
+         "für",
+         "die",
+         "Parität",
+         "durch",
+         "das",
+         "Wahlrecht",
+         "geöffnet",
+         "."
+      ],
+      "Annotations": []
+   },
+   "23": {
+      "Tokens": [
+         "Mit",
+         "unserem",
+         "Vorschlag",
+         "wollen",
+         "wir",
+         "in",
+         "einem",
+         "ersten",
+         "Schritt",
+         "zur",
+         "nächsten",
+         "Bundestagswahl",
+         "nur",
+         "Parteien",
+         "zulassen",
+         ",",
+         "deren",
+         "Landeslisten",
+         "paritätisch",
+         "abwechselnd"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "23:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "23:2"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "24": {
+      "Tokens": [
+         "mit",
+         "einer",
+         "Frau",
+         "und",
+         "einem",
+         "Mann",
+         "-",
+         "oder",
+         "umgekehrt",
+         "-",
+         "besetzt",
+         "sind",
+         "."
+      ],
+      "Annotations": []
+   },
+   "25": {
+      "Tokens": [
+         "An",
+         "die",
+         "Kollegin",
+         "von",
+         "der",
+         "CDU/CSU",
+         ":",
+         "Vielleicht",
+         "sollte",
+         "man",
+         "das",
+         "auch",
+         "mal",
+         "Herrn",
+         "Merz",
+         "erklären",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "25:13",
+               "25:14"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "25:10"
+            ],
+            "Source": [
+               "25:9"
+            ],
+            "Topic": [],
+            "Cue": [
+               "25:15"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "26": {
+      "Tokens": [
+         "Das",
+         "ist",
+         "keine",
+         "Diskriminierung",
+         "von",
+         "Männern",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "27": {
+      "Tokens": [
+         "das",
+         "nennt",
+         "man",
+         "„",
+         "Gleichberechtigung",
+         "“",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "27:4"
+            ],
+            "Source": [
+               "27:2"
+            ],
+            "Topic": [
+               "27:0"
+            ],
+            "Cue": [
+               "27:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "28": {
+      "Tokens": [
+         "Die",
+         "Tür",
+         "für",
+         "Parität",
+         "steht",
+         "also",
+         "offen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "29": {
+      "Tokens": [
+         "Sehr",
+         "geehrte",
+         "Damen",
+         "und",
+         "Herren",
+         ",",
+         "hier",
+         "wird",
+         "deutlich",
+         ":",
+         "Mit",
+         "der",
+         "SPD",
+         "geht",
+         "es",
+         "gleichstellungspolitisch",
+         "voran",
+         ",",
+         "nicht",
+         "nur",
+         "in",
+         "der",
+         "Wirtschaft",
+         "und",
+         "im",
+         "Parlament",
+         ",",
+         "sondern",
+         "auch",
+         "beim",
+         "Vorgehen",
+         "gegen",
+         "den",
+         "radikalsten",
+         "Ausdruck",
+         "einer",
+         "männlichen",
+         "Dominanz",
+         ":",
+         "die",
+         "Gewalt",
+         "gegen",
+         "Frauen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "30": {
+      "Tokens": [
+         "Unser",
+         "Ziel",
+         "ist",
+         "und",
+         "bleibt",
+         "es",
+         ",",
+         "die",
+         "ungleichen",
+         "Machtverhältnisse",
+         "zwischen",
+         "den",
+         "Geschlechtern",
+         "aufzubrechen",
+         ",",
+         "die",
+         "meist",
+         "Grund",
+         "für",
+         "Gewalt",
+         "gegen",
+         "Frauen",
+         "in",
+         "unserer",
+         "Gesellschaft",
+         "sind",
+         "."
+      ],
+      "Annotations": []
+   },
+   "31": {
+      "Tokens": [
+         "Mit",
+         "der",
+         "Förderung",
+         "von",
+         "Hilfsstrukturen",
+         ",",
+         "der",
+         "Stärkung",
+         "von",
+         "Opferrechten",
+         "und",
+         "einer",
+         "breiten",
+         "Aufklärungskampagne",
+         "haben",
+         "wir",
+         "schon",
+         "einiges",
+         "getan",
+         "."
+      ],
+      "Annotations": []
+   },
+   "32": {
+      "Tokens": [
+         "Gewalt",
+         "gegen",
+         "Frauen",
+         "ist",
+         "aber",
+         "keine",
+         "Privatsache",
+         ",",
+         "wie",
+         "etwa",
+         "die",
+         "mediale",
+         "Darstellung",
+         "uns",
+         "das",
+         "bei",
+         "Überschriften",
+         "wie",
+         "„",
+         "Eifersuchtsdrama",
+         "“",
+         "oder",
+         "„",
+         "Beziehungstat",
+         "“",
+         "oft",
+         "suggeriert",
+         ","
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "32:12"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [
+               "32:13"
+            ],
+            "Evidence": [],
+            "Medium": [
+               "32:10",
+               "32:11",
+               "32:12"
+            ],
+            "Message": [
+               "32:14"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "32:26"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "33": {
+      "Tokens": [
+         "sondern",
+         "Ausdruck",
+         "von",
+         "gesellschaftlichen",
+         "Machtverhältnissen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "34": {
+      "Tokens": [
+         "Sie",
+         "ist",
+         "eine",
+         "Gewalt",
+         ",",
+         "die",
+         "uns",
+         "alle",
+         "angeht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "35": {
+      "Tokens": [
+         "Gerade",
+         "in",
+         "dieser",
+         "Zeit",
+         ",",
+         "in",
+         "der",
+         "sich",
+         "Antifeminismus",
+         "und",
+         "Frauenhass",
+         "lückenlos",
+         "in",
+         "die",
+         "Ideologie",
+         "von",
+         "Menschen",
+         "einfügen",
+         "lassen",
+         ",",
+         "die",
+         "unser",
+         "gesellschaftliches",
+         "Zusammenleben",
+         "im",
+         "Kern",
+         "ablehnen",
+         ",",
+         "ist",
+         "es",
+         "an",
+         "uns",
+         ",",
+         "noch",
+         "mehr",
+         "zu",
+         "betonen",
+         ",",
+         "was",
+         "selbstverständlich",
+         "sein",
+         "muss",
+         ":"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "35:21",
+               "35:22",
+               "35:23"
+            ],
+            "Source": [
+               "35:20"
+            ],
+            "Topic": [],
+            "Cue": [
+               "35:26"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "35:38",
+               "35:39",
+               "35:40",
+               "35:41",
+               "35:42",
+               "36:0",
+               "36:1",
+               "36:2",
+               "36:3",
+               "36:4",
+               "36:5",
+               "36:6",
+               "36:7"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "35:36"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "36": {
+      "Tokens": [
+         "Wir",
+         "Frauen",
+         "gehören",
+         "dazu",
+         ",",
+         "immer",
+         "und",
+         "überall",
+         "."
+      ],
+      "Annotations": []
+   },
+   "37": {
+      "Tokens": [
+         "Wir",
+         "Frauen",
+         "haben",
+         "eine",
+         "Stimme",
+         ",",
+         "im",
+         "Vorstand",
+         "und",
+         "im",
+         "Parlament",
+         "."
+      ],
+      "Annotations": []
+   },
+   "38": {
+      "Tokens": [
+         "Wir",
+         "Frauen",
+         "sind",
+         "keine",
+         "Objekte",
+         "der",
+         "Gewalt",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "39": {
+      "Tokens": [
+         "wir",
+         "sind",
+         "stark",
+         "und",
+         "selbstbestimmt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "40": {
+      "Tokens": [
+         "Allen",
+         ",",
+         "die",
+         "das",
+         "nicht",
+         "anerkennen",
+         "wollen",
+         ",",
+         "stellen",
+         "wir",
+         "uns",
+         "entgegen",
+         ",",
+         "nicht",
+         "nur",
+         "am",
+         "Internationalen",
+         "Frauentag",
+         ",",
+         "sondern",
+         "an",
+         "jedem",
+         "Tag",
+         "im",
+         "Jahr",
+         "."
+      ],
+      "Annotations": []
+   },
+   "41": {
+      "Tokens": [
+         "Vielen",
+         "Dank",
+         "."
+      ],
+      "Annotations": []
+   },
+   "42": {
+      "Tokens": [
+         "Jetzt",
+         "hat",
+         "das",
+         "Wort",
+         "die",
+         "Kollegin",
+         "Gyde",
+         "Jensen",
+         ",",
+         "FDP",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "42:3"
+            ],
+            "PTC": []
+         }
+      ]
+   }
+}

@@ -1,0 +1,1179 @@
+{
+   "1": {
+      "Tokens": [
+         "Sehr",
+         "geehrte",
+         "Frau",
+         "Präsidentin",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "Liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "3": {
+      "Tokens": [
+         "In",
+         "meinem",
+         "Wahlkreis",
+         "beschäftigt",
+         "kaum",
+         "ein",
+         "Thema",
+         "die",
+         "Menschen",
+         "so",
+         "wie",
+         "die",
+         "drohenden",
+         "Fahrverbote",
+         "für",
+         "Dieselfahrzeuge",
+         "."
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "Sie",
+         "werden",
+         "diese",
+         "Sorgen",
+         "sicherlich",
+         "auch",
+         "kennen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "5": {
+      "Tokens": [
+         "Klar",
+         ",",
+         "erhöhte",
+         "Stickoxidemissionen",
+         "sind",
+         "negativ",
+         "für",
+         "die",
+         "Gesundheit",
+         "der",
+         "Menschen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "6": {
+      "Tokens": [
+         "Deshalb",
+         "müssen",
+         "diese",
+         "reduziert",
+         "werden",
+         "."
+      ],
+      "Annotations": []
+   },
+   "7": {
+      "Tokens": [
+         "Technische",
+         "Nachrüstungen",
+         "führen",
+         "zu",
+         "einer",
+         "deutlichen",
+         "Absenkung",
+         ",",
+         "innerorts",
+         "bis",
+         "zu",
+         "70",
+         "Prozent",
+         ",",
+         "außerorts",
+         "sogar",
+         "bis",
+         "zu",
+         "90",
+         "Prozent",
+         "."
+      ],
+      "Annotations": []
+   },
+   "8": {
+      "Tokens": [
+         "Das",
+         "Thema",
+         "Nachrüstung",
+         "wurde",
+         "im",
+         "CSU-Verkehrsministerium",
+         "lange",
+         "stiefmütterlich",
+         "behandelt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "9": {
+      "Tokens": [
+         "Der",
+         "Druck",
+         "auf",
+         "die",
+         "Autohersteller",
+         "war",
+         "nicht",
+         "besonders",
+         "ausgeprägt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "10": {
+      "Tokens": [
+         "Für",
+         "mich",
+         "war",
+         "es",
+         "eher",
+         "ein",
+         "Werfen",
+         "von",
+         "Wattebällchen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "11": {
+      "Tokens": [
+         "Auch",
+         "deshalb",
+         "haben",
+         "wir",
+         "viel",
+         "Zeit",
+         "verloren",
+         "."
+      ],
+      "Annotations": []
+   },
+   "12": {
+      "Tokens": [
+         "Im",
+         "Herbst",
+         "hat",
+         "die",
+         "Bundesregierung",
+         "Nachrüstungsfördermaßnahmen",
+         "für",
+         "Kommunalfahrzeuge",
+         "wie",
+         "Busse",
+         "und",
+         "Müllfahrzeuge",
+         "beschlossen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "12:5",
+               "12:6",
+               "12:7",
+               "12:8",
+               "12:9",
+               "12:10",
+               "12:11"
+            ],
+            "Source": [
+               "12:3",
+               "12:4"
+            ],
+            "Topic": [],
+            "Cue": [
+               "12:12"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "13": {
+      "Tokens": [
+         "Deren",
+         "Nachrüstung",
+         "alleine",
+         "reicht",
+         "aber",
+         "nicht",
+         "aus",
+         "."
+      ],
+      "Annotations": []
+   },
+   "14": {
+      "Tokens": [
+         "Natürlich",
+         "müssen",
+         "Nachrüstungen",
+         "auch",
+         "bei",
+         "allen",
+         "anderen",
+         "Fahrzeugen",
+         "erfolgen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "15": {
+      "Tokens": [
+         "Ziel",
+         "ist",
+         ",",
+         "die",
+         "Luftreinhaltewerte",
+         "durch",
+         "diese",
+         "Maßnahme",
+         "einzuhalten",
+         "und",
+         "die",
+         "Luftqualität",
+         "zu",
+         "verbessern",
+         "-",
+         "ein",
+         "wichtiger",
+         "Beitrag",
+         "für",
+         "den",
+         "vorsorgenden",
+         "Gesundheitsschutz",
+         "."
+      ],
+      "Annotations": []
+   },
+   "16": {
+      "Tokens": [
+         "Wie",
+         "geht",
+         "es",
+         "den",
+         "Menschen",
+         ",",
+         "die",
+         "von",
+         "drohenden",
+         "Fahrverboten",
+         "betroffen",
+         "sind",
+         "und",
+         "nachrüsten",
+         "wollen",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "17": {
+      "Tokens": [
+         "Viele",
+         "sind",
+         "zu",
+         "Recht",
+         "empört",
+         ",",
+         "dass",
+         "bisher",
+         "wohl",
+         "nur",
+         "VW",
+         "und",
+         "Daimler",
+         "bereit",
+         "sind",
+         ",",
+         "die",
+         "Nachrüstung",
+         "mit",
+         "etwa",
+         "3",
+         "000",
+         "Euro",
+         "zu",
+         "unterstützen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "18": {
+      "Tokens": [
+         "Sie",
+         "haben",
+         "ihre",
+         "Dieselfahrzeuge",
+         "gekauft",
+         ",",
+         "weil",
+         "ihnen",
+         "-",
+         "auch",
+         "im",
+         "Prospekt",
+         "-",
+         "die",
+         "Umweltfreundlichkeit",
+         "versprochen",
+         "wurde",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "18:7"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "18:13",
+               "18:14"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "18:15"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "19": {
+      "Tokens": [
+         "BMW",
+         "verärgert",
+         "die",
+         "Menschen",
+         "ganz",
+         "besonders",
+         "."
+      ],
+      "Annotations": []
+   },
+   "20": {
+      "Tokens": [
+         "Dank",
+         "an",
+         "Herrn",
+         "Marinoff",
+         "aus",
+         "meinem",
+         "Frankfurter",
+         "Wahlkreis",
+         "für",
+         "seinen",
+         "Hinweis",
+         "auf",
+         "eine",
+         "Sendung",
+         "des",
+         "Fernsehmagazins",
+         "„",
+         "Frontal",
+         "21",
+         "“",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "20:1",
+               "20:2",
+               "20:3",
+               "20:4",
+               "20:5",
+               "20:6",
+               "20:7"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "20:0"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "20:11",
+               "20:12",
+               "20:13",
+               "20:14",
+               "20:15",
+               "20:16",
+               "20:17",
+               "20:18",
+               "20:19"
+            ],
+            "Source": [
+               "20:9"
+            ],
+            "Topic": [],
+            "Cue": [
+               "20:10"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "21": {
+      "Tokens": [
+         "Dort",
+         "wurde",
+         "nachgewiesen",
+         ",",
+         "dass",
+         "BMW",
+         "in",
+         "den",
+         "USA",
+         "-",
+         "und",
+         "eben",
+         "nicht",
+         "in",
+         "Deutschland",
+         "-",
+         "die",
+         "saubere",
+         "Hardware",
+         "schon",
+         "seit",
+         "2008",
+         "serienmäßig",
+         "einbaut",
+         "."
+      ],
+      "Annotations": []
+   },
+   "22": {
+      "Tokens": [
+         "Diese",
+         "Teile",
+         "stehen",
+         "auch",
+         "im",
+         "offiziellen",
+         "BMW-Ersatzteilkatalog",
+         ",",
+         "bestellbar",
+         "frei",
+         "Haus",
+         ",",
+         "aber",
+         "nur",
+         "in",
+         "den",
+         "USA",
+         "."
+      ],
+      "Annotations": []
+   },
+   "23": {
+      "Tokens": [
+         "Dies",
+         "ist",
+         "aus",
+         "meiner",
+         "Sicht",
+         "ein",
+         "schäbiges",
+         "Handeln",
+         "und",
+         "macht",
+         "deutlich",
+         ":"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "23:5",
+               "23:6",
+               "23:7",
+               "23:0",
+               "23:1"
+            ],
+            "Source": [
+               "23:3"
+            ],
+            "Topic": [],
+            "Cue": [
+               "23:4",
+               "23:2"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "24": {
+      "Tokens": [
+         "BMW",
+         "will",
+         "neue",
+         "Fahrzeuge",
+         "verkaufen",
+         "und",
+         "lässt",
+         "damit",
+         "seine",
+         "Bestandskunden",
+         "im",
+         "Stich",
+         "."
+      ],
+      "Annotations": []
+   },
+   "25": {
+      "Tokens": [
+         "Das",
+         "geht",
+         "gar",
+         "nicht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "26": {
+      "Tokens": [
+         "Zum",
+         "Glück",
+         "gibt",
+         "es",
+         "deutsche",
+         "Nachrüstfirmen",
+         ",",
+         "die",
+         "für",
+         "fast",
+         "jedes",
+         "Fahrzeug",
+         "eine",
+         "gute",
+         "Lösung",
+         "haben",
+         "."
+      ],
+      "Annotations": []
+   },
+   "27": {
+      "Tokens": [
+         "Das",
+         "Kraftfahrt-Bundesamt",
+         "hat",
+         "jetzt",
+         "endlich",
+         "die",
+         "Nachrüstrichtlinie",
+         "vorgelegt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "27:5",
+               "27:6"
+            ],
+            "Source": [
+               "27:0",
+               "27:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "27:7",
+               "27:6"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "28": {
+      "Tokens": [
+         "Nun",
+         "können",
+         "die",
+         "Nachrüster",
+         "handeln",
+         "."
+      ],
+      "Annotations": []
+   },
+   "29": {
+      "Tokens": [
+         "Das",
+         "Interesse",
+         "des",
+         "KBA",
+         "an",
+         "Nachrüstung",
+         "scheint",
+         "nicht",
+         "besonders",
+         "groß",
+         "zu",
+         "sein",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "30": {
+      "Tokens": [
+         "vielleicht",
+         "kommt",
+         "auch",
+         "deshalb",
+         "erst",
+         "so",
+         "spät",
+         "die",
+         "Richtlinie",
+         "."
+      ],
+      "Annotations": []
+   },
+   "31": {
+      "Tokens": [
+         "Im",
+         "November",
+         "bekamen",
+         "die",
+         "betroffenen",
+         "Fahrzeugbesitzer",
+         "vom",
+         "KBA",
+         "ein",
+         "Schreiben",
+         ",",
+         "in",
+         "dem",
+         "nur",
+         "auf",
+         "Umtauschaktionen",
+         "hingewiesen",
+         "wurde",
+         ",",
+         "pikanterweise",
+         "mit",
+         "den",
+         "Hotlines",
+         "von",
+         "BMW",
+         ",",
+         "Daimler",
+         "und",
+         "VW",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "31:3",
+               "31:4",
+               "31:5"
+            ],
+            "Evidence": [],
+            "Medium": [
+               "31:8",
+               "31:9"
+            ],
+            "Message": [],
+            "Source": [
+               "31:6",
+               "31:7"
+            ],
+            "Topic": [],
+            "Cue": [
+               "31:2",
+               "31:9"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [
+               "31:11",
+               "31:12"
+            ],
+            "Message": [
+               "31:14",
+               "31:15"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "31:16"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "32": {
+      "Tokens": [
+         "Aus",
+         "meiner",
+         "Sicht",
+         "war",
+         "dies",
+         "ein",
+         "Verkaufsförderprogramm",
+         "dieser",
+         "drei",
+         "Hersteller",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "32:3",
+               "32:4",
+               "32:5",
+               "32:6",
+               "32:7",
+               "32:8",
+               "32:9"
+            ],
+            "Source": [
+               "32:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "32:2",
+               "32:0"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "33": {
+      "Tokens": [
+         "Höflich",
+         "ausgedrückt",
+         ",",
+         "ist",
+         "das",
+         "sehr",
+         "schräg",
+         ",",
+         "liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "33:3",
+               "33:4",
+               "33:5",
+               "33:6"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "33:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "34": {
+      "Tokens": [
+         "Wir",
+         "wollen",
+         "mit",
+         "der",
+         "Änderung",
+         "des",
+         "BImSchG",
+         "erreichen",
+         ",",
+         "dass",
+         "nachgerüstete",
+         ",",
+         "nachweislich",
+         "saubere",
+         "Fahrzeuge",
+         "von",
+         "möglichen",
+         "Fahrverboten",
+         "ausgenommen",
+         "werden",
+         "."
+      ],
+      "Annotations": []
+   },
+   "35": {
+      "Tokens": [
+         "Nur",
+         "dann",
+         "werden",
+         "die",
+         "Menschen",
+         "ihre",
+         "Pkws",
+         "nachrüsten",
+         "."
+      ],
+      "Annotations": []
+   },
+   "36": {
+      "Tokens": [
+         "Wir",
+         "von",
+         "der",
+         "SPD",
+         "wollen",
+         ",",
+         "dass",
+         "alle",
+         "Autohersteller",
+         "die",
+         "Kosten",
+         "dafür",
+         "vollständig",
+         "übernehmen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "37": {
+      "Tokens": [
+         "Gut",
+         "38",
+         "000",
+         "Kfz-Meisterbetriebe",
+         "stehen",
+         "bereit",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "38": {
+      "Tokens": [
+         "sie",
+         "sagen",
+         ":",
+         "Wir",
+         "können",
+         "nachrüsten",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "38:3",
+               "38:4",
+               "38:5"
+            ],
+            "Source": [
+               "38:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "38:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "39": {
+      "Tokens": [
+         "-",
+         "Lassen",
+         "wir",
+         "diese",
+         "Kfz-Meisterbetriebe",
+         "an",
+         "die",
+         "Arbeit",
+         "gehen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "40": {
+      "Tokens": [
+         "Ich",
+         "danke",
+         "Ihnen",
+         "für",
+         "die",
+         "Aufmerksamkeit",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "40:2"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "40:0"
+            ],
+            "Topic": [
+               "40:3",
+               "40:4",
+               "40:5"
+            ],
+            "Cue": [
+               "40:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "41": {
+      "Tokens": [
+         "Vielen",
+         "Dank",
+         ",",
+         "Ulli",
+         "Nissen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "42": {
+      "Tokens": [
+         "-",
+         "Ich",
+         "schließe",
+         "die",
+         "Aussprache",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "42:4"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "43": {
+      "Tokens": [
+         "Interfraktionell",
+         "wird",
+         "Überweisung",
+         "der",
+         "Vorlagen",
+         "auf",
+         "den",
+         "Drucksachen",
+         "19",
+         "/",
+         "6335",
+         ",",
+         "19",
+         "/",
+         "6927",
+         ",",
+         "19",
+         "/",
+         "1359",
+         "und",
+         "19",
+         "/",
+         "6195",
+         "an",
+         "die",
+         "in",
+         "der",
+         "Tagesordnung",
+         "aufgeführten",
+         "Ausschüsse",
+         "vorgeschlagen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [
+               "43:5",
+               "43:6",
+               "43:7",
+               "43:8",
+               "43:9",
+               "43:10",
+               "43:11",
+               "43:12",
+               "43:13",
+               "43:14",
+               "43:15",
+               "43:16",
+               "43:17",
+               "43:18",
+               "43:19",
+               "43:20",
+               "43:21",
+               "43:22"
+            ],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "43:4"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [
+               "43:25",
+               "43:26",
+               "43:27"
+            ],
+            "Message": [
+               "43:29"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "43:28"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [
+               "43:23",
+               "43:24",
+               "43:25",
+               "43:26",
+               "43:27",
+               "43:28",
+               "43:29"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "43:2",
+               "43:3",
+               "43:4",
+               "43:5",
+               "43:6",
+               "43:7",
+               "43:8",
+               "43:9",
+               "43:10",
+               "43:11",
+               "43:12",
+               "43:13",
+               "43:14",
+               "43:15",
+               "43:16",
+               "43:17",
+               "43:18",
+               "43:19",
+               "43:20",
+               "43:21",
+               "43:22",
+               "43:23",
+               "43:24",
+               "43:25",
+               "43:26",
+               "43:27",
+               "43:28",
+               "43:29"
+            ],
+            "Source": [
+               "43:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "43:30"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "44": {
+      "Tokens": [
+         "-",
+         "Sie",
+         "sind",
+         "einverstanden",
+         "."
+      ],
+      "Annotations": []
+   },
+   "45": {
+      "Tokens": [
+         "Dann",
+         "sind",
+         "die",
+         "Überweisungen",
+         "so",
+         "beschlossen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "45:2",
+               "45:3"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "45:5"
+            ],
+            "PTC": []
+         }
+      ]
+   }
+}

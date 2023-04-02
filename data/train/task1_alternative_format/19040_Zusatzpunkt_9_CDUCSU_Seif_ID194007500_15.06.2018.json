@@ -1,0 +1,1566 @@
+{
+   "1": {
+      "Tokens": [
+         "Sehr",
+         "geehrter",
+         "Herr",
+         "Präsident",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "Liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "3": {
+      "Tokens": [
+         "Meine",
+         "Damen",
+         "und",
+         "Herren",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "Der",
+         "letzte",
+         "Redebeitrag",
+         "hat",
+         "den",
+         "Eindruck",
+         "erweckt",
+         ",",
+         "als",
+         "ob",
+         "wir",
+         "von",
+         "der",
+         "CDU",
+         "/",
+         "CSU-Bundestagsfraktion",
+         "uns",
+         "die",
+         "Flüchtlinge",
+         "und",
+         "deren",
+         "Lage",
+         "nicht",
+         "zu",
+         "Herzen",
+         "nehmen",
+         "würden",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "4:2"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [
+               "4:0",
+               "4:1",
+               "4:2"
+            ],
+            "Message": [
+               "4:8",
+               "4:9",
+               "4:10",
+               "4:11",
+               "4:12",
+               "4:13",
+               "4:14",
+               "4:15",
+               "4:16",
+               "4:17",
+               "4:18",
+               "4:19",
+               "4:20",
+               "4:21",
+               "4:22",
+               "4:23",
+               "4:24",
+               "4:25",
+               "4:26"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "4:6",
+               "4:5"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "5": {
+      "Tokens": [
+         "Ich",
+         "betone",
+         "aber",
+         "an",
+         "dieser",
+         "Stelle",
+         "ausdrücklich",
+         ":"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "6:0",
+               "6:1",
+               "6:2",
+               "6:3",
+               "6:4",
+               "6:5",
+               "6:6",
+               "6:7",
+               "6:8",
+               "6:9",
+               "6:10",
+               "6:11",
+               "6:12",
+               "6:13",
+               "6:14",
+               "6:15",
+               "6:16",
+               "6:17",
+               "6:18",
+               "6:19"
+            ],
+            "Source": [
+               "5:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "5:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "6": {
+      "Tokens": [
+         "Für",
+         "die",
+         "CDU",
+         "/",
+         "CSU-Bundestagsfraktion",
+         "steht",
+         "außer",
+         "Frage",
+         ",",
+         "dass",
+         "Deutschland",
+         "sich",
+         "zu",
+         "den",
+         "Menschen",
+         "bekennt",
+         ",",
+         "die",
+         "verfolgt",
+         "werden",
+         "-",
+         "Punkt",
+         "eins",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "6:9",
+               "6:10",
+               "6:11",
+               "6:12",
+               "6:13",
+               "6:14",
+               "6:15",
+               "6:16",
+               "6:17",
+               "6:18",
+               "6:19"
+            ],
+            "Source": [
+               "6:0",
+               "6:1",
+               "6:2",
+               "6:3",
+               "6:4"
+            ],
+            "Topic": [],
+            "Cue": [
+               "6:5",
+               "6:6",
+               "6:7"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "6:12",
+               "6:13",
+               "6:14",
+               "6:17",
+               "6:18",
+               "6:19"
+            ],
+            "Source": [
+               "6:10"
+            ],
+            "Topic": [],
+            "Cue": [
+               "6:15"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "7": {
+      "Tokens": [
+         "Punkt",
+         "zwei",
+         "."
+      ],
+      "Annotations": []
+   },
+   "8": {
+      "Tokens": [
+         "Andererseits",
+         "muss",
+         "es",
+         "aber",
+         "doch",
+         "unser",
+         "Anspruch",
+         "sein",
+         ",",
+         "die",
+         "Migration",
+         "in",
+         "unser",
+         "Land",
+         "zu",
+         "ordnen",
+         ",",
+         "zu",
+         "steuern",
+         "und",
+         "auch",
+         "zu",
+         "begrenzen",
+         ","
+      ],
+      "Annotations": []
+   },
+   "9": {
+      "Tokens": [
+         "vor",
+         "allen",
+         "Dingen",
+         "aber",
+         "sicherzustellen",
+         ",",
+         "dass",
+         "die",
+         "Asylverfahren",
+         "ordnungsgemäß",
+         "und",
+         "rechtmäßig",
+         "ablaufen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "10": {
+      "Tokens": [
+         "Obwohl",
+         "wir",
+         "in",
+         "den",
+         "letzten",
+         "drei",
+         "Jahren",
+         "-",
+         "das",
+         "sollte",
+         "man",
+         "hier",
+         "nicht",
+         "kleinreden",
+         "-",
+         "gesetzlich",
+         "sehr",
+         "viel",
+         "auf",
+         "den",
+         "Weg",
+         "gebracht",
+         "haben",
+         ",",
+         "um",
+         "die",
+         "Verfahren",
+         "zu",
+         "ordnen",
+         "und",
+         "zu",
+         "beschleunigen",
+         ","
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "10:8"
+            ],
+            "Source": [
+               "10:10"
+            ],
+            "Topic": [],
+            "Cue": [
+               "10:13"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "11": {
+      "Tokens": [
+         "die",
+         "Integration",
+         "zu",
+         "verbessern",
+         ",",
+         "ist",
+         "unser",
+         "Land",
+         "an",
+         "Grenzen",
+         "gestoßen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "12": {
+      "Tokens": [
+         "Das",
+         "muss",
+         "man",
+         "erkennen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "12:0"
+            ],
+            "Source": [
+               "12:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "12:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "13": {
+      "Tokens": [
+         "Die",
+         "Massenzuwanderung",
+         "der",
+         "Jahre",
+         "2015",
+         "und",
+         "2016",
+         "hat",
+         "in",
+         "vielen",
+         "Bereichen",
+         "unserer",
+         "Gesellschaft",
+         "zu",
+         "Verwerfungen",
+         "geführt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "14": {
+      "Tokens": [
+         "Auch",
+         "und",
+         "gerade",
+         "diese",
+         "Asylpolitik",
+         "hat",
+         "dazu",
+         "geführt",
+         ",",
+         "dass",
+         "der",
+         "Rechtspopulismus",
+         "und",
+         "der",
+         "Rechtsradikalismus",
+         "in",
+         "unserem",
+         "Land",
+         "einen",
+         "derartigen",
+         "Schub",
+         "bekommen",
+         "haben",
+         "."
+      ],
+      "Annotations": []
+   },
+   "15": {
+      "Tokens": [
+         "Deshalb",
+         "hängt",
+         "die",
+         "positive",
+         "Entwicklung",
+         "unseres",
+         "Landes",
+         "auch",
+         "ganz",
+         "wesentlich",
+         "von",
+         "einer",
+         "gelungenen",
+         "Asylpolitik",
+         "ab",
+         ",",
+         "die",
+         "die",
+         "Menschen",
+         "mitnimmt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "16": {
+      "Tokens": [
+         "Insofern",
+         "ist",
+         "ein",
+         "umfassender",
+         "und",
+         "auch",
+         "vernetzter",
+         "Ansatz",
+         "sehr",
+         "richtig",
+         "."
+      ],
+      "Annotations": []
+   },
+   "17": {
+      "Tokens": [
+         "Ich",
+         "bin",
+         "dem",
+         "Bundesinnenminister",
+         "dankbar",
+         ",",
+         "dass",
+         "er",
+         "einen",
+         "Masterplan",
+         "vorgelegt",
+         "hat",
+         ","
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "17:6",
+               "17:7",
+               "17:8",
+               "17:9",
+               "17:10",
+               "17:11"
+            ],
+            "Source": [
+               "17:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "17:1",
+               "17:4"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "17:7"
+            ],
+            "Topic": [],
+            "Cue": [
+               "17:10",
+               "17:9"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "18": {
+      "Tokens": [
+         "und",
+         "wundere",
+         "mich",
+         ",",
+         "dass",
+         "ein",
+         "Landesinnenminister",
+         "den",
+         "Inhalt",
+         "kritisiert",
+         ",",
+         "obwohl",
+         "er",
+         "ihn",
+         "gar",
+         "nicht",
+         "kennt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "18:4",
+               "18:5",
+               "18:6",
+               "18:7",
+               "18:8",
+               "18:9",
+               "18:10",
+               "18:11",
+               "18:12",
+               "18:13",
+               "18:14",
+               "18:15",
+               "18:16"
+            ],
+            "Source": [
+               "17:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "18:1"
+            ],
+            "PTC": [
+               "18:2"
+            ]
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "18:5",
+               "18:6"
+            ],
+            "Topic": [
+               "18:7",
+               "18:8"
+            ],
+            "Cue": [
+               "18:9"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "19": {
+      "Tokens": [
+         "Das",
+         "hat",
+         "mich",
+         "vorhin",
+         "wirklich",
+         "verwundert",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "19:0"
+            ],
+            "Source": [
+               "19:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "19:5"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "20": {
+      "Tokens": [
+         "Wir",
+         "müssen",
+         "europäisch",
+         ",",
+         "international",
+         ",",
+         "aber",
+         "auch",
+         "national",
+         "vorgehen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "21": {
+      "Tokens": [
+         "Ein",
+         "Kernbereich",
+         "ist",
+         "in",
+         "jedem",
+         "Fall",
+         "die",
+         "geordnete",
+         "Migration",
+         "nach",
+         "Deutschland",
+         "."
+      ],
+      "Annotations": []
+   },
+   "22": {
+      "Tokens": [
+         "Liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         ",",
+         "darf",
+         "ich",
+         "um",
+         "Aufmerksamkeit",
+         "bitten",
+         ",",
+         "auch",
+         "wenn",
+         "manche",
+         "Fragen",
+         "im",
+         "Raum",
+         "stehen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "22:7",
+               "22:8"
+            ],
+            "Source": [
+               "22:6"
+            ],
+            "Topic": [],
+            "Cue": [
+               "22:9"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "22:14"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "23": {
+      "Tokens": [
+         "Hier",
+         "müssen",
+         "wir",
+         "sehen",
+         ":"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "24:0",
+               "24:1",
+               "24:2",
+               "24:3",
+               "24:4",
+               "24:5",
+               "24:6",
+               "24:7"
+            ],
+            "Source": [
+               "23:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "23:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "24": {
+      "Tokens": [
+         "Das",
+         "föderale",
+         "Gefüge",
+         "hat",
+         "uns",
+         "nicht",
+         "immer",
+         "genutzt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "25": {
+      "Tokens": [
+         "Auch",
+         "da",
+         "setzt",
+         "der",
+         "Masterplan",
+         "an",
+         "."
+      ],
+      "Annotations": []
+   },
+   "26": {
+      "Tokens": [
+         "Der",
+         "vorliegende",
+         "Masterplan",
+         "hat",
+         "63",
+         "Punkte",
+         "."
+      ],
+      "Annotations": []
+   },
+   "27": {
+      "Tokens": [
+         "Und",
+         "lediglich",
+         "ein",
+         "Punkt",
+         "war",
+         "in",
+         "den",
+         "letzten",
+         "Tagen",
+         "in",
+         "der",
+         "Diskussion",
+         ":",
+         "Zurückschiebung",
+         "im",
+         "grenznahen",
+         "Raum",
+         "gemäß",
+         "§",
+         "18",
+         "Asylgesetz",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "27:11"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "28": {
+      "Tokens": [
+         "Meine",
+         "Damen",
+         "und",
+         "Herren",
+         ",",
+         "Anfang",
+         "2016",
+         "habe",
+         "ich",
+         "zusammen",
+         "mit",
+         "43",
+         "Unionskollegen",
+         "gefordert",
+         ",",
+         "dass",
+         "grenzpolizeiliche",
+         "Maßnahmen",
+         "umgesetzt",
+         "werden",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "28:15",
+               "28:16",
+               "28:17",
+               "28:18",
+               "28:19"
+            ],
+            "Source": [
+               "28:8",
+               "28:9",
+               "28:10",
+               "28:11",
+               "28:12"
+            ],
+            "Topic": [],
+            "Cue": [
+               "28:13"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "29": {
+      "Tokens": [
+         "Deshalb",
+         "können",
+         "Sie",
+         "sicherlich",
+         "nachvollziehen",
+         ",",
+         "dass",
+         "ich",
+         "große",
+         "Sympathie",
+         "für",
+         "diesen",
+         "einen",
+         "Punkt",
+         "habe",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "29:6",
+               "29:7",
+               "29:8",
+               "29:9",
+               "29:10",
+               "29:11",
+               "29:12",
+               "29:13",
+               "29:14"
+            ],
+            "Source": [
+               "29:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "29:4"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "30": {
+      "Tokens": [
+         "Aber",
+         "man",
+         "darf",
+         "es",
+         "nicht",
+         "überspannen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "31": {
+      "Tokens": [
+         "Wir",
+         "können",
+         "nicht",
+         "jeden",
+         "an",
+         "der",
+         "Grenze",
+         "zurückweisen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "32": {
+      "Tokens": [
+         "Man",
+         "hört",
+         "in",
+         "den",
+         "letzten",
+         "Tagen",
+         "ja",
+         "die",
+         "merkwürdigsten",
+         "Ausführungen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "32:0"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "32:7",
+               "32:8",
+               "32:9"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "32:1"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "32:9"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "33": {
+      "Tokens": [
+         "Natürlich",
+         "gibt",
+         "es",
+         "Fälle",
+         "-",
+         "unbegleitete",
+         "Minderjährige",
+         ",",
+         "Familienbindung",
+         ",",
+         "systemische",
+         "Mängel",
+         "in",
+         "einem",
+         "anderen",
+         "Land",
+         "-",
+         ","
+      ],
+      "Annotations": []
+   },
+   "34": {
+      "Tokens": [
+         "in",
+         "denen",
+         "wir",
+         "nach",
+         "den",
+         "Rechtvorschriften",
+         "nicht",
+         "zurückweisen",
+         "dürfen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "35": {
+      "Tokens": [
+         "Aber",
+         "wir",
+         "können",
+         "es",
+         "doch",
+         "niemandem",
+         "erklären",
+         ":"
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "35:5"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "36:0",
+               "36:1",
+               "36:2",
+               "36:3",
+               "36:4",
+               "36:5",
+               "36:6",
+               "36:7",
+               "36:8",
+               "36:9",
+               "36:10",
+               "36:11",
+               "36:12",
+               "36:13",
+               "36:14",
+               "36:15",
+               "36:16",
+               "36:17",
+               "36:18",
+               "36:19",
+               "36:20",
+               "36:21",
+               "36:22",
+               "36:23",
+               "36:24",
+               "36:25",
+               "36:26",
+               "36:27",
+               "36:28",
+               "36:29"
+            ],
+            "Source": [
+               "35:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "35:6"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "36": {
+      "Tokens": [
+         "Wer",
+         "bereits",
+         "ein",
+         "anerkannter",
+         "Asylbewerber",
+         "ist",
+         ",",
+         "wer",
+         "woanders",
+         "einen",
+         "Asylantrag",
+         "gestellt",
+         "hat",
+         ",",
+         "wer",
+         "nach",
+         "der",
+         "Dublin-Verordnung",
+         "bereits",
+         "zurückgeführt",
+         "ist",
+         ",",
+         "steht",
+         "wieder",
+         "vor",
+         "der",
+         "Türe",
+         "und",
+         "wird",
+         "hereingelassen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "36:7"
+            ],
+            "Topic": [],
+            "Cue": [
+               "36:11",
+               "36:10"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "37": {
+      "Tokens": [
+         "Das",
+         "geht",
+         "nicht",
+         ",",
+         "und",
+         "das",
+         "muss",
+         "auch",
+         "verändert",
+         "werden",
+         "."
+      ],
+      "Annotations": []
+   },
+   "38": {
+      "Tokens": [
+         "Letztlich",
+         "müssen",
+         "wir",
+         "vermeiden",
+         "-",
+         "da",
+         "brauchen",
+         "wir",
+         "keine",
+         "Belehrung",
+         "von",
+         "der",
+         "AfD",
+         ",",
+         "die",
+         "sowieso",
+         "in",
+         "eine",
+         "ganz",
+         "falsche",
+         "Richtung",
+         "geht",
+         "-",
+         ","
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "38:10",
+               "38:11",
+               "38:12"
+            ],
+            "Topic": [],
+            "Cue": [
+               "38:9"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "39": {
+      "Tokens": [
+         "dass",
+         "sich",
+         "die",
+         "Asylbewerber",
+         "das",
+         "Land",
+         "aussuchen",
+         "können",
+         ",",
+         "sondern",
+         "dass",
+         "wir",
+         "als",
+         "Politik",
+         ",",
+         "als",
+         "Gesellschaft",
+         "entscheiden",
+         ",",
+         "wer",
+         "zu",
+         "uns",
+         "kommt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "39:19",
+               "39:20",
+               "39:21",
+               "39:22"
+            ],
+            "Source": [
+               "39:11",
+               "39:12",
+               "39:13",
+               "39:14",
+               "39:15",
+               "39:16"
+            ],
+            "Topic": [],
+            "Cue": [
+               "39:17"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "40": {
+      "Tokens": [
+         "Anderenfalls",
+         "entstehen",
+         "auch",
+         "neue",
+         "Anziehungseffekte",
+         ",",
+         "Pulleffekte",
+         "mit",
+         "neuen",
+         "Problemen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "41": {
+      "Tokens": [
+         "Das",
+         "Problem",
+         "ist",
+         "zu",
+         "lösen",
+         ",",
+         "aber",
+         "nicht",
+         "binnen",
+         "weniger",
+         "Tage",
+         "."
+      ],
+      "Annotations": []
+   },
+   "42": {
+      "Tokens": [
+         "Ein",
+         "akuter",
+         "Handlungsdruck",
+         "ist",
+         "auch",
+         "gar",
+         "nicht",
+         "da",
+         "."
+      ],
+      "Annotations": []
+   },
+   "43": {
+      "Tokens": [
+         "2015",
+         "kamen",
+         "800",
+         "000",
+         "Menschen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "44": {
+      "Tokens": [
+         "Die",
+         "Zahl",
+         "ist",
+         "im",
+         "letzten",
+         "Jahr",
+         "auf",
+         "186",
+         "000",
+         "gesunken",
+         "."
+      ],
+      "Annotations": []
+   },
+   "45": {
+      "Tokens": [
+         "Dieses",
+         "Jahr",
+         "sind",
+         "es",
+         "voraussichtlich",
+         "165",
+         "000."
+      ],
+      "Annotations": []
+   },
+   "46": {
+      "Tokens": [
+         "Die",
+         "Zahl",
+         "ist",
+         "natürlich",
+         "immer",
+         "noch",
+         "zu",
+         "hoch",
+         "."
+      ],
+      "Annotations": []
+   },
+   "47": {
+      "Tokens": [
+         "Aber",
+         "es",
+         "ist",
+         "kein",
+         "Grund",
+         ",",
+         "jetzt",
+         "in",
+         "Panik",
+         "zu",
+         "verfallen",
+         "und",
+         "alle",
+         "politischen",
+         "Regeln",
+         "über",
+         "Bord",
+         "zu",
+         "werfen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "48": {
+      "Tokens": [
+         "Wir",
+         "müssen",
+         "für",
+         "die",
+         "Zukunft",
+         "gewappnet",
+         "sein",
+         "."
+      ],
+      "Annotations": []
+   },
+   "49": {
+      "Tokens": [
+         "Eine",
+         "Situation",
+         "wie",
+         "2015",
+         "darf",
+         "sich",
+         "nicht",
+         "wiederholen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "50": {
+      "Tokens": [
+         "Die",
+         "Bundeskanzlerin",
+         "hat",
+         "für",
+         "ihr",
+         "Vorhaben",
+         ",",
+         "mit",
+         "den",
+         "betroffenen",
+         "EU-Staaten",
+         "bilaterale",
+         "Vereinbarungen",
+         "zur",
+         "Rückübernahme",
+         "zu",
+         "treffen",
+         ",",
+         "unsere",
+         "volle",
+         "Unterstützung",
+         "verdient",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "50:13",
+               "50:14"
+            ],
+            "Cue": [
+               "50:12"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "51": {
+      "Tokens": [
+         "Am",
+         "Ende",
+         "ist",
+         "klar",
+         ":",
+         "Sollten",
+         "die",
+         "europäischen",
+         "Partner",
+         "sich",
+         "gänzlich",
+         "verweigern",
+         ",",
+         "müssen",
+         "wir",
+         "neu",
+         "denken",
+         "und",
+         "national",
+         "nachsteuern",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "51:14"
+            ],
+            "Topic": [],
+            "Cue": [
+               "51:16"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "52": {
+      "Tokens": [
+         "Vielen",
+         "Dank",
+         "."
+      ],
+      "Annotations": []
+   },
+   "53": {
+      "Tokens": [
+         "Als",
+         "nächstem",
+         "Redner",
+         "erteile",
+         "ich",
+         "dem",
+         "Kollegen",
+         "Lars",
+         "Herrmann",
+         "von",
+         "der",
+         "AfD-Fraktion",
+         "das",
+         "Wort",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "53:13"
+            ],
+            "PTC": []
+         }
+      ]
+   }
+}

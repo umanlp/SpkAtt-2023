@@ -1,0 +1,850 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Herr",
+            "Präsident",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Meine",
+            "Damen",
+            "und",
+            "Herren",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "In",
+            "Deutschland",
+            "haben",
+            "wir",
+            "seit",
+            "Langem",
+            "ein",
+            "Nitratproblem",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "An",
+            "jeder",
+            "fünften",
+            "Grundwassermessstelle",
+            "wird",
+            "der",
+            "Grenzwert",
+            "überschritten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Mit",
+            "der",
+            "Novelle",
+            "zur",
+            "Düngeverordnung",
+            "und",
+            "des",
+            "Wasserhaushaltsgesetzes",
+            "werden",
+            "jetzt",
+            "trotzdem",
+            "leider",
+            "nur",
+            "die",
+            "Minimalforderungen",
+            "der",
+            "EU-Kommission",
+            "umgesetzt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Es",
+            "waren",
+            "dabei",
+            "nicht",
+            "die",
+            "Sorgen",
+            "um",
+            "sauberes",
+            "Trinkwasser",
+            ",",
+            "es",
+            "waren",
+            "erst",
+            "massive",
+            "Strafandrohungen",
+            "von",
+            "über",
+            "800",
+            "_",
+            "000",
+            "Euro",
+            "pro",
+            "Tag",
+            ",",
+            "die",
+            "der",
+            "Regierung",
+            "klargemacht",
+            "haben",
+            ":"
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Aussitzen",
+            "ist",
+            "keine",
+            "Option",
+            "mehr",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Auf",
+            "dem",
+            "Papier",
+            "mag",
+            "das",
+            "Nitratproblem",
+            "vorerst",
+            "gelöst",
+            "sein",
+            ",",
+            "in",
+            "der",
+            "Realität",
+            "aber",
+            "nicht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Warum",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "In",
+            "der",
+            "Anhörung",
+            "wurde",
+            "klar",
+            ":",
+            "Ein",
+            "Randstreifen",
+            "von",
+            "5",
+            "Metern",
+            "ist",
+            "zu",
+            "schmal",
+            ",",
+            "um",
+            "ein",
+            "wirksamer",
+            "Puffer",
+            "gegen",
+            "Einträge",
+            "zu",
+            "sein",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Die",
+            "Randstreifen",
+            "dürfen",
+            "sogar",
+            "alle",
+            "5",
+            "Jahre",
+            "umgebrochen",
+            "werden",
+            ",",
+            "damit",
+            "die",
+            "Flächen",
+            "ihren",
+            "Status",
+            "als",
+            "Ackerland",
+            "nicht",
+            "verlieren",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Nur",
+            "damit",
+            "alte",
+            "Förderstrukturen",
+            "erhalten",
+            "werden",
+            ",",
+            "werden",
+            "regelmäßig",
+            "wichtige",
+            "Lebensräume",
+            "zerstört",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Das",
+            "ließe",
+            "sich",
+            "ganz",
+            "einfach",
+            "ändern",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Es",
+            "ist",
+            "doch",
+            "Unsinn",
+            ",",
+            "dass",
+            "genau",
+            "die",
+            "Bäuerinnen",
+            "und",
+            "Bauern",
+            "Nachteile",
+            "haben",
+            ",",
+            "die",
+            "langfristig",
+            "wertvolle",
+            "Randstreifen",
+            "als",
+            "Barriere",
+            "gegen",
+            "Nitrat",
+            "und",
+            "als",
+            "Heimat",
+            "für",
+            "Insekten",
+            "anlegen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Das",
+            "Gesetz",
+            "ist",
+            "ein",
+            "Bürokratiemonster",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Die",
+            "unteren",
+            "Wasserbehörden",
+            "werden",
+            "nun",
+            "alle",
+            "Äcker",
+            "auf",
+            "ihre",
+            "Hangneigung",
+            "überprüfen",
+            "müssen",
+            ",",
+            "nur",
+            "um",
+            "Ausnahmen",
+            "für",
+            "die",
+            "Landwirte",
+            "zu",
+            "schaffen",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "denn",
+            "damit",
+            "ist",
+            "ein",
+            "großer",
+            "Teil",
+            "der",
+            "intensiv",
+            "genutzten",
+            "Auen",
+            "ausgenommen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Es",
+            "ist",
+            "daher",
+            "ein",
+            "immenser",
+            ",",
+            "unnötiger",
+            "und",
+            "ungerechter",
+            "Aufwand",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Insgesamt",
+            "hilft",
+            "der",
+            "Gesetzentwurf",
+            "weder",
+            "dem",
+            "Gewässerschutz",
+            "noch",
+            "den",
+            "Landwirten",
+            ",",
+            "noch",
+            "ist",
+            "er",
+            "praktikabel",
+            "umsetzbar",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Eine",
+            "einfache",
+            "klare",
+            "Regelung",
+            "wäre",
+            "in",
+            "jeder",
+            "Hinsicht",
+            "besser",
+            "gewesen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Wir",
+            "Grüne",
+            "fordern",
+            "bundesweit",
+            "einheitliche",
+            "Gewässerrandstreifen",
+            "mit",
+            "einer",
+            "Breite",
+            "von",
+            "mindestens",
+            "10",
+            "Metern",
+            ",",
+            "und",
+            "das",
+            "unabhängig",
+            "von",
+            "der",
+            "Geländeneigung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Die",
+            "Regierung",
+            "doktert",
+            "aber",
+            "nur",
+            "am",
+            "Düngerecht",
+            "herum",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Ich",
+            "frage",
+            "mich",
+            ":",
+            "Vor",
+            "wem",
+            "haben",
+            "Sie",
+            "eigentlich",
+            "so",
+            "große",
+            "Angst",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Die",
+            "Landwirte",
+            "erzeugen",
+            "durch",
+            "den",
+            "wirtschaftlichen",
+            "Druck",
+            "weiterhin",
+            "Nitratüberschüsse",
+            ",",
+            "solange",
+            "die",
+            "Bundesregierung",
+            "die",
+            "Augen",
+            "vor",
+            "dem",
+            "eigentlichen",
+            "Problem",
+            "verschließt",
+            ":",
+            "Zu",
+            "viele",
+            "Tiere",
+            "auf",
+            "zu",
+            "wenig",
+            "Fläche",
+            "produzieren",
+            "zu",
+            "viel",
+            "Gülle",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Zu",
+            "Recht",
+            "sind",
+            "die",
+            "Bäuerinnen",
+            "und",
+            "Bauern",
+            "verärgert",
+            ",",
+            "dass",
+            "sie",
+            "jetzt",
+            "wieder",
+            "keine",
+            "Verlässlichkeit",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Ich",
+            "appelliere",
+            "an",
+            "Sie",
+            ":",
+            "Geben",
+            "Sie",
+            "den",
+            "Landwirten",
+            "endlich",
+            "eine",
+            "echte",
+            "Perspektive",
+            ",",
+            "wie",
+            "sie",
+            "rentabel",
+            "und",
+            "im",
+            "Einklang",
+            "mit",
+            "der",
+            "Natur",
+            "wirtschaften",
+            "können",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "Keine",
+            "Bäuerin",
+            "und",
+            "kein",
+            "Bauer",
+            "hat",
+            "schließlich",
+            "Interesse",
+            "daran",
+            ",",
+            "Wasser",
+            "zu",
+            "verschmutzen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Wir",
+            "alle",
+            "brauchen",
+            "jetzt",
+            "eine",
+            "ökologische",
+            "Neuausrichtung",
+            "der",
+            "Agrarpolitik",
+            "und",
+            "ein",
+            "Ende",
+            "der",
+            "industriellen",
+            "Massentierhaltung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            ",",
+            "Frau",
+            "Kollegin",
+            "Bettina",
+            "Hoffmann",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "-",
+            "Wir",
+            "kommen",
+            "zum",
+            "letzten",
+            "Redner",
+            "zu",
+            "diesem",
+            "Tagesordnungspunkt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 30,
+         "Tokens": [
+            "Das",
+            "ist",
+            "der",
+            "Kollege",
+            "Artur",
+            "Auernhammer",
+            "für",
+            "die",
+            "CDU/CSU",
+            ",",
+            "der",
+            "auch",
+            "ein",
+            "frisches",
+            "Wasser",
+            "bekommt",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [
+            "5:25",
+            "5:26"
+         ],
+         "Evidence": [],
+         "Medium": [
+            "5:24"
+         ],
+         "Message": [
+            "6:0",
+            "6:1",
+            "6:2",
+            "6:3",
+            "6:4"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "5:27"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "9:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "9:6",
+            "9:7",
+            "9:8",
+            "9:9",
+            "9:10",
+            "9:11",
+            "9:12",
+            "9:13",
+            "9:14",
+            "9:15",
+            "9:16",
+            "9:17",
+            "9:18",
+            "9:19",
+            "9:20",
+            "9:21",
+            "9:22"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "9:3",
+            "9:4"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "14:1"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "18:3"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "20:3",
+            "20:4",
+            "20:5",
+            "20:6",
+            "20:7",
+            "20:8",
+            "20:9",
+            "20:10",
+            "20:11",
+            "20:12",
+            "20:13",
+            "20:14",
+            "20:15",
+            "20:16",
+            "20:17",
+            "20:18",
+            "20:19"
+         ],
+         "Source": [
+            "20:0",
+            "20:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "20:2"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "22:4",
+            "22:5",
+            "22:6",
+            "22:7",
+            "22:8",
+            "22:9",
+            "22:10",
+            "22:11"
+         ],
+         "Source": [
+            "22:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "22:1"
+         ],
+         "PTC": [
+            "22:2"
+         ]
+      },
+      {},
+      {},
+      {
+         "Addr": [
+            "25:2",
+            "25:3"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "25:5",
+            "25:6",
+            "25:7",
+            "25:8",
+            "25:9",
+            "25:10",
+            "25:11",
+            "25:12",
+            "25:13",
+            "25:14",
+            "25:15",
+            "25:16",
+            "25:17",
+            "25:18",
+            "25:19",
+            "25:20",
+            "25:21",
+            "25:22",
+            "25:23",
+            "25:24"
+         ],
+         "Source": [
+            "25:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "25:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "25:14",
+            "25:15",
+            "25:16",
+            "25:17",
+            "25:18",
+            "25:19",
+            "25:20",
+            "25:21",
+            "25:22",
+            "25:23",
+            "25:24"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "25:12"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {}
+   ]
+}

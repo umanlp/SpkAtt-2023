@@ -1,0 +1,925 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Sehr",
+            "geehrte",
+            "Frau",
+            "Präsidentin",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Sehr",
+            "geehrte",
+            "Damen",
+            "und",
+            "Herren",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Das",
+            "Handwerk",
+            "hat",
+            "goldenen",
+            "Boden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Und",
+            "so",
+            "wunderbar",
+            "vielfältig",
+            "und",
+            "leistungsfähig",
+            "unser",
+            "Handwerk",
+            "ist",
+            ",",
+            "so",
+            "komplex",
+            "ist",
+            "das",
+            "Thema",
+            ",",
+            "das",
+            "wir",
+            "heute",
+            "hier",
+            "diskutieren",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Mehr",
+            "sozialversicherungspflichtig",
+            "Beschäftigte",
+            ",",
+            "mehr",
+            "Innovation",
+            "hatte",
+            "sich",
+            "die",
+            "damalige",
+            "rot-grüne",
+            "Bundesregierung",
+            "erhofft",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Wir",
+            "erlebten",
+            "stattdessen",
+            "eine",
+            "Explosion",
+            "der",
+            "Zahl",
+            "der",
+            "Betriebe",
+            "und",
+            "eine",
+            "Implosion",
+            "der",
+            "von",
+            "ihnen",
+            "geleisteten",
+            "Qualität",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Kunden",
+            "haben",
+            "keine",
+            "Gewissheit",
+            "mehr",
+            ",",
+            "ob",
+            "die",
+            "Leistung",
+            "stimmt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Pfusch",
+            "beim",
+            "Fliesenlegen",
+            "oder",
+            "unzureichendes",
+            "Wissen",
+            "über",
+            "Parkettboden",
+            "waren",
+            "die",
+            "Paradebeispiele",
+            ",",
+            "die",
+            "heute",
+            "schon",
+            "mehrfach",
+            "genannt",
+            "wurden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Viele",
+            "Solo-Selbstständige",
+            ",",
+            "die",
+            "massenweise",
+            "auf",
+            "den",
+            "Markt",
+            "drängten",
+            ",",
+            "hielten",
+            "sich",
+            "nicht",
+            "einmal",
+            "an",
+            "die",
+            "Gewährleistungspflicht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Das",
+            "entstandene",
+            "Preis-",
+            "und",
+            "Lohndumping",
+            "führte",
+            "letzten",
+            "Endes",
+            "dazu",
+            ",",
+            "dass",
+            "es",
+            "für",
+            "Betriebe",
+            "mit",
+            "qualitativem",
+            "Anspruch",
+            "-",
+            "und",
+            "somit",
+            "letztlich",
+            "auch",
+            "die",
+            "Entscheidung",
+            ",",
+            "selbst",
+            "ein",
+            "Unternehmen",
+            "in",
+            "diesem",
+            "Markt­umfeld",
+            "zu",
+            "gründen",
+            "-",
+            "immer",
+            "schwerer",
+            "wurde",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Insofern",
+            "ist",
+            "es",
+            "sehr",
+            "begrüßenswert",
+            ",",
+            "dass",
+            "die",
+            "Problem­lage",
+            "erkannt",
+            "wurde",
+            "und",
+            "dass",
+            "man",
+            "sich",
+            "willens",
+            "zeigt",
+            ",",
+            "Lösungen",
+            "zu",
+            "finden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Eines",
+            "ist",
+            "dabei",
+            "sicher",
+            ":",
+            "Für",
+            "eine",
+            "gesunde",
+            "Wirtschaft",
+            "müssen",
+            "wir",
+            "unnütze",
+            "Vorschriften",
+            "streichen",
+            ",",
+            "bürokratische",
+            "Hürden",
+            "abbauen",
+            "und",
+            "leistungsbereiten",
+            "Bürgern",
+            "Wege",
+            "ebnen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Beim",
+            "Meister",
+            "war",
+            "das",
+            "früher",
+            "einfach",
+            ":"
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Er",
+            "sicherte",
+            "vergleichbare",
+            "Qualität",
+            "und",
+            "die",
+            "Weitergabe",
+            "von",
+            "Geschick",
+            "und",
+            "Tradition",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Er",
+            "hat",
+            "das",
+            "Wissen",
+            "von",
+            "Jahrhunderten",
+            "an",
+            "zukünftige",
+            "Generationen",
+            "weitergegeben",
+            "und",
+            "war",
+            "lange",
+            "Zeit",
+            "ein",
+            "Stück",
+            "unserer",
+            "deutschen",
+            "Identität",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Geiz",
+            "war",
+            "halt",
+            "früher",
+            "nicht",
+            "immer",
+            "geil",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Die",
+            "Zeit",
+            "läuft",
+            "jedoch",
+            "weiter",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Seit",
+            "der",
+            "Abschaffung",
+            "der",
+            "Meisterpflicht",
+            "hat",
+            "es",
+            "durchaus",
+            "Veränderungen",
+            "gegeben",
+            ",",
+            "die",
+            "wir",
+            "bei",
+            "einer",
+            "konstruktiven",
+            "Lösungsfindung",
+            "beachten",
+            "sollten",
+            ":"
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Wie",
+            "binden",
+            "wir",
+            "zum",
+            "Beispiel",
+            "die",
+            "seit",
+            "Jahren",
+            "erfolgreichen",
+            "und",
+            "leistungsfähigen",
+            "Betriebe",
+            "ein",
+            ",",
+            "die",
+            "sich",
+            "ohne",
+            "Meisterpflicht",
+            "etabliert",
+            "haben",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Wie",
+            "unterstützen",
+            "wir",
+            "eine",
+            "Wiederbelebung",
+            "der",
+            "Meisterprüfung",
+            ",",
+            "die",
+            "Ausbildung",
+            "von",
+            "Lehrlingen",
+            "und",
+            "die",
+            "Weiterbildung",
+            "von",
+            "Gesellen",
+            ",",
+            "wie",
+            "das",
+            "heute",
+            "auch",
+            "schon",
+            "mehrfach",
+            "angesprochen",
+            "wurde",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Muss",
+            "es",
+            "künftig",
+            "überall",
+            "zwingend",
+            "der",
+            "Meister",
+            "sein",
+            ",",
+            "oder",
+            "finden",
+            "wir",
+            "innovative",
+            "Lösungen",
+            ",",
+            "die",
+            "Lebensleistung",
+            "langjähriger",
+            "Gesellen",
+            "und",
+            "Facharbeiter",
+            "wertzuschätzen",
+            "und",
+            "entsprechend",
+            "zu",
+            "würdigen",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Wie",
+            "schaffen",
+            "wir",
+            "einen",
+            "verlässlichen",
+            "Rahmen",
+            ",",
+            "klassisches",
+            "Handwerk",
+            "auch",
+            "im",
+            "Zuge",
+            "der",
+            "Digitalisierung",
+            "innovativ",
+            "weiterentwickeln",
+            "zu",
+            "können",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Wie",
+            "gehen",
+            "wir",
+            "mit",
+            "Subunternehmern",
+            "um",
+            ",",
+            "die",
+            "sich",
+            "nicht",
+            "an",
+            "tarifliche",
+            "Absprachen",
+            "halten",
+            ",",
+            "um",
+            "Preise",
+            "zu",
+            "drücken",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Das",
+            "alles",
+            "sind",
+            "Fragen",
+            ",",
+            "die",
+            "beantwortet",
+            "werden",
+            "wollen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Meine",
+            "Damen",
+            "und",
+            "Herren",
+            ",",
+            "die",
+            "letzten",
+            "15",
+            "Jahre",
+            "waren",
+            "nicht",
+            "immer",
+            "optimal",
+            ",",
+            "aber",
+            "wir",
+            "müssen",
+            "uns",
+            "darüber",
+            "im",
+            "Klaren",
+            "sein",
+            ",",
+            "dass",
+            "die",
+            "Wiedereinführung",
+            "des",
+            "Meisters",
+            "alleine",
+            "nicht",
+            "der",
+            "Schlüssel",
+            "zum",
+            "Glück",
+            "sein",
+            "wird",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Es",
+            "lohnt",
+            "sich",
+            "aber",
+            "immer",
+            "wieder",
+            ",",
+            "jene",
+            "zu",
+            "fragen",
+            ",",
+            "die",
+            "es",
+            "betrifft",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Das",
+            "Wort",
+            "hat",
+            "der",
+            "Abgeordnete",
+            "Karl",
+            "Holmeier",
+            "für",
+            "die",
+            "CDU",
+            "/",
+            "CSU-Fraktion",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "3:17"
+         ],
+         "Topic": [
+            "3:16"
+         ],
+         "Cue": [
+            "3:20"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "4:0",
+            "4:1",
+            "4:2",
+            "4:3",
+            "4:4",
+            "4:5"
+         ],
+         "Source": [
+            "4:8",
+            "4:9",
+            "4:10",
+            "4:11"
+         ],
+         "Topic": [],
+         "Cue": [
+            "4:12"
+         ],
+         "PTC": [
+            "4:7"
+         ]
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "6:6",
+            "6:7",
+            "6:8",
+            "6:9"
+         ],
+         "Source": [
+            "6:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "6:1",
+            "6:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "7:12"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "7:16"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "9:25",
+            "9:26",
+            "9:27",
+            "9:28",
+            "9:29",
+            "9:30",
+            "9:31",
+            "9:32"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "9:23"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "10:7",
+            "10:8"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "10:9"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "10:18",
+            "10:19",
+            "10:20"
+         ],
+         "Source": [
+            "10:13"
+         ],
+         "Topic": [],
+         "Cue": [
+            "10:16",
+            "10:15"
+         ],
+         "PTC": [
+            "10:14"
+         ]
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "11:0",
+            "11:5",
+            "11:6",
+            "11:7",
+            "11:8",
+            "11:9",
+            "11:10",
+            "11:11",
+            "11:12",
+            "11:13",
+            "11:14",
+            "11:15",
+            "11:16",
+            "11:17",
+            "11:18",
+            "11:19",
+            "11:20",
+            "11:21",
+            "11:22"
+         ],
+         "Source": [],
+         "Topic": [
+            "11:2"
+         ],
+         "Cue": [
+            "11:1",
+            "11:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "11:12"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "19:19"
+         ],
+         "Cue": [
+            "19:24"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "22:11"
+         ],
+         "Cue": [
+            "22:12"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "23:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "23:5"
+         ],
+         "Cue": [
+            "23:6"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "24:23",
+            "24:24",
+            "24:25",
+            "24:26",
+            "24:27",
+            "24:28",
+            "24:29",
+            "24:30",
+            "24:31",
+            "24:32",
+            "24:33",
+            "24:34",
+            "24:35",
+            "24:18"
+         ],
+         "Source": [
+            "24:15"
+         ],
+         "Topic": [],
+         "Cue": [
+            "24:21",
+            "24:19",
+            "24:20"
+         ],
+         "PTC": [
+            "24:17"
+         ]
+      },
+      {
+         "Addr": [
+            "25:11",
+            "25:12",
+            "25:13",
+            "25:7"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "25:9"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "27:1"
+         ],
+         "PTC": []
+      }
+   ]
+}

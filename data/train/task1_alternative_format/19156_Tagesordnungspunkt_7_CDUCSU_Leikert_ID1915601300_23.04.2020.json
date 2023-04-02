@@ -1,0 +1,1439 @@
+{
+   "1": {
+      "Tokens": [
+         "Sehr",
+         "geehrter",
+         "Herr",
+         "Präsident",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "Liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "3": {
+      "Tokens": [
+         "In",
+         "der",
+         "Coronakrise",
+         "beobachten",
+         "wir",
+         "in",
+         "ganz",
+         "Europa",
+         "wachsende",
+         "Unsicherheit",
+         "und",
+         "auch",
+         "einen",
+         "Trend",
+         "zur",
+         "Reideologisierung",
+         "."
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "Auch",
+         "wenn",
+         "in",
+         "Europa",
+         "und",
+         "auch",
+         "hier",
+         "im",
+         "Hohen",
+         "Haus",
+         "die",
+         "europäische",
+         "Solidarität",
+         "von",
+         "einigen",
+         "angezweifelt",
+         "wird",
+         ":",
+         "Für",
+         "uns",
+         "in",
+         "der",
+         "CDU",
+         "/",
+         "CSU-Fraktion",
+         "gehört",
+         "europäische",
+         "Solidarität",
+         "zu",
+         "unserer",
+         "Grundüberzeugung",
+         ",",
+         "zu",
+         "unserer",
+         "politischen",
+         "DNA",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "4:10",
+               "4:11",
+               "4:12"
+            ],
+            "Source": [
+               "4:13",
+               "4:14"
+            ],
+            "Topic": [],
+            "Cue": [
+               "4:15"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "4:25",
+               "4:26",
+               "4:27",
+               "4:28",
+               "4:29",
+               "4:30",
+               "4:31",
+               "4:32",
+               "4:33",
+               "4:34",
+               "4:35"
+            ],
+            "Source": [
+               "4:19",
+               "4:20",
+               "4:21",
+               "4:22",
+               "4:23",
+               "4:24"
+            ],
+            "Topic": [],
+            "Cue": [
+               "4:18"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "5": {
+      "Tokens": [
+         "Denn",
+         "die",
+         "Europäische",
+         "Union",
+         "ist",
+         "eben",
+         "keine",
+         "Schönwetterveranstaltung",
+         ",",
+         "sondern",
+         "sie",
+         "beweist",
+         "sich",
+         "im",
+         "Täglichen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "6": {
+      "Tokens": [
+         "Wir",
+         "Deutsche",
+         "sind",
+         "solidarisch",
+         "mit",
+         "unseren",
+         "europäischen",
+         "Partnern",
+         ",",
+         "und",
+         "wir",
+         "sind",
+         "es",
+         "übrigens",
+         "immer",
+         "gewesen",
+         ",",
+         "auch",
+         "in",
+         "den",
+         "schweren",
+         "Stunden",
+         "der",
+         "Staatsschuldenkrise",
+         "."
+      ],
+      "Annotations": []
+   },
+   "7": {
+      "Tokens": [
+         "Und",
+         "das",
+         ",",
+         "liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         ",",
+         "dürfen",
+         "wir",
+         "uns",
+         "weder",
+         "von",
+         "einigen",
+         "hier",
+         "im",
+         "Hohen",
+         "Hause",
+         "noch",
+         "von",
+         "Populisten",
+         "in",
+         "Rom",
+         ",",
+         "Paris",
+         "oder",
+         "Madrid",
+         "kaputtreden",
+         "lassen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "7:1"
+            ],
+            "Source": [
+               "7:11",
+               "7:12",
+               "7:13",
+               "7:14",
+               "7:15",
+               "7:16",
+               "7:17",
+               "7:18",
+               "7:19",
+               "7:20",
+               "7:21",
+               "7:22",
+               "7:23",
+               "7:24",
+               "7:25",
+               "7:26"
+            ],
+            "Topic": [],
+            "Cue": [
+               "7:27"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "8": {
+      "Tokens": [
+         "Wir",
+         "helfen",
+         "im",
+         "gesundheitlichen",
+         "Bereich",
+         "."
+      ],
+      "Annotations": []
+   },
+   "9": {
+      "Tokens": [
+         "So",
+         "haben",
+         "wir",
+         "wiederholt",
+         "Intensivpatienten",
+         "aus",
+         "Italien",
+         ",",
+         "Frankreich",
+         "und",
+         "den",
+         "Niederlanden",
+         "aufgenommen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "10": {
+      "Tokens": [
+         "Wir",
+         "haben",
+         "medizinische",
+         "Hilfsgüter",
+         "nach",
+         "Italien",
+         "geschickt",
+         "und",
+         "über",
+         "100",
+         "Beatmungsgeräte",
+         "nach",
+         "Großbritannien",
+         "und",
+         "Spanien",
+         "geliefert",
+         "."
+      ],
+      "Annotations": []
+   },
+   "11": {
+      "Tokens": [
+         "Solidarisch",
+         "sind",
+         "wir",
+         "auch",
+         ",",
+         "lieber",
+         "Herr",
+         "Hofreiter",
+         ",",
+         "bei",
+         "der",
+         "Bekämpfung",
+         "der",
+         "wirtschaftlichen",
+         "Folgen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "12": {
+      "Tokens": [
+         "Auf",
+         "europäischer",
+         "Ebene",
+         "haben",
+         "wir",
+         "in",
+         "kürzester",
+         "Zeit",
+         "wichtige",
+         "Grundlagen",
+         "für",
+         "Finanzhilfen",
+         "in",
+         "Höhe",
+         "von",
+         "540",
+         "Milliarden",
+         "Euro",
+         "geschaffen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "13": {
+      "Tokens": [
+         "Für",
+         "uns",
+         "ist",
+         "klar",
+         ":",
+         "Unsere",
+         "Solidarität",
+         "wird",
+         "hier",
+         "nicht",
+         "enden",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "13:2",
+               "13:3",
+               "13:4",
+               "13:5",
+               "13:6",
+               "13:7",
+               "13:8",
+               "13:9",
+               "13:10"
+            ],
+            "Source": [
+               "13:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "13:0"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "14": {
+      "Tokens": [
+         "Lieber",
+         "Herr",
+         "Hofreiter",
+         ",",
+         "auch",
+         "hier",
+         "noch",
+         "einmal",
+         "für",
+         "Sie",
+         "das",
+         "klare",
+         "Bekenntnis",
+         ":",
+         "Weitere",
+         "Maßnahmen",
+         "des",
+         "Wiederaufbaus",
+         "der",
+         "Wirtschaft",
+         "werden",
+         "wir",
+         "unterstützen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "14:14",
+               "14:15",
+               "14:16",
+               "14:17",
+               "14:18",
+               "14:19",
+               "14:20",
+               "14:21",
+               "14:22"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "14:12"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "15": {
+      "Tokens": [
+         "Wer",
+         "sich",
+         "jetzt",
+         "hinstellt",
+         "und",
+         "angesichts",
+         "der",
+         "dramatischen",
+         "Lage",
+         "Coronabonds",
+         "als",
+         "alleinige",
+         "Lösung",
+         "fordert",
+         ",",
+         "der",
+         "gefährdet",
+         "in",
+         "der",
+         "Tat",
+         "den",
+         "Zusammenhalt",
+         "in",
+         "Europa",
+         ";"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "15:9",
+               "15:10",
+               "15:11",
+               "15:12"
+            ],
+            "Source": [
+               "15:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "15:13"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "16": {
+      "Tokens": [
+         "die",
+         "Vorredner",
+         "haben",
+         "es",
+         "deutlich",
+         "gemacht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "17": {
+      "Tokens": [
+         "Wir",
+         "sind",
+         "keine",
+         "schlechten",
+         "Europäer",
+         ",",
+         "nur",
+         "weil",
+         "wir",
+         "als",
+         "CDU",
+         "/",
+         "CSU-Bundestagsfraktion",
+         "Coronabonds",
+         "nicht",
+         "als",
+         "Lösung",
+         "für",
+         "Europa",
+         "sehen",
+         "-",
+         "im",
+         "Gegenteil",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "17:14",
+               "17:15",
+               "17:16",
+               "17:17",
+               "17:18"
+            ],
+            "Source": [
+               "17:8",
+               "17:9",
+               "17:10",
+               "17:11",
+               "17:12"
+            ],
+            "Topic": [
+               "17:13"
+            ],
+            "Cue": [
+               "17:19"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "18": {
+      "Tokens": [
+         "Es",
+         "ist",
+         "vielmehr",
+         "so",
+         "wie",
+         "im",
+         "echten",
+         "Leben",
+         ":"
+      ],
+      "Annotations": []
+   },
+   "19": {
+      "Tokens": [
+         "Falsche",
+         "Solidarität",
+         ",",
+         "die",
+         "am",
+         "Ende",
+         "alle",
+         "schwächt",
+         ",",
+         "ist",
+         "eben",
+         "falsch",
+         "verstandene",
+         "Solidarität",
+         "."
+      ],
+      "Annotations": []
+   },
+   "20": {
+      "Tokens": [
+         "Es",
+         "gilt",
+         "auch",
+         "das",
+         ",",
+         "was",
+         "Ecki",
+         "Rehberg",
+         "hier",
+         "eben",
+         "gesagt",
+         "hat",
+         "und",
+         "Ralph",
+         "Brinkhaus",
+         "davor",
+         ":",
+         "Für",
+         "uns",
+         "geht",
+         "es",
+         "auch",
+         "um",
+         "fiskalische",
+         "Solidität",
+         ",",
+         "auch",
+         "in",
+         "der",
+         "Krise",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "20:5"
+            ],
+            "Source": [
+               "20:6",
+               "20:7"
+            ],
+            "Topic": [],
+            "Cue": [
+               "20:10"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "20:19",
+               "20:20",
+               "20:21",
+               "20:22",
+               "20:23",
+               "20:24",
+               "20:25",
+               "20:26",
+               "20:27",
+               "20:28",
+               "20:29"
+            ],
+            "Source": [
+               "20:18"
+            ],
+            "Topic": [],
+            "Cue": [
+               "20:17"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "21": {
+      "Tokens": [
+         "Sehr",
+         "geehrte",
+         "Damen",
+         "und",
+         "Herren",
+         ",",
+         "ja",
+         ",",
+         "wir",
+         "streiten",
+         "in",
+         "Europa",
+         "über",
+         "den",
+         "richtigen",
+         "Weg",
+         ",",
+         "und",
+         "es",
+         "ist",
+         "auch",
+         "richtig",
+         "so",
+         ",",
+         "dass",
+         "wir",
+         "das",
+         "tun",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "21:8"
+            ],
+            "Topic": [
+               "21:12",
+               "21:13",
+               "21:14",
+               "21:15"
+            ],
+            "Cue": [
+               "21:9"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "22": {
+      "Tokens": [
+         "Es",
+         "sind",
+         "viele",
+         "Staaten",
+         ",",
+         "die",
+         "hier",
+         "miteinander",
+         "zusammenarbeiten",
+         "."
+      ],
+      "Annotations": []
+   },
+   "23": {
+      "Tokens": [
+         "Noch",
+         "einmal",
+         ":",
+         "Was",
+         "wir",
+         "nicht",
+         "brauchen",
+         "können",
+         ",",
+         "sind",
+         "ideologische",
+         "oder",
+         "rückwärtsgewandte",
+         "Debatten",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "23:13"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "24": {
+      "Tokens": [
+         "Was",
+         "wir",
+         "jetzt",
+         "brauchen",
+         ",",
+         "sind",
+         "pragmatische",
+         "und",
+         "zielgerichtete",
+         "Maßnahmen",
+         "für",
+         "ein",
+         "Europa",
+         ",",
+         "das",
+         "gestärkt",
+         "aus",
+         "der",
+         "Krise",
+         "herausgeht",
+         "."
+      ],
+      "Annotations": []
+   },
+   "25": {
+      "Tokens": [
+         "Genau",
+         "das",
+         "wollen",
+         "wir",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "26": {
+      "Tokens": [
+         "denn",
+         "nur",
+         "ein",
+         "starkes",
+         "Europa",
+         "wird",
+         "am",
+         "Ende",
+         "des",
+         "Tages",
+         "im",
+         "globalen",
+         "Wettbewerb",
+         "neben",
+         "Akteuren",
+         "wie",
+         "China",
+         "oder",
+         "den",
+         "USA",
+         "Bestand",
+         "haben",
+         "."
+      ],
+      "Annotations": []
+   },
+   "27": {
+      "Tokens": [
+         "Dabei",
+         ",",
+         "sehr",
+         "verehrte",
+         "Damen",
+         "und",
+         "Herren",
+         ",",
+         "sind",
+         "drei",
+         "Punkte",
+         "für",
+         "mich",
+         "ganz",
+         "zentral",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "27:13",
+               "27:14",
+               "27:8",
+               "27:9",
+               "27:10",
+               "27:0"
+            ],
+            "Source": [
+               "27:12"
+            ],
+            "Topic": [],
+            "Cue": [
+               "27:11"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "28": {
+      "Tokens": [
+         "Erstens",
+         "müssen",
+         "wir",
+         "an",
+         "der",
+         "nachhaltigen",
+         "Ausgestaltung",
+         "der",
+         "Wirtschaft",
+         "festhalten",
+         "."
+      ],
+      "Annotations": []
+   },
+   "29": {
+      "Tokens": [
+         "Hier",
+         "sehe",
+         "ich",
+         "die",
+         "Krise",
+         "auch",
+         "wirklich",
+         "als",
+         "eine",
+         "Chance",
+         ",",
+         "schnell",
+         "auf",
+         "zukunftsorientierte",
+         "Technologien",
+         "umzurüsten",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "29:7",
+               "29:8",
+               "29:9",
+               "29:10",
+               "29:11",
+               "29:12",
+               "29:13",
+               "29:14",
+               "29:15"
+            ],
+            "Source": [
+               "29:2"
+            ],
+            "Topic": [
+               "29:3",
+               "29:4"
+            ],
+            "Cue": [
+               "29:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "30": {
+      "Tokens": [
+         "Der",
+         "Green",
+         "Deal",
+         "der",
+         "Europäischen",
+         "Kommission",
+         "ist",
+         "hierfür",
+         "eine",
+         "wichtige",
+         "Grundlage",
+         "."
+      ],
+      "Annotations": []
+   },
+   "31": {
+      "Tokens": [
+         "Denn",
+         "wahr",
+         "ist",
+         "auch",
+         ":",
+         "Wir",
+         "befinden",
+         "uns",
+         "ja",
+         "längst",
+         "mitten",
+         "in",
+         "der",
+         "nächsten",
+         "Krise",
+         ",",
+         "der",
+         "Klimakrise",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "32": {
+      "Tokens": [
+         "das",
+         "ist",
+         "so",
+         "."
+      ],
+      "Annotations": []
+   },
+   "33": {
+      "Tokens": [
+         "Es",
+         "war",
+         "nicht",
+         "nur",
+         "einmal",
+         "wieder",
+         "ein",
+         "warmer",
+         "März",
+         ",",
+         "sondern",
+         "das",
+         "hat",
+         "mittlerweile",
+         "eine",
+         "Dimension",
+         ",",
+         "die",
+         "auch",
+         "für",
+         "uns",
+         "gravierende",
+         "Folgen",
+         "haben",
+         "wird",
+         "."
+      ],
+      "Annotations": []
+   },
+   "34": {
+      "Tokens": [
+         "Gerade",
+         "deshalb",
+         "wird",
+         "es",
+         "für",
+         "uns",
+         "überlebenswichtig",
+         "sein",
+         ",",
+         "den",
+         "Weg",
+         "hin",
+         "zu",
+         "einer",
+         "klimaneutralen",
+         "EU",
+         "weiterzugehen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "35": {
+      "Tokens": [
+         "Zweitens",
+         "-",
+         "auch",
+         "das",
+         "hat",
+         "die",
+         "Kanzlerin",
+         "vorhin",
+         "angesprochen",
+         ";"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "35:5",
+               "35:6"
+            ],
+            "Topic": [
+               "35:3"
+            ],
+            "Cue": [
+               "35:8"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "36": {
+      "Tokens": [
+         "es",
+         "ist",
+         "ganz",
+         "wichtig",
+         "-",
+         ":"
+      ],
+      "Annotations": []
+   },
+   "37": {
+      "Tokens": [
+         "Wenn",
+         "wir",
+         "die",
+         "Europäische",
+         "Union",
+         "als",
+         "globalen",
+         "Akteur",
+         "sehen",
+         ",",
+         "dann",
+         "muss",
+         "Europa",
+         "autonomer",
+         "und",
+         "unabhängiger",
+         "von",
+         "Drittmärkten",
+         "werden",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "37:5",
+               "37:6",
+               "37:7"
+            ],
+            "Source": [
+               "37:1"
+            ],
+            "Topic": [
+               "37:2",
+               "37:3",
+               "37:4"
+            ],
+            "Cue": [
+               "37:8"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "38": {
+      "Tokens": [
+         "Wir",
+         "müssen",
+         "strategisch",
+         "wichtige",
+         "Industriebereiche",
+         "wie",
+         "den",
+         "Verteidigungs-",
+         "oder",
+         "den",
+         "Transportsektor",
+         "stärken",
+         "."
+      ],
+      "Annotations": []
+   },
+   "39": {
+      "Tokens": [
+         "Auch",
+         "hier",
+         "hat",
+         "die",
+         "Kommission",
+         "gute",
+         "Ansätze",
+         "in",
+         "ihrer",
+         "Industriestrategie",
+         "vorgelegt",
+         ",",
+         "die",
+         "wir",
+         "weiterentwickeln",
+         "müssen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [
+               "39:7",
+               "39:8",
+               "39:9"
+            ],
+            "Message": [
+               "39:5",
+               "39:6"
+            ],
+            "Source": [
+               "39:3",
+               "39:4"
+            ],
+            "Topic": [],
+            "Cue": [
+               "39:10"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "40": {
+      "Tokens": [
+         "Drittens",
+         "müssen",
+         "wir",
+         "dringend",
+         "in",
+         "die",
+         "Digitalisierung",
+         "von",
+         "Wirtschaft",
+         "und",
+         "Bildung",
+         "investieren",
+         "."
+      ],
+      "Annotations": []
+   },
+   "41": {
+      "Tokens": [
+         "Wir",
+         "brauchen",
+         "den",
+         "digitalen",
+         "Binnenmarkt",
+         ",",
+         "auch",
+         "europäische",
+         "Plattformen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "42": {
+      "Tokens": [
+         "Wir",
+         "machen",
+         "Videokonferenzen",
+         "über",
+         "Zoom",
+         "und",
+         "Webex",
+         "-",
+         "das",
+         "könnten",
+         "wir",
+         "vielleicht",
+         "auch",
+         "europäisieren",
+         "."
+      ],
+      "Annotations": []
+   },
+   "43": {
+      "Tokens": [
+         "Das",
+         "ist",
+         "wichtig",
+         ",",
+         "wenn",
+         "es",
+         "die",
+         "Europäische",
+         "Union",
+         "ernst",
+         "damit",
+         "meint",
+         ",",
+         "Standards",
+         "zu",
+         "setzen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "43:13",
+               "43:14",
+               "43:15"
+            ],
+            "Source": [
+               "43:6",
+               "43:7",
+               "43:8"
+            ],
+            "Topic": [],
+            "Cue": [
+               "43:11",
+               "43:9"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "44": {
+      "Tokens": [
+         "Gerade",
+         "hier",
+         "können",
+         "wir",
+         "auch",
+         "viel",
+         "von",
+         "anderen",
+         "Mitgliedstaaten",
+         "lernen",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "45": {
+      "Tokens": [
+         "ich",
+         "denke",
+         "an",
+         "das",
+         "Homeschooling",
+         "bei",
+         "mir",
+         "daheim",
+         "oder",
+         "auch",
+         "an",
+         "Homeoffice",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "45:0"
+            ],
+            "Topic": [
+               "45:2",
+               "45:3",
+               "45:4",
+               "45:5",
+               "45:6",
+               "45:7",
+               "45:8",
+               "45:9",
+               "45:10",
+               "45:11"
+            ],
+            "Cue": [
+               "45:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "46": {
+      "Tokens": [
+         "Deutschland",
+         "geht",
+         "es",
+         "nur",
+         "gut",
+         "in",
+         "einer",
+         "innovativen",
+         ",",
+         "starken",
+         "Europäischen",
+         "Union",
+         "."
+      ],
+      "Annotations": []
+   },
+   "47": {
+      "Tokens": [
+         "Lassen",
+         "Sie",
+         "uns",
+         "das",
+         "gemeinsam",
+         "anpacken",
+         "in",
+         "einer",
+         "starken",
+         "Gemeinschaft",
+         "von",
+         "solidarischen",
+         "Staaten",
+         "."
+      ],
+      "Annotations": []
+   },
+   "48": {
+      "Tokens": [
+         "Herzlichen",
+         "Dank",
+         "."
+      ],
+      "Annotations": []
+   },
+   "49": {
+      "Tokens": [
+         "Vielen",
+         "Dank",
+         "."
+      ],
+      "Annotations": []
+   },
+   "50": {
+      "Tokens": [
+         "-",
+         "Nächste",
+         "Rednerin",
+         "ist",
+         "die",
+         "fraktionslose",
+         "Abgeordnete",
+         "Dr.",
+         "Frauke",
+         "Petry",
+         "."
+      ],
+      "Annotations": []
+   }
+}

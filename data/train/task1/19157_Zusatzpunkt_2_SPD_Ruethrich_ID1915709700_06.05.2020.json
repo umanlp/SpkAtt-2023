@@ -1,0 +1,960 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Sehr",
+            "geehrter",
+            "Herr",
+            "Präsident",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Kitas",
+            "sind",
+            "für",
+            "Kinder",
+            "da",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Sie",
+            "lernen",
+            "dort",
+            ",",
+            "sie",
+            "treffen",
+            "ihre",
+            "Freunde",
+            ",",
+            "sie",
+            "erleben",
+            "Gemeinsamkeit",
+            "über",
+            "ihre",
+            "Familie",
+            "hinaus",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Bildung",
+            ",",
+            "Förderung",
+            ",",
+            "Schutz",
+            "und",
+            "vor",
+            "allem",
+            "Teilhabe",
+            "sind",
+            "Kinderrechte",
+            ",",
+            "und",
+            "zwar",
+            "für",
+            "jedes",
+            "Kind",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Gerade",
+            "wir",
+            "Sozis",
+            "kämpfen",
+            "seit",
+            "Jahr",
+            "und",
+            "Tag",
+            "gemeinsam",
+            "mit",
+            "vielen",
+            "anderen",
+            "für",
+            "dieses",
+            "umfassende",
+            "Verständnis",
+            "von",
+            "Kita",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Um",
+            "diese",
+            "Rechte",
+            "einzuschränken",
+            ",",
+            "bedarf",
+            "es",
+            "also",
+            "einer",
+            "sehr",
+            "guten",
+            "Begründung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Um",
+            "die",
+            "Infektion",
+            "mit",
+            "dem",
+            "Coronavirus",
+            "einzudämmen",
+            ",",
+            "ist",
+            "die",
+            "Schließung",
+            "der",
+            "Kitas",
+            "wichtig",
+            "gewesen",
+            ",",
+            "und",
+            "sie",
+            "war",
+            "erfolgreich",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Dafür",
+            "können",
+            "wir",
+            "sehr",
+            "dankbar",
+            "sein",
+            ",",
+            "aber",
+            "ohne",
+            "jetzt",
+            "leichtsinnig",
+            "zu",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Leichtsinnig",
+            "wäre",
+            "es",
+            ",",
+            "jetzt",
+            "einfach",
+            "wieder",
+            "alles",
+            "zu",
+            "öffnen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Es",
+            "wäre",
+            "aber",
+            "auch",
+            "fahrlässig",
+            ",",
+            "einer",
+            "ganzen",
+            "Kindergeneration",
+            "ihre",
+            "Entwicklungsmöglichkeiten",
+            "auf",
+            "unabsehbare",
+            "Zeit",
+            "zu",
+            "nehmen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Spielen",
+            ",",
+            "Lernen",
+            ",",
+            "Streiten",
+            ",",
+            "Lachen",
+            "gehören",
+            "zur",
+            "normalen",
+            "Entwicklung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Diese",
+            "zu",
+            "stören",
+            ",",
+            "kann",
+            "auch",
+            "gesundheitliche",
+            ",",
+            "psychische",
+            "und",
+            "soziale",
+            "Folgen",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Das",
+            "gilt",
+            "für",
+            "alle",
+            "Altersklassen",
+            ",",
+            "also",
+            "in",
+            "Kitas",
+            ",",
+            "Schulen",
+            ",",
+            "Hort",
+            "und",
+            "Tagespflege",
+            ",",
+            "aber",
+            "auch",
+            "für",
+            "die",
+            "außerschulische",
+            "Kinder-",
+            "und",
+            "Jugendarbeit",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            ",",
+            "Kinder",
+            "sind",
+            "nicht",
+            "nur",
+            "unsere",
+            "Zukunft",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "sie",
+            "sind",
+            "heute",
+            "schon",
+            "da",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Die",
+            "Coronapandemie",
+            "darf",
+            "nicht",
+            "dazu",
+            "führen",
+            ",",
+            "dass",
+            "wir",
+            "eine",
+            "ganze",
+            "Generation",
+            "zum",
+            "Verstummen",
+            "bringen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Die",
+            "Kinder",
+            "sind",
+            "die",
+            "Betroffenen",
+            "der",
+            "Kitaschließungen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Infolgedessen",
+            "leisten",
+            "die",
+            "Familien",
+            "in",
+            "unserem",
+            "Land",
+            "gerade",
+            "Herausragendes",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Danke",
+            "dafür",
+            "und",
+            "höchsten",
+            "Respekt",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Aber",
+            "Kinder",
+            "brauchen",
+            "Kinder",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "sie",
+            "brauchen",
+            "Zeit",
+            "miteinander",
+            ",",
+            "um",
+            "sich",
+            "zu",
+            "eigenständigen",
+            "Persönlichkeiten",
+            "zu",
+            "entwickeln",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Dafür",
+            "brauchen",
+            "sie",
+            "klare",
+            "Perspektiven",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Wenn",
+            "wir",
+            "davon",
+            "ausgehen",
+            ",",
+            "dass",
+            "Bildung",
+            "in",
+            "der",
+            "Kita",
+            "beginnt",
+            ",",
+            "dann",
+            "ist",
+            "es",
+            "auf",
+            "Dauer",
+            "nicht",
+            "akzeptabel",
+            ",",
+            "den",
+            "Kitabesuch",
+            "allein",
+            "von",
+            "der",
+            "beruflichen",
+            "oder",
+            "persönlichen",
+            "Situation",
+            "der",
+            "Eltern",
+            "abhängig",
+            "zu",
+            "machen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Um",
+            "allen",
+            "Kindern",
+            ",",
+            "soweit",
+            "es",
+            "geht",
+            ",",
+            "gerecht",
+            "zu",
+            "werden",
+            "-",
+            "und",
+            "gleichzeitig",
+            "immer",
+            "mit",
+            "Blick",
+            "auf",
+            "die",
+            "nötige",
+            "Eindämmung",
+            "der",
+            "Pandemie",
+            "-",
+            ",",
+            "ist",
+            "für",
+            "mich",
+            "klar",
+            ",",
+            "dass",
+            "alle",
+            "Kinder",
+            "vor",
+            "der",
+            "Sommerferienzeit",
+            "ihre",
+            "Kitas",
+            ",",
+            "Schulen",
+            ",",
+            "den",
+            "Hort",
+            "zeitweise",
+            ",",
+            "tage-",
+            "oder",
+            "wochenweise",
+            ",",
+            "in",
+            "kleinen",
+            "festen",
+            "Gruppen",
+            "wieder",
+            "besuchen",
+            "können",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Die",
+            "Erzieherinnen",
+            "und",
+            "Erzieher",
+            "und",
+            "die",
+            "Lehrerinnen",
+            "und",
+            "Lehrer",
+            "in",
+            "den",
+            "Einrichtungen",
+            "und",
+            "bei",
+            "den",
+            "Trägern",
+            "entwickeln",
+            "dafür",
+            "individuell",
+            "passende",
+            "Konzepte",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "Die",
+            "Öffnung",
+            "geht",
+            "also",
+            "in",
+            "Schritten",
+            "voran",
+            ":",
+            "von",
+            "einer",
+            "Ausweitung",
+            "der",
+            "Notbetreuung",
+            "über",
+            "einen",
+            "eingeschränkten",
+            "Regelbetrieb",
+            "hin",
+            "zu",
+            "dem",
+            "langfristig",
+            "angestrebten",
+            "normalen",
+            "Betrieb",
+            ",",
+            "den",
+            "wir",
+            "uns",
+            "alle",
+            "so",
+            "sehr",
+            "wünschen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Vor",
+            "Ort",
+            "sind",
+            "die",
+            "Länder",
+            "und",
+            "Kommunen",
+            "gefragt",
+            ",",
+            "diese",
+            "Schritte",
+            "zu",
+            "gehen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Genau",
+            "das",
+            "ist",
+            "möglich",
+            "durch",
+            "den",
+            "Vierstufenplan",
+            ",",
+            "den",
+            "die",
+            "Kultusministerinnen",
+            "und",
+            "-minister",
+            "zusammen",
+            "mit",
+            "unserer",
+            "Familienministerin",
+            "Franziska",
+            "Giffey",
+            "letzte",
+            "Woche",
+            "vorgelegt",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "Er",
+            "gibt",
+            "die",
+            "dringend",
+            "nötige",
+            "Orientierung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 30,
+         "Tokens": [
+            "Liebe",
+            "antragstellende",
+            "FDP",
+            ",",
+            "Ihr",
+            "Antrag",
+            "in",
+            "allen",
+            "Ehren",
+            ",",
+            "aber",
+            "er",
+            "ist",
+            "überholt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 31,
+         "Tokens": [
+            "Sie",
+            "müssten",
+            "einfach",
+            "fixer",
+            "sein",
+            "als",
+            "die",
+            "Regierung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 32,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            ",",
+            "Frau",
+            "Kollegin",
+            "Rüthrich",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 33,
+         "Tokens": [
+            "-",
+            "Für",
+            "die",
+            "Fraktion",
+            "Die",
+            "Linke",
+            "hat",
+            "als",
+            "Nächstes",
+            "das",
+            "Wort",
+            "die",
+            "Kollegin",
+            "Katrin",
+            "Werner",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "5:16",
+            "5:17"
+         ],
+         "Cue": [
+            "5:15"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "6:11"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "8:0"
+         ],
+         "Source": [
+            "8:2"
+         ],
+         "Topic": [],
+         "Cue": [
+            "8:5",
+            "8:4"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "11:4"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "19:1"
+         ],
+         "Cue": [
+            "19:0"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "22:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "23:2",
+            "23:5",
+            "23:6",
+            "23:7",
+            "23:8",
+            "23:9",
+            "23:10"
+         ],
+         "Source": [
+            "23:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "23:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "24:28",
+            "24:29",
+            "24:30",
+            "24:31",
+            "24:32",
+            "24:33",
+            "24:34",
+            "24:35",
+            "24:36",
+            "24:37",
+            "24:38",
+            "24:39",
+            "24:40",
+            "24:41",
+            "24:42",
+            "24:43",
+            "24:44",
+            "24:45",
+            "24:46",
+            "24:47",
+            "24:48",
+            "24:49",
+            "24:50",
+            "24:51",
+            "24:52",
+            "24:53",
+            "24:54",
+            "24:55"
+         ],
+         "Source": [
+            "24:25",
+            "24:26",
+            "24:27"
+         ],
+         "Topic": [],
+         "Cue": [
+            "24:26"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "26:22",
+            "26:23"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "26:21"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "26:25"
+         ],
+         "Source": [
+            "26:26"
+         ],
+         "Topic": [],
+         "Cue": [
+            "26:31"
+         ],
+         "PTC": [
+            "26:27"
+         ]
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "28:8"
+         ],
+         "Source": [
+            "28:9",
+            "28:10",
+            "28:11",
+            "28:12",
+            "28:13",
+            "28:14",
+            "28:15",
+            "28:16",
+            "28:17",
+            "28:18"
+         ],
+         "Topic": [],
+         "Cue": [
+            "28:21"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "30:4"
+         ],
+         "Topic": [],
+         "Cue": [
+            "30:5"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "32:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "33:10"
+         ],
+         "PTC": []
+      }
+   ]
+}

@@ -1,0 +1,332 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Ich",
+            "glaube",
+            ",",
+            "der",
+            "Unterschied",
+            "liegt",
+            "vor",
+            "allem",
+            "darin",
+            ":",
+            "Mir",
+            "geht",
+            "es",
+            "um",
+            "Chancen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Sie",
+            "haben",
+            "in",
+            "Ihrer",
+            "Frage",
+            "davon",
+            "gesprochen",
+            ",",
+            "Chancen",
+            "zu",
+            "verwerten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Mir",
+            "geht",
+            "es",
+            "darum",
+            ",",
+            "Chancen",
+            "zu",
+            "verwirklichen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Ich",
+            "habe",
+            "keinesfalls",
+            "in",
+            "meiner",
+            "Rede",
+            "über",
+            "Parität",
+            "gesprochen",
+            ",",
+            "sondern",
+            "ich",
+            "habe",
+            "über",
+            "Talentmanagement",
+            "gesprochen",
+            ",",
+            "und",
+            "ich",
+            "glaube",
+            ",",
+            "dass",
+            "es",
+            "in",
+            "unserem",
+            "Jahrzehnt",
+            "wirklich",
+            "notwendig",
+            "ist",
+            ",",
+            "dass",
+            "wir",
+            "uns",
+            "über",
+            "Talentmanagement",
+            "auf",
+            "sämtlichen",
+            "Ebenen",
+            "unterhalten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Genau",
+            "das",
+            "ist",
+            "das",
+            "Ziel",
+            "der",
+            "Freien",
+            "Demokraten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Danke",
+            "schön",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Jetzt",
+            "erteile",
+            "ich",
+            "das",
+            "Wort",
+            "der",
+            "Kollegin",
+            "Sabine",
+            "Zimmermann",
+            ",",
+            "Die",
+            "Linke",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "0:3",
+            "0:4",
+            "0:5",
+            "0:6",
+            "0:7",
+            "0:8",
+            "0:9",
+            "0:10",
+            "0:11",
+            "0:12",
+            "0:13",
+            "0:14"
+         ],
+         "Source": [
+            "0:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "0:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "1:3"
+         ],
+         "Topic": [],
+         "Cue": [
+            "1:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "1:0"
+         ],
+         "Topic": [
+            "1:8",
+            "1:9",
+            "1:10",
+            "1:5"
+         ],
+         "Cue": [
+            "1:6"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "3:4"
+         ],
+         "Topic": [],
+         "Cue": [
+            "3:5"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "3:0"
+         ],
+         "Topic": [
+            "3:6",
+            "3:7"
+         ],
+         "Cue": [
+            "3:8"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "3:11"
+         ],
+         "Topic": [
+            "3:13",
+            "3:14"
+         ],
+         "Cue": [
+            "3:15"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "3:21",
+            "3:22",
+            "3:23",
+            "3:24",
+            "3:25",
+            "3:26",
+            "3:27",
+            "3:28",
+            "3:29",
+            "3:30",
+            "3:31",
+            "3:32",
+            "3:33",
+            "3:34",
+            "3:35",
+            "3:36",
+            "3:37",
+            "3:38"
+         ],
+         "Source": [
+            "3:18"
+         ],
+         "Topic": [],
+         "Cue": [
+            "3:19"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "3:31"
+         ],
+         "Topic": [
+            "3:33",
+            "3:34",
+            "3:35",
+            "3:36",
+            "3:37"
+         ],
+         "Cue": [
+            "3:38"
+         ],
+         "PTC": [
+            "3:32"
+         ]
+      },
+      {},
+      {},
+      {
+         "Addr": [
+            "6:5",
+            "6:6",
+            "6:7",
+            "6:8",
+            "6:9",
+            "6:10",
+            "6:11"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "6:2"
+         ],
+         "Topic": [],
+         "Cue": [
+            "6:1",
+            "6:4"
+         ],
+         "PTC": []
+      }
+   ]
+}

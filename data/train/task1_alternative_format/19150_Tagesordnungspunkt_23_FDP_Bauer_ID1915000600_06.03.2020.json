@@ -1,0 +1,329 @@
+{
+   "1": {
+      "Tokens": [
+         "Ich",
+         "glaube",
+         ",",
+         "der",
+         "Unterschied",
+         "liegt",
+         "vor",
+         "allem",
+         "darin",
+         ":",
+         "Mir",
+         "geht",
+         "es",
+         "um",
+         "Chancen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "1:3",
+               "1:4",
+               "1:5",
+               "1:6",
+               "1:7",
+               "1:8",
+               "1:9",
+               "1:10",
+               "1:11",
+               "1:12",
+               "1:13",
+               "1:14"
+            ],
+            "Source": [
+               "1:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "1:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "2": {
+      "Tokens": [
+         "Sie",
+         "haben",
+         "in",
+         "Ihrer",
+         "Frage",
+         "davon",
+         "gesprochen",
+         ",",
+         "Chancen",
+         "zu",
+         "verwerten",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "2:3"
+            ],
+            "Topic": [],
+            "Cue": [
+               "2:4"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "2:0"
+            ],
+            "Topic": [
+               "2:8",
+               "2:9",
+               "2:10",
+               "2:5"
+            ],
+            "Cue": [
+               "2:6"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "3": {
+      "Tokens": [
+         "Mir",
+         "geht",
+         "es",
+         "darum",
+         ",",
+         "Chancen",
+         "zu",
+         "verwirklichen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "Ich",
+         "habe",
+         "keinesfalls",
+         "in",
+         "meiner",
+         "Rede",
+         "über",
+         "Parität",
+         "gesprochen",
+         ",",
+         "sondern",
+         "ich",
+         "habe",
+         "über",
+         "Talentmanagement",
+         "gesprochen",
+         ",",
+         "und",
+         "ich",
+         "glaube",
+         ",",
+         "dass",
+         "es",
+         "in",
+         "unserem",
+         "Jahrzehnt",
+         "wirklich",
+         "notwendig",
+         "ist",
+         ",",
+         "dass",
+         "wir",
+         "uns",
+         "über",
+         "Talentmanagement",
+         "auf",
+         "sämtlichen",
+         "Ebenen",
+         "unterhalten",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "4:4"
+            ],
+            "Topic": [],
+            "Cue": [
+               "4:5"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "4:0"
+            ],
+            "Topic": [
+               "4:6",
+               "4:7"
+            ],
+            "Cue": [
+               "4:8"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "4:11"
+            ],
+            "Topic": [
+               "4:13",
+               "4:14"
+            ],
+            "Cue": [
+               "4:15"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "4:21",
+               "4:22",
+               "4:23",
+               "4:24",
+               "4:25",
+               "4:26",
+               "4:27",
+               "4:28",
+               "4:29",
+               "4:30",
+               "4:31",
+               "4:32",
+               "4:33",
+               "4:34",
+               "4:35",
+               "4:36",
+               "4:37",
+               "4:38"
+            ],
+            "Source": [
+               "4:18"
+            ],
+            "Topic": [],
+            "Cue": [
+               "4:19"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "4:31"
+            ],
+            "Topic": [
+               "4:33",
+               "4:34",
+               "4:35",
+               "4:36",
+               "4:37"
+            ],
+            "Cue": [
+               "4:38"
+            ],
+            "PTC": [
+               "4:32"
+            ]
+         }
+      ]
+   },
+   "5": {
+      "Tokens": [
+         "Genau",
+         "das",
+         "ist",
+         "das",
+         "Ziel",
+         "der",
+         "Freien",
+         "Demokraten",
+         "."
+      ],
+      "Annotations": []
+   },
+   "6": {
+      "Tokens": [
+         "Danke",
+         "schön",
+         "."
+      ],
+      "Annotations": []
+   },
+   "7": {
+      "Tokens": [
+         "Jetzt",
+         "erteile",
+         "ich",
+         "das",
+         "Wort",
+         "der",
+         "Kollegin",
+         "Sabine",
+         "Zimmermann",
+         ",",
+         "Die",
+         "Linke",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "7:5",
+               "7:6",
+               "7:7",
+               "7:8",
+               "7:9",
+               "7:10",
+               "7:11"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "7:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "7:1",
+               "7:4"
+            ],
+            "PTC": []
+         }
+      ]
+   }
+}

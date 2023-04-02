@@ -1,0 +1,357 @@
+{
+   "1": {
+      "Tokens": [
+         "Recht",
+         "vielen",
+         "Dank",
+         "."
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "-",
+         "Kollege",
+         "Bernstiel",
+         "und",
+         "auch",
+         "die",
+         "vorhergehenden",
+         "Redner",
+         ",",
+         "die",
+         "diese",
+         "Ausländerkriminalität",
+         "hier",
+         "so",
+         "verharmlosen",
+         ",",
+         "ich",
+         "darf",
+         "Ihnen",
+         "einmal",
+         "ein",
+         "paar",
+         "Zahlen",
+         "nennen",
+         ":"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "2:10",
+               "2:11"
+            ],
+            "Source": [
+               "2:9"
+            ],
+            "Topic": [],
+            "Cue": [
+               "2:14"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [
+               "2:18"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "2:20",
+               "2:21",
+               "2:22"
+            ],
+            "Source": [
+               "2:16"
+            ],
+            "Topic": [],
+            "Cue": [
+               "2:23"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "3": {
+      "Tokens": [
+         "Wir",
+         "haben",
+         "in",
+         "Deutschland",
+         "ungefähr",
+         "6",
+         "Millionen",
+         "Straftaten",
+         "pro",
+         "Jahr",
+         "bei",
+         "ungefähr",
+         "2",
+         "Millionen",
+         "Straftatverdächtigen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "Also",
+         ":",
+         "6",
+         "Millionen",
+         "Straftaten",
+         "und",
+         "2",
+         "Millionen",
+         "Straftatverdächtige",
+         "."
+      ],
+      "Annotations": []
+   },
+   "5": {
+      "Tokens": [
+         "Bei",
+         "den",
+         "Straftatverdächtigen",
+         "haben",
+         "wir",
+         "610",
+         "000",
+         ",",
+         "also",
+         "ungefähr",
+         "600",
+         "000",
+         ",",
+         "Nichtdeutsche",
+         "."
+      ],
+      "Annotations": []
+   },
+   "6": {
+      "Tokens": [
+         "Von",
+         "2",
+         "Millionen",
+         "sind",
+         "600",
+         "000",
+         "Nichtdeutsche",
+         "."
+      ],
+      "Annotations": []
+   },
+   "7": {
+      "Tokens": [
+         "Wenn",
+         "Sie",
+         "das",
+         "hochrechnen",
+         ",",
+         "dann",
+         "sind",
+         "das",
+         "1,8",
+         "Millionen",
+         "Straftaten",
+         "pro",
+         "Jahr",
+         "durch",
+         "Nichtdeutsche",
+         ",",
+         "meine",
+         "Damen",
+         "und",
+         "Herren",
+         ",",
+         "die",
+         "Sie",
+         "hier",
+         "reingeholt",
+         "haben",
+         "-",
+         "zu",
+         "unseren",
+         "eigenen",
+         "deutschen",
+         "Kriminellen",
+         "noch",
+         "dazu",
+         "."
+      ],
+      "Annotations": []
+   },
+   "8": {
+      "Tokens": [
+         "Es",
+         "ist",
+         "eine",
+         "große",
+         "Sauerei",
+         "und",
+         "eine",
+         "Verhöhnung",
+         "der",
+         "Opfer",
+         "-",
+         "das",
+         "sage",
+         "ich",
+         "in",
+         "aller",
+         "Deutlichkeit",
+         "-",
+         ",",
+         "wie",
+         "Sie",
+         "das",
+         "hier",
+         "verharmlosen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "8:11"
+            ],
+            "Source": [
+               "8:13"
+            ],
+            "Topic": [],
+            "Cue": [
+               "8:12"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "8:21"
+            ],
+            "Source": [
+               "8:20"
+            ],
+            "Topic": [],
+            "Cue": [
+               "8:23"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "9": {
+      "Tokens": [
+         "1,8",
+         "Millionen",
+         "Straftaten",
+         "durch",
+         "Nichtdeutsche",
+         ",",
+         "meine",
+         "Damen",
+         "und",
+         "Herren",
+         ":",
+         "Da",
+         "sollten",
+         "Sie",
+         "sich",
+         "mal",
+         "Gedanken",
+         "machen",
+         ",",
+         "was",
+         "mit",
+         "den",
+         "Opfern",
+         "passiert",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "9:19",
+               "9:20",
+               "9:21",
+               "9:22",
+               "9:23"
+            ],
+            "Source": [
+               "9:13"
+            ],
+            "Topic": [],
+            "Cue": [
+               "9:17",
+               "9:16"
+            ],
+            "PTC": [
+               "9:14"
+            ]
+         }
+      ]
+   },
+   "10": {
+      "Tokens": [
+         "Um",
+         "die",
+         "geht",
+         "es",
+         "hier",
+         ",",
+         "und",
+         "nicht",
+         "um",
+         "Ihre",
+         "Täter",
+         ",",
+         "die",
+         "Sie",
+         "hier",
+         "hätscheln",
+         "."
+      ],
+      "Annotations": []
+   },
+   "11": {
+      "Tokens": [
+         "Möchten",
+         "Sie",
+         "darauf",
+         "antworten",
+         ",",
+         "Herr",
+         "Bernstiel",
+         "?"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "11:1"
+            ],
+            "Topic": [
+               "11:2"
+            ],
+            "Cue": [
+               "11:3"
+            ],
+            "PTC": []
+         }
+      ]
+   }
+}

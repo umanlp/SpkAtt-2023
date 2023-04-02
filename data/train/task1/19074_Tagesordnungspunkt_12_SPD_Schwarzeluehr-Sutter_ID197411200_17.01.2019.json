@@ -1,0 +1,747 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Frau",
+            "Präsidentin",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Die",
+            "Bundesregierung",
+            "hat",
+            "am",
+            "15.",
+            "November",
+            "letzten",
+            "Jahres",
+            "den",
+            "Entwurf",
+            "eines",
+            "Dreizehnten",
+            "Gesetzes",
+            "zur",
+            "Änderung",
+            "des",
+            "Bundes-Immissionsschutzgesetzes",
+            "beschlossen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Er",
+            "liefert",
+            "bundesweit",
+            "einheitliche",
+            "Maßstäbe",
+            "für",
+            "die",
+            "Verhältnismäßigkeit",
+            "von",
+            "Verkehrsverboten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Er",
+            "dient",
+            "auch",
+            "der",
+            "Umsetzung",
+            "des",
+            "vom",
+            "Koalitionsausschuss",
+            "im",
+            "Oktober",
+            "letzten",
+            "Jahres",
+            "beschlossenen",
+            "„",
+            "Konzepts",
+            "für",
+            "saubere",
+            "Luft",
+            "und",
+            "der",
+            "Sicherung",
+            "der",
+            "individuellen",
+            "Mobilität",
+            "in",
+            "unseren",
+            "Städten",
+            "“",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Dieses",
+            "Konzept",
+            "dient",
+            "dem",
+            "Interessensausgleich",
+            "von",
+            "Fahrzeughaltern",
+            "und",
+            "Bewohnerinnen",
+            "und",
+            "Bewohnern",
+            "der",
+            "Innenstädte",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Betroffen",
+            "können",
+            "die",
+            "Interessen",
+            "der",
+            "Besitzer",
+            "von",
+            "mitunter",
+            "gerade",
+            "einmal",
+            "dreieinhalb",
+            "Jahre",
+            "alten",
+            "Euro-5-Dieselfahrzeugen",
+            "sein",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Diese",
+            "gehören",
+            "jetzt",
+            "wahrlich",
+            "nicht",
+            "zum",
+            "alten",
+            "Eisen",
+            "und",
+            "sind",
+            "auch",
+            "kein",
+            "Schrott",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Aber",
+            "genauso",
+            "wenig",
+            "dürfen",
+            "wir",
+            "das",
+            "Recht",
+            "auf",
+            "saubere",
+            "Luft",
+            "für",
+            "eine",
+            "Familie",
+            "aus",
+            "den",
+            "Augen",
+            "verlieren",
+            ",",
+            "die",
+            "das",
+            "ganze",
+            "Jahr",
+            "über",
+            "an",
+            "einer",
+            "hochbelasteten",
+            "Straße",
+            "wohnt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Sie",
+            "steht",
+            "eben",
+            "nicht",
+            "nur",
+            "an",
+            "der",
+            "Ampel",
+            ",",
+            "sondern",
+            "wohnt",
+            "an",
+            "einer",
+            "solchen",
+            "Straße",
+            "wie",
+            "etwa",
+            "der",
+            "Hügelstraße",
+            "in",
+            "Darmstadt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Daraus",
+            "ergibt",
+            "sich",
+            "klar",
+            ":",
+            "Deutschland",
+            "muss",
+            "schnellstmöglich",
+            "den",
+            "Grenzwert",
+            "für",
+            "Stickstoffdioxid",
+            "einhalten",
+            ",",
+            "und",
+            "zwar",
+            "möglichst",
+            "ohne",
+            "Fahrverbote",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Wir",
+            "müssen",
+            "auch",
+            "Haltern",
+            ",",
+            "die",
+            "nicht",
+            "die",
+            "Möglichkeit",
+            "haben",
+            ",",
+            "ein",
+            "neues",
+            ",",
+            "sauberes",
+            "Fahrzeug",
+            "zu",
+            "erwerben",
+            ",",
+            "einen",
+            "Ausweg",
+            "anbieten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Da",
+            "halten",
+            "wir",
+            "die",
+            "Hardwarenachrüstung",
+            "für",
+            "eine",
+            "richtige",
+            "und",
+            "wichtige",
+            "Maßnahme",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Damit",
+            "nachher",
+            "tatsächlich",
+            "auch",
+            "die",
+            "Autos",
+            ",",
+            "die",
+            "diese",
+            "Hardware­nachrüstung",
+            "haben",
+            "und",
+            "deren",
+            "Stickstoffdioxidemissionen",
+            "unter",
+            "270",
+            "Milligramm",
+            "pro",
+            "Kilometer",
+            "liegen",
+            ",",
+            "in",
+            "die",
+            "Städte",
+            "einfahren",
+            "dürfen",
+            ",",
+            "brauchen",
+            "wir",
+            "diese",
+            "Änderung",
+            "des",
+            "Bundes-Immissionsschutzgesetzes",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Klar",
+            "ist",
+            "aber",
+            "natürlich",
+            "auch",
+            ",",
+            "dass",
+            "wie",
+            "bei",
+            "der",
+            "Nachrüstung",
+            "bei",
+            "Bussen",
+            "und",
+            "Kommunalfahrzeugen",
+            "auch",
+            "für",
+            "Pkw",
+            "die",
+            "Stickstoffoxidemissionen",
+            "im",
+            "realen",
+            "Betrieb",
+            "entscheidend",
+            "sind",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Auch",
+            "für",
+            "die",
+            "gibt",
+            "es",
+            "die",
+            "Ausnahmen",
+            ",",
+            "um",
+            "dann",
+            "in",
+            "die",
+            "Städte",
+            "einfahren",
+            "zu",
+            "dürfen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Am",
+            "Ende",
+            "bleibt",
+            "es",
+            "Aufgabe",
+            "der",
+            "lokalen",
+            "Behörden",
+            ",",
+            "unter",
+            "Berücksichtigung",
+            "der",
+            "Gegebenheiten",
+            "und",
+            "Möglichkeiten",
+            "vor",
+            "Ort",
+            "über",
+            "die",
+            "Notwendigkeit",
+            "von",
+            "Fahrverboten",
+            "zu",
+            "entscheiden",
+            "und",
+            "Fahrverbote",
+            "so",
+            "weit",
+            "wie",
+            "möglich",
+            "zu",
+            "vermeiden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Es",
+            "ist",
+            "hierbei",
+            "entscheidend",
+            ",",
+            "dass",
+            "natürlich",
+            "die",
+            "Stickstoffdioxidemissionen",
+            "der",
+            "Dieselfahrzeuge",
+            "umgehend",
+            "wirksam",
+            "gesenkt",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Ich",
+            "glaube",
+            ",",
+            "wir",
+            "werden",
+            "am",
+            "30.",
+            "Januar",
+            "dieses",
+            "Jahres",
+            "voraussichtlich",
+            "eine",
+            "Anhörung",
+            "dazu",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Wir",
+            "sind",
+            "alle",
+            "gut",
+            "beraten",
+            ",",
+            "wenn",
+            "so",
+            "schnell",
+            "wie",
+            "möglich",
+            "die",
+            "Hardware­nachrüstung",
+            "kommt",
+            ",",
+            "damit",
+            "es",
+            "eben",
+            "keine",
+            "Bürger",
+            "gibt",
+            ",",
+            "die",
+            "nachher",
+            "nicht",
+            "mit",
+            "ihren",
+            "Autos",
+            "in",
+            "die",
+            "Städte",
+            "einfahren",
+            "können",
+            ",",
+            "aber",
+            "eben",
+            "auch",
+            "die",
+            "Bürger",
+            ",",
+            "die",
+            "an",
+            "stark",
+            "befahrenen",
+            "Straßen",
+            "leben",
+            ",",
+            "saubere",
+            "Luft",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Herzlichen",
+            "Dank",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            ",",
+            "Frau",
+            "Kollegin",
+            "Schwarzelühr-Sutter",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "-",
+            "Nächster",
+            "Redner",
+            ":",
+            "Marc",
+            "Bernhard",
+            "für",
+            "die",
+            "AfD-Fraktion",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "2:10",
+            "2:11",
+            "2:12",
+            "2:13",
+            "2:14",
+            "2:15",
+            "2:16"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "2:9"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "2:13",
+            "2:14",
+            "2:15",
+            "2:16"
+         ],
+         "Cue": [
+            "2:12"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "2:8",
+            "2:9",
+            "2:10",
+            "2:11",
+            "2:12",
+            "2:13",
+            "2:14",
+            "2:15",
+            "2:16"
+         ],
+         "Source": [
+            "2:0",
+            "2:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "2:17"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "12:5",
+            "12:6",
+            "12:7",
+            "12:8",
+            "12:9",
+            "12:10"
+         ],
+         "Source": [
+            "12:2"
+         ],
+         "Topic": [
+            "12:3",
+            "12:4"
+         ],
+         "Cue": [
+            "12:1"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "14:6",
+            "14:7",
+            "14:8",
+            "14:9",
+            "14:10",
+            "14:11",
+            "14:12",
+            "14:13",
+            "14:14",
+            "14:15",
+            "14:16",
+            "14:17",
+            "14:18",
+            "14:19",
+            "14:20",
+            "14:21",
+            "14:22",
+            "14:23",
+            "14:24"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "14:1",
+            "14:0"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "16:17",
+            "16:18",
+            "16:19",
+            "16:20",
+            "16:21"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "16:23"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "18:3",
+            "18:4",
+            "18:5",
+            "18:6",
+            "18:7",
+            "18:8",
+            "18:9",
+            "18:10",
+            "18:11",
+            "18:12",
+            "18:13",
+            "18:14"
+         ],
+         "Source": [
+            "18:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "18:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "18:13"
+         ],
+         "Cue": [
+            "18:12"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {}
+   ]
+}

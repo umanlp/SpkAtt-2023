@@ -1,0 +1,807 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Herr",
+            "Präsident",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Sehr",
+            "geehrte",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Die",
+            "Verleihung",
+            "der",
+            "Staatsangehörigkeit",
+            "ist",
+            "eine",
+            "der",
+            "weitreichendsten",
+            "Rechtskreiserweiterungen",
+            ",",
+            "die",
+            "ein",
+            "Rechtsstaat",
+            "vornehmen",
+            "kann",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Es",
+            "geht",
+            "um",
+            "das",
+            "bedeutendste",
+            "Statusrecht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Deutschland",
+            "ist",
+            "ein",
+            "weltoffenes",
+            "Land",
+            "mit",
+            "einer",
+            "in",
+            "der",
+            "jüngeren",
+            "Geschichte",
+            "reichen",
+            ",",
+            "bereichernden",
+            "Einwanderungsgeschichte",
+            "-",
+            "von",
+            "der",
+            "Ansiedlung",
+            "französischer",
+            "Hugenotten",
+            "in",
+            "Preußen",
+            "im",
+            "17.",
+            "und",
+            "18.",
+            "Jahrhundert",
+            "bis",
+            "zum",
+            "Zuzug",
+            "von",
+            "Unionsbürgern",
+            "in",
+            "unserer",
+            "jüngsten",
+            "Geschichte",
+            ",",
+            "ermöglicht",
+            "durch",
+            "Arbeitnehmerfreizügigkeit",
+            "und",
+            "Niederlassungsfreiheit",
+            "in",
+            "der",
+            "Europäischen",
+            "Union",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Zugleich",
+            "ist",
+            "unser",
+            "Land",
+            "für",
+            "qualifizierte",
+            "Fachkräfte",
+            "nicht",
+            "so",
+            "attraktiv",
+            ",",
+            "wie",
+            "es",
+            "sein",
+            "könnte",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Mit",
+            "der",
+            "Einbürgerung",
+            "werden",
+            "Zuwanderer",
+            "Teil",
+            "des",
+            "Staatsvolkes",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Sie",
+            "dürfen",
+            "dann",
+            "an",
+            "Wahlen",
+            "teilnehmen",
+            "und",
+            "die",
+            "politische",
+            "Richtung",
+            "des",
+            "Landes",
+            "mitbestimmen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Weil",
+            "der",
+            "demokratische",
+            "Rechtsstaat",
+            "kein",
+            "Interesse",
+            "daran",
+            "hat",
+            ",",
+            "in",
+            "relevantem",
+            "Umfang",
+            "ungeeignete",
+            "Personen",
+            "zu",
+            "seinen",
+            "Bürgern",
+            "zu",
+            "machen",
+            ",",
+            "darf",
+            "und",
+            "muss",
+            "er",
+            "die",
+            "Einbürgerung",
+            "an",
+            "Voraussetzungen",
+            "knüpfen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Die",
+            "gelungene",
+            "Integration",
+            "in",
+            "unsere",
+            "Gesellschaft",
+            "ist",
+            "für",
+            "uns",
+            "dabei",
+            "die",
+            "Hauptvoraussetzung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Zugleich",
+            "ist",
+            "die",
+            "Möglichkeit",
+            "des",
+            "Erwerbs",
+            "der",
+            "deutschen",
+            "Staatsangehörigkeit",
+            "Ausdruck",
+            "der",
+            "Offenheit",
+            "und",
+            "Voraussetzung",
+            "für",
+            "Zusammenhalt",
+            "und",
+            "Integration",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Einige",
+            "Eckpunkte",
+            "für",
+            "uns",
+            "Freie",
+            "Demokraten",
+            "für",
+            "eine",
+            "Reform",
+            "des",
+            "Staatsangehörigkeitsrechtes",
+            "sind",
+            ":",
+            "Dass",
+            "die",
+            "Verleihung",
+            "der",
+            "Staatsangehörigkeit",
+            "Ergebnis",
+            "und",
+            "Ziel",
+            "einer",
+            "gelungenen",
+            "Integration",
+            "in",
+            "die",
+            "deutsche",
+            "Gesellschaft",
+            "ist",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Sie",
+            "ist",
+            "keine",
+            "Vorleistung",
+            ",",
+            "kein",
+            "Vorschuss",
+            "in",
+            "der",
+            "Hoffnung",
+            "auf",
+            "mögliche",
+            "zukünftige",
+            "Integrationsleistungen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Es",
+            "darf",
+            "keine",
+            "Rabatte",
+            "bei",
+            "den",
+            "Integrationsanforderungen",
+            "geben",
+            ",",
+            "wie",
+            "Sprachkenntnisse",
+            ",",
+            "Bekenntnis",
+            "zu",
+            "und",
+            "Achtung",
+            "von",
+            "Werte-",
+            "und",
+            "Rechtsordnung",
+            "und",
+            "Bestreitung",
+            "des",
+            "Lebensunterhaltes",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Eine",
+            "Rechtsordnung",
+            ",",
+            "die",
+            "sich",
+            "selbst",
+            "ernst",
+            "nimmt",
+            ",",
+            "darf",
+            "keine",
+            "Fehlanreize",
+            "für",
+            "die",
+            "Missachtung",
+            "ihrer",
+            "selbst",
+            "setzen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Ein",
+            "Staat",
+            "muss",
+            "niemanden",
+            "zu",
+            "seinem",
+            "Bürger",
+            "erklären",
+            ",",
+            "der",
+            "ihm",
+            "nicht",
+            "sagt",
+            ",",
+            "woher",
+            "er",
+            "kommt",
+            ",",
+            "wer",
+            "er",
+            "ist",
+            ",",
+            "wie",
+            "er",
+            "heißt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Es",
+            "darf",
+            "bei",
+            "Identitätstäuschungen",
+            "zwar",
+            "keinen",
+            "völligen",
+            "Ausschluss",
+            "der",
+            "Einbürgerung",
+            "geben",
+            ",",
+            "aber",
+            "das",
+            "muss",
+            "spürbare",
+            "Konsequenzen",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Der",
+            "freiheitliche",
+            "Rechtsstaat",
+            "sollte",
+            "für",
+            "humanitäre",
+            "Härten",
+            "Regelungen",
+            "vorsehen",
+            ",",
+            "aber",
+            "er",
+            "muss",
+            "und",
+            "sollte",
+            "sich",
+            "nicht",
+            "auf",
+            "der",
+            "Nase",
+            "herumtanzen",
+            "lassen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Und",
+            "nach",
+            "spätestens",
+            "zwei",
+            "Generationen",
+            "sollten",
+            "sich",
+            "Einwanderer",
+            "in",
+            "der",
+            "Regel",
+            "für",
+            "eine",
+            "Staatsangehörigkeit",
+            "entscheiden",
+            "müssen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Für",
+            "gut",
+            "qualifizierte",
+            "und",
+            "integrationsbereite",
+            "Einwanderer",
+            "muss",
+            "Deutschland",
+            "ein",
+            "Leuchtturm",
+            "sein",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Wenn",
+            "die",
+            "Voraussetzungen",
+            "erfüllt",
+            "sind",
+            "und",
+            "eine",
+            "Entscheidung",
+            "für",
+            "unser",
+            "Land",
+            "vorliegt",
+            ",",
+            "dann",
+            "ist",
+            "das",
+            "ein",
+            "Grund",
+            "zum",
+            "Feiern",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Und",
+            "zwar",
+            "nicht",
+            "zaghaft",
+            "und",
+            "hinter",
+            "verschlossenen",
+            "Türen",
+            ",",
+            "sondern",
+            "feierlich",
+            "mit",
+            "den",
+            "Symbolen",
+            "unseres",
+            "Landes",
+            ":",
+            "mit",
+            "der",
+            "Flagge",
+            ",",
+            "mit",
+            "dem",
+            "Singen",
+            "der",
+            "Hymne",
+            ",",
+            "mit",
+            "der",
+            "Übergabe",
+            "unseres",
+            "Grundgesetzes",
+            "und",
+            "der",
+            "jeweiligen",
+            "Landesverfassung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Wir",
+            "werden",
+            "uns",
+            "konstruktiv",
+            "in",
+            "die",
+            "Beratungen",
+            "für",
+            "ein",
+            "angemessenes",
+            "Staatsangehörigkeitsrecht",
+            "einbringen",
+            "und",
+            "erwarten",
+            "einen",
+            "Entwurf",
+            "der",
+            "Bundesregierung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            ",",
+            "Frau",
+            "Kollegin",
+            "Teuteberg",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "-",
+            "Nächste",
+            "Rednerin",
+            "ist",
+            "für",
+            "die",
+            "Fraktion",
+            "Die",
+            "Linke",
+            "die",
+            "Kollegin",
+            "Gökay",
+            "Akbulut",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "12:10",
+            "12:11",
+            "12:12",
+            "12:13"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "12:9"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "13:13",
+            "13:17",
+            "13:18",
+            "13:19"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "13:12"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "15:4",
+            "15:5",
+            "15:6"
+         ],
+         "Source": [
+            "15:0",
+            "15:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "15:7"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [
+            "15:10"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "15:14",
+            "15:15",
+            "15:16",
+            "15:17",
+            "15:18",
+            "15:19",
+            "15:20",
+            "15:21",
+            "15:22",
+            "15:23",
+            "15:24"
+         ],
+         "Source": [
+            "15:9"
+         ],
+         "Topic": [],
+         "Cue": [
+            "15:12"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "18:11",
+            "18:12",
+            "18:13"
+         ],
+         "Source": [
+            "18:7"
+         ],
+         "Topic": [],
+         "Cue": [
+            "18:14"
+         ],
+         "PTC": [
+            "18:6"
+         ]
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "20:8",
+            "20:9",
+            "20:10"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "20:11",
+            "20:7"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "21:24",
+            "21:25"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "21:23"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "22:7",
+            "22:8",
+            "22:9",
+            "22:10"
+         ],
+         "Cue": [
+            "22:6"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "22:14",
+            "22:15",
+            "22:16",
+            "22:17"
+         ],
+         "Source": [
+            "22:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "22:13"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "22:16",
+            "22:17"
+         ],
+         "Topic": [],
+         "Cue": [
+            "22:15"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {}
+   ]
+}

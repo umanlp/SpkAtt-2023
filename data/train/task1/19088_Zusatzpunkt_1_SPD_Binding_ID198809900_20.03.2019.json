@@ -1,0 +1,2221 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Frau",
+            "Präsidentin",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Sehr",
+            "verehrte",
+            "Damen",
+            "und",
+            "Herren",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Es",
+            "scheint",
+            "sich",
+            "zu",
+            "bestätigen",
+            ",",
+            "dass",
+            "alles",
+            "von",
+            "langer",
+            "Hand",
+            "geplant",
+            "war",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "#",
+            "Kukies",
+            "ist",
+            "befangen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "@Olaf",
+            "Scholz",
+            "muss",
+            "Kukies",
+            "zurückziehen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Das",
+            "ist",
+            "ein",
+            "Tweet",
+            "von",
+            "Herrn",
+            "Schäffler",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Er",
+            "ist",
+            "fair",
+            "und",
+            "nennt",
+            "auch",
+            "die",
+            "Quelle",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Die",
+            "Quelle",
+            "heißt",
+            "nämlich",
+            "„",
+            "@BILD",
+            "berichtet",
+            "“",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Jetzt",
+            "lese",
+            "ich",
+            "in",
+            "der",
+            "„",
+            "Bild“-Zeitung",
+            "nach",
+            ":"
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "„",
+            "Kukies",
+            "ist",
+            "befangen",
+            ",",
+            "Scholz",
+            "muss",
+            "ihn",
+            "zurückziehen",
+            "“",
+            ",",
+            "fordert",
+            "der",
+            "FDP-Finanzexperte",
+            "Frank",
+            "­S­chäffler",
+            "…"
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Das",
+            "heißt",
+            ",",
+            "er",
+            "liefert",
+            "durch",
+            "eine",
+            "Forderung",
+            "das",
+            ",",
+            "was",
+            "er",
+            "später",
+            ",",
+            "über",
+            "die",
+            "öffentlichen",
+            "Medien",
+            "als",
+            "Behauptung",
+            "verifiziert",
+            ",",
+            "in",
+            "diesem",
+            "Plenum",
+            "nachfolgen",
+            "lassen",
+            "will",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "„",
+            "Das",
+            "ist",
+            "doch",
+            "irgendwie",
+            "verrückt",
+            "“",
+            ",",
+            "würden",
+            "meine",
+            "Kinder",
+            "sagen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Das",
+            "kann",
+            "man",
+            "doch",
+            "nicht",
+            "machen",
+            "in",
+            "dieser",
+            "Weise",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "So",
+            "entstehen",
+            "hier",
+            "Informationen",
+            ",",
+            "die",
+            "die",
+            "Basis",
+            "Ihrer",
+            "Überlegungen",
+            "sind",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Jetzt",
+            "kommt",
+            "der",
+            "Minister",
+            "Scholz",
+            "in",
+            "den",
+            "Ausschuss",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Wenn",
+            "er",
+            "kommt",
+            ",",
+            "ist",
+            "er",
+            "ja",
+            "persönlich",
+            "da",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "denn",
+            "unpersönlich",
+            "kann",
+            "er",
+            "ja",
+            "nicht",
+            "kommen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Er",
+            "ist",
+            "also",
+            "persönlich",
+            "da",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "man",
+            "kann",
+            "ihn",
+            "fragen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Dann",
+            "wird",
+            "er",
+            "gefragt",
+            "und",
+            "sagt",
+            ":",
+            "Wir",
+            "haben",
+            "Beobachterstatus",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "-",
+            "Und",
+            "er",
+            "sagt",
+            "weiter",
+            ":",
+            "Das",
+            "ist",
+            "für",
+            "uns",
+            "eine",
+            "reine",
+            "Finanzanlage",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "-",
+            "Der",
+            "Kauf",
+            "von",
+            "15,6",
+            "Prozent",
+            "der",
+            "Commerzbank",
+            "hat",
+            "in",
+            "der",
+            "Entscheidungskompetenz",
+            "nicht",
+            "unmittelbar",
+            "mit",
+            "diesem",
+            "Minister",
+            "zu",
+            "tun",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Die",
+            "persönliche",
+            "Information",
+            "wird",
+            "jedenfalls",
+            "in",
+            "Misskredit",
+            "gezogen",
+            ",",
+            "aber",
+            "die",
+            "selbstreferenzielle",
+            "Scheininformation",
+            "von",
+            "Herrn",
+            "Schäffler",
+            "wird",
+            "hier",
+            "sozusagen",
+            "zur",
+            "Wahrheit",
+            "hochstilisiert",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Wenn",
+            "das",
+            "öffentliche",
+            "Informationspolitik",
+            "und",
+            "Ausdruck",
+            "von",
+            "Vertrauen",
+            "in",
+            "einen",
+            "Minister",
+            "sein",
+            "sollen",
+            ",",
+            "dann",
+            "weiß",
+            "ich",
+            "nicht",
+            ",",
+            "wo",
+            "wir",
+            "sind",
+            ",",
+            "wenn",
+            "es",
+            "um",
+            "das",
+            "Stichwort",
+            "„",
+            "Glaubhaftigkeit",
+            "“",
+            "geht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Florian",
+            "Toncar",
+            "hat",
+            "gesagt",
+            ":",
+            "Wenn",
+            "die",
+            "Fusion",
+            "schiefgeht",
+            ",",
+            "dann",
+            "ist",
+            "das",
+            "der",
+            "maximale",
+            "Schaden",
+            "für",
+            "die",
+            "Steuerzahlerinnen",
+            "und",
+            "Steuerzahler",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "-",
+            "Es",
+            "kann",
+            "sein",
+            ",",
+            "dass",
+            "das",
+            "der",
+            "maximale",
+            "Schaden",
+            "ist",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Aber",
+            "das",
+            "wissen",
+            "Sie",
+            "ja",
+            "gar",
+            "nicht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Sie",
+            "haben",
+            "auch",
+            "nicht",
+            "gezeigt",
+            ",",
+            "wieso",
+            "das",
+            "so",
+            "sein",
+            "soll",
+            "und",
+            "wieso",
+            "überhaupt",
+            "das",
+            "Bail-in-fähige",
+            "Kapital",
+            "und",
+            "das",
+            "Eigenkapital",
+            "nicht",
+            "ausreichen",
+            "würden",
+            ",",
+            "damit",
+            "dies",
+            "am",
+            "Steuerzahler",
+            "gar",
+            "nicht",
+            "hängen",
+            "bleibt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "Was",
+            "Sie",
+            "ganz",
+            "vergessen",
+            "haben",
+            ",",
+            "ist",
+            "eine",
+            "zehnjährige",
+            "europäische",
+            "Sicherheitspolitik",
+            ",",
+            "um",
+            "genau",
+            "das",
+            "von",
+            "den",
+            "Steuerzahlern",
+            "abzuwenden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 30,
+         "Tokens": [
+            "Ich",
+            "glaube",
+            ",",
+            "wer",
+            "so",
+            "viel",
+            "vergisst",
+            ",",
+            "der",
+            "darf",
+            "hier",
+            "den",
+            "Mund",
+            "nicht",
+            "zu",
+            "voll",
+            "nehmen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 31,
+         "Tokens": [
+            "Eine",
+            "Gegenthese",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 32,
+         "Tokens": [
+            "Wenn",
+            "etwas",
+            "ohne",
+            "Fusion",
+            "schiefgeht",
+            ",",
+            "dann",
+            "kann",
+            "auch",
+            "das",
+            "ein",
+            "maximaler",
+            "Schaden",
+            "sein",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 33,
+         "Tokens": [
+            "Eine",
+            "Fusion",
+            "ist",
+            "weder",
+            "hinreichend",
+            "noch",
+            "notwendig",
+            "für",
+            "Ihre",
+            "These",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 34,
+         "Tokens": [
+            "Lisa",
+            "Paus",
+            "hat",
+            "etwas",
+            "Gutes",
+            "gesagt",
+            ":"
+         ]
+      },
+      {
+         "SentenceId": 35,
+         "Tokens": [
+            "Wir",
+            "brauchen",
+            "kein",
+            "weiteres",
+            "Milliardengrab",
+            "in",
+            "Deutschland",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 36,
+         "Tokens": [
+            "-",
+            "Dem",
+            "stimmen",
+            "wir",
+            "alle",
+            "unumwunden",
+            ",",
+            "hundertprozentig",
+            "zu",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 37,
+         "Tokens": [
+            "Wir",
+            "brauchen",
+            "kein",
+            "weiteres",
+            "Milliardengrab",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 38,
+         "Tokens": [
+            "Ein",
+            "bisschen",
+            "geärgert",
+            "hat",
+            "mich",
+            "der",
+            "Kollege",
+            "De",
+            "Masi",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 39,
+         "Tokens": [
+            "denn",
+            "er",
+            "hat",
+            "Olaf",
+            "Scholz",
+            "sozusagen",
+            "eine",
+            "Kompetenz",
+            "zugeschrieben",
+            ",",
+            "die",
+            "wir",
+            "aus",
+            "bestimmten",
+            "Familien",
+            "kennen",
+            ",",
+            "die",
+            "er",
+            "aber",
+            "nicht",
+            "hat",
+            ",",
+            "indem",
+            "er",
+            "gesagt",
+            "hat",
+            ":",
+            "Olaf",
+            "Scholz",
+            "und",
+            "Jörg",
+            "Kukies",
+            "sind",
+            "wie",
+            "Kuppler",
+            "bei",
+            "einer",
+            "Zwangsehe",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 40,
+         "Tokens": [
+            "-",
+            "Das",
+            "fand",
+            "ich",
+            "ein",
+            "bisschen",
+            "unanständig",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 41,
+         "Tokens": [
+            "denn",
+            "das",
+            "assoziiert",
+            "Dinge",
+            ",",
+            "die",
+            "uns",
+            "überhaupt",
+            "nicht",
+            "gefallen",
+            ",",
+            "weil",
+            "sie",
+            "überhaupt",
+            "nicht",
+            "diese",
+            "Rolle",
+            "haben",
+            ",",
+            "weder",
+            "im",
+            "Staat",
+            "noch",
+            "zu",
+            "Hause",
+            "noch",
+            "irgendwo",
+            "auf",
+            "dem",
+            "Finanzmarkt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 42,
+         "Tokens": [
+            "Der",
+            "Bundesfinanzminister",
+            "hat",
+            "in",
+            "unserer",
+            "Fraktion",
+            "erklärt",
+            ",",
+            "er",
+            "habe",
+            "eine",
+            "Beobachterperspektive",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 43,
+         "Tokens": [
+            "Das",
+            "ist",
+            "eine",
+            "Perspektive",
+            ",",
+            "die",
+            "für",
+            "die",
+            "ganze",
+            "Regierung",
+            "gut",
+            "wäre",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 44,
+         "Tokens": [
+            "Natürlich",
+            "muss",
+            "man",
+            "das",
+            "Ganze",
+            "beobachten",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 45,
+         "Tokens": [
+            "denn",
+            "Hintergrund",
+            "und",
+            "Ursache",
+            "für",
+            "Fusionen",
+            "sind",
+            "im",
+            "Regelfall",
+            "im",
+            "Management",
+            "zu",
+            "suchen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 46,
+         "Tokens": [
+            "Es",
+            "verantwortet",
+            ",",
+            "was",
+            "war",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 47,
+         "Tokens": [
+            "Aus",
+            "dem",
+            "Interesse",
+            "der",
+            "Manager",
+            "könnte",
+            "sozusagen",
+            "das",
+            "private",
+            "Interesse",
+            "an",
+            "einer",
+            "Fusion",
+            "entstehen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 48,
+         "Tokens": [
+            "Jedenfalls",
+            "ist",
+            "das",
+            "nicht",
+            "das",
+            "Interesse",
+            "derjenigen",
+            ",",
+            "die",
+            "vielleicht",
+            "ihren",
+            "Arbeitsplatz",
+            "verlieren",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 49,
+         "Tokens": [
+            "Eines",
+            "weiß",
+            "ich",
+            ":",
+            "Wenn",
+            "die",
+            "beiden",
+            "Banken",
+            "fusionieren",
+            ",",
+            "werden",
+            "die",
+            "Manager",
+            "besser",
+            "herauskommen",
+            "als",
+            "die",
+            "meisten",
+            "Arbeitnehmer",
+            ",",
+            "die",
+            "entlassen",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 50,
+         "Tokens": [
+            "Diesen",
+            "Aspekt",
+            "müssen",
+            "wir",
+            "schon",
+            "noch",
+            "ein",
+            "bisschen",
+            "in",
+            "den",
+            "Blick",
+            "nehmen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 51,
+         "Tokens": [
+            "Wir",
+            "kennen",
+            "ja",
+            "die",
+            "skandalträchtigen",
+            "Geschichten",
+            "vieler",
+            "Banken",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 52,
+         "Tokens": [
+            "Diese",
+            "haben",
+            "sich",
+            "bisher",
+            "nicht",
+            "sonderlich",
+            "um",
+            "Arbeitsplätze",
+            "gekümmert",
+            ",",
+            "sondern",
+            "meistens",
+            "um",
+            "ganz",
+            "andere",
+            "Dinge",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 53,
+         "Tokens": [
+            "Ich",
+            "möchte",
+            "noch",
+            "etwas",
+            "zu",
+            "den",
+            "600",
+            "000",
+            "Aktionären",
+            "sagen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 54,
+         "Tokens": [
+            "Um",
+            "drei",
+            ",",
+            "vier",
+            ",",
+            "fünf",
+            ",",
+            "sechs",
+            ",",
+            "sieben",
+            "Aktionäre",
+            "ist",
+            "mir",
+            "nicht",
+            "bange",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 55,
+         "Tokens": [
+            "Aber",
+            "die",
+            "vielen",
+            "Kleinaktionäre",
+            "-",
+            "die",
+            "Aktien",
+            "der",
+            "Deutschen",
+            "Bank",
+            "werden",
+            "zu",
+            "20",
+            "Prozent",
+            "von",
+            "Privatpersonen",
+            "und",
+            "zu",
+            "80",
+            "Prozent",
+            "von",
+            "institutionellen",
+            "Anlegern",
+            "gehalten",
+            "-",
+            "haben",
+            "in",
+            "den",
+            "letzten",
+            "zehn",
+            "Jahren",
+            ",",
+            "zwischen",
+            "2007",
+            "und",
+            "2017",
+            ",",
+            "bei",
+            "der",
+            "Deutschen",
+            "Bank",
+            "über",
+            "90",
+            "Prozent",
+            "ihres",
+            "Vermögens",
+            "verloren",
+            ",",
+            "bezogen",
+            "auf",
+            "ihre",
+            "Anlage",
+            ",",
+            "und",
+            "bei",
+            "der",
+            "Commerzbank",
+            "über",
+            "95",
+            "Prozent",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 56,
+         "Tokens": [
+            "Da",
+            "ist",
+            "doch",
+            "klar",
+            ",",
+            "dass",
+            "man",
+            "sich",
+            "den",
+            "einen",
+            "oder",
+            "anderen",
+            "Gedanken",
+            "macht",
+            "und",
+            "meint",
+            ",",
+            "dass",
+            "es",
+            "vielleicht",
+            "klug",
+            "sei",
+            ",",
+            "sich",
+            "zu",
+            "kümmern",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 57,
+         "Tokens": [
+            "Wir",
+            "haben",
+            "vorhin",
+            "gehört",
+            ",",
+            "wer",
+            "da",
+            "alles",
+            "mitentscheidet",
+            ":",
+            "die",
+            "BaFin",
+            "und",
+            "natürlich",
+            "die",
+            "EZB",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 58,
+         "Tokens": [
+            "Aber",
+            "auch",
+            "die",
+            "Chinesen",
+            "entscheiden",
+            "mit",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 59,
+         "Tokens": [
+            "Denen",
+            "gehören",
+            "nämlich",
+            "10",
+            "Prozent",
+            ",",
+            "natürlich",
+            "nicht",
+            "allen",
+            "Chinesen",
+            "-",
+            "das",
+            "ist",
+            "klar",
+            "-",
+            ",",
+            "sondern",
+            "der",
+            "HNA",
+            "Holding",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 60,
+         "Tokens": [
+            "Aber",
+            "auch",
+            "Al-Thani",
+            "aus",
+            "Katar",
+            "hält",
+            "eine",
+            "10-prozentige",
+            "Beteiligung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 61,
+         "Tokens": [
+            "Wir",
+            "sehen",
+            ":",
+            "Da",
+            "entscheidet",
+            "eine",
+            "ganze",
+            "Reihe",
+            "anderer",
+            "Leute",
+            "mit",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 62,
+         "Tokens": [
+            "Deshalb",
+            "ist",
+            "es",
+            "gut",
+            ",",
+            "wenn",
+            "der",
+            "Minister",
+            "das",
+            "beobachtet",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 63,
+         "Tokens": [
+            "Wenn",
+            "er",
+            "beobachtet",
+            ",",
+            "kann",
+            "er",
+            "Auffälligkeiten",
+            "wahrnehmen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 64,
+         "Tokens": [
+            "Wenn",
+            "er",
+            "Auffälligkeiten",
+            "wahrnimmt",
+            ",",
+            "wird",
+            "er",
+            "uns",
+            "entsprechend",
+            "befassen",
+            ",",
+            "aber",
+            "so",
+            ",",
+            "dass",
+            "es",
+            "keinen",
+            "Schaden",
+            "am",
+            "Gesamtprozess",
+            "anrichtet",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 65,
+         "Tokens": [
+            "Jetzt",
+            "merkt",
+            "man",
+            "schon",
+            ",",
+            "wie",
+            "klug",
+            "das",
+            "gegenwärtige",
+            "Verhalten",
+            "der",
+            "Regierung",
+            "ist",
+            ",",
+            "nämlich",
+            "die",
+            "Dinge",
+            "kritisch",
+            "zu",
+            "begleiten",
+            ",",
+            "ordentlich",
+            "zu",
+            "beobachten",
+            "und",
+            "zu",
+            "schauen",
+            ",",
+            "dass",
+            "alles",
+            "mit",
+            "rechten",
+            "Dingen",
+            "zugeht",
+            "und",
+            "der",
+            "Steuerzahler",
+            "insgesamt",
+            "geschützt",
+            "wird",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 66,
+         "Tokens": [
+            "Die",
+            "gesetzlichen",
+            "Grundlagen",
+            "dafür",
+            "sind",
+            "vorhanden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 67,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            ",",
+            "Lothar",
+            "Binding",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 68,
+         "Tokens": [
+            "-",
+            "Nächster",
+            "Redner",
+            ":",
+            "Jörg",
+            "Cezanne",
+            "für",
+            "die",
+            "Fraktion",
+            "Die",
+            "Linke",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "3:6",
+            "3:7",
+            "3:8",
+            "3:9",
+            "3:10",
+            "3:11",
+            "3:12"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "3:4"
+         ],
+         "PTC": [
+            "3:2"
+         ]
+      },
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "6:4",
+            "6:5",
+            "6:6"
+         ],
+         "Topic": [],
+         "Cue": [
+            "6:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "6:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "7:0"
+         ],
+         "Topic": [
+            "7:6",
+            "7:7"
+         ],
+         "Cue": [
+            "7:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "8:4",
+            "8:5",
+            "8:6",
+            "8:7"
+         ],
+         "Source": [],
+         "Topic": [
+            "8:0",
+            "8:1"
+         ],
+         "Cue": [
+            "8:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [
+            "8:5"
+         ],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "8:6"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [
+            "9:3",
+            "9:4",
+            "9:5",
+            "9:6"
+         ],
+         "Message": [],
+         "Source": [
+            "9:2"
+         ],
+         "Topic": [],
+         "Cue": [
+            "9:1"
+         ],
+         "PTC": [
+            "9:7"
+         ]
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "10:1",
+            "10:2",
+            "10:3",
+            "10:4",
+            "10:5",
+            "10:6",
+            "10:7",
+            "10:8"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "10:11"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "11:7"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "11:19"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "12:1",
+            "12:2",
+            "12:3",
+            "12:4",
+            "12:5"
+         ],
+         "Source": [
+            "12:9",
+            "12:10"
+         ],
+         "Topic": [],
+         "Cue": [
+            "12:11"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "14:8"
+         ],
+         "Topic": [],
+         "Cue": [
+            "14:9"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [
+            "19:2"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "19:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "19:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [
+            "20:2"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "20:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "20:7",
+            "20:8",
+            "20:9"
+         ],
+         "Source": [
+            "20:2"
+         ],
+         "Topic": [],
+         "Cue": [
+            "20:5"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "21:6",
+            "21:7",
+            "21:8",
+            "21:9",
+            "21:10",
+            "21:11",
+            "21:12"
+         ],
+         "Source": [
+            "21:2"
+         ],
+         "Topic": [],
+         "Cue": [
+            "21:3"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "23:0",
+            "23:1",
+            "23:2"
+         ],
+         "Cue": [
+            "23:7",
+            "23:5",
+            "23:6"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [
+            "23:10",
+            "23:11",
+            "23:12",
+            "23:13",
+            "23:14",
+            "23:15"
+         ],
+         "Cue": [
+            "23:21"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "24:19",
+            "24:20",
+            "24:21",
+            "24:22",
+            "24:23",
+            "24:24",
+            "24:25",
+            "24:26",
+            "24:27",
+            "24:28",
+            "24:29",
+            "24:30",
+            "24:31"
+         ],
+         "Source": [
+            "24:16"
+         ],
+         "Topic": [],
+         "Cue": [
+            "24:15"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "24:29"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "24:27"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "25:5",
+            "25:6",
+            "25:7",
+            "25:8",
+            "25:9",
+            "25:10",
+            "25:11",
+            "25:12",
+            "25:13",
+            "25:14",
+            "25:15",
+            "25:16",
+            "25:17",
+            "25:18",
+            "25:19",
+            "25:20"
+         ],
+         "Source": [
+            "25:0",
+            "25:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "25:3"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "27:1"
+         ],
+         "Source": [
+            "27:3"
+         ],
+         "Topic": [],
+         "Cue": [
+            "27:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "28:6",
+            "28:7",
+            "28:8",
+            "28:9",
+            "28:10",
+            "28:11",
+            "28:12",
+            "28:13",
+            "28:14",
+            "28:15",
+            "28:16",
+            "28:17",
+            "28:18",
+            "28:19",
+            "28:20",
+            "28:21",
+            "28:22",
+            "28:23",
+            "28:24",
+            "28:25",
+            "28:26",
+            "28:27",
+            "28:28",
+            "28:29",
+            "28:30",
+            "28:31"
+         ],
+         "Source": [
+            "28:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "28:4"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "30:3",
+            "30:4",
+            "30:5",
+            "30:6",
+            "30:7",
+            "30:8",
+            "30:9",
+            "30:10",
+            "30:11",
+            "30:12",
+            "30:13",
+            "30:14",
+            "30:15",
+            "30:16"
+         ],
+         "Source": [
+            "30:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "30:1"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "34:3",
+            "34:4",
+            "35:0",
+            "35:1",
+            "35:2",
+            "35:3",
+            "35:4",
+            "35:5",
+            "35:6"
+         ],
+         "Source": [
+            "34:0",
+            "34:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "34:5"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "36:1"
+         ],
+         "Source": [
+            "36:3",
+            "36:4"
+         ],
+         "Topic": [],
+         "Cue": [
+            "36:2"
+         ],
+         "PTC": [
+            "36:8"
+         ]
+      },
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "39:28",
+            "39:29",
+            "39:30",
+            "39:31",
+            "39:32",
+            "39:33",
+            "39:34",
+            "39:35",
+            "39:36",
+            "39:37",
+            "39:38"
+         ],
+         "Source": [
+            "39:24"
+         ],
+         "Topic": [],
+         "Cue": [
+            "39:25"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "40:4",
+            "40:5",
+            "40:6"
+         ],
+         "Source": [
+            "40:3"
+         ],
+         "Topic": [
+            "40:1"
+         ],
+         "Cue": [
+            "40:2"
+         ],
+         "PTC": []
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "42:8",
+            "42:9",
+            "42:10",
+            "42:11"
+         ],
+         "Source": [
+            "42:0",
+            "42:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "42:6"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "43:3",
+            "43:0"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "49:0",
+            "49:4",
+            "49:5",
+            "49:6",
+            "49:7",
+            "49:8",
+            "49:9",
+            "49:10",
+            "49:11",
+            "49:12",
+            "49:13",
+            "49:14",
+            "49:15",
+            "49:16",
+            "49:17",
+            "49:18",
+            "49:19",
+            "49:20",
+            "49:21",
+            "49:22"
+         ],
+         "Source": [
+            "49:2"
+         ],
+         "Topic": [],
+         "Cue": [
+            "49:1"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "53:3"
+         ],
+         "Source": [
+            "53:0"
+         ],
+         "Topic": [
+            "53:4",
+            "53:5",
+            "53:6",
+            "53:7",
+            "53:8"
+         ],
+         "Cue": [
+            "53:9"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "56:1",
+            "56:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "56:6"
+         ],
+         "Topic": [],
+         "Cue": [
+            "56:13",
+            "56:12"
+         ],
+         "PTC": [
+            "56:7"
+         ]
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "56:17",
+            "56:18",
+            "56:19",
+            "56:20",
+            "56:21",
+            "56:22",
+            "56:23",
+            "56:24",
+            "56:25"
+         ],
+         "Source": [
+            "56:6"
+         ],
+         "Topic": [],
+         "Cue": [
+            "56:15"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "57:5",
+            "57:6",
+            "57:7",
+            "57:8",
+            "57:9",
+            "57:10",
+            "57:11",
+            "57:12",
+            "57:13",
+            "57:14",
+            "57:15"
+         ],
+         "Source": [
+            "57:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "57:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "57:5",
+            "57:10",
+            "57:11",
+            "57:12",
+            "57:13",
+            "57:14",
+            "57:15"
+         ],
+         "Topic": [],
+         "Cue": [
+            "57:8"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "58:1",
+            "58:2",
+            "58:3"
+         ],
+         "Topic": [],
+         "Cue": [
+            "58:4"
+         ],
+         "PTC": [
+            "58:5"
+         ]
+      },
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "61:3",
+            "61:4",
+            "61:5",
+            "61:6",
+            "61:7",
+            "61:8",
+            "61:9",
+            "61:10"
+         ],
+         "Source": [
+            "61:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "61:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "61:5",
+            "61:6",
+            "61:7",
+            "61:8",
+            "61:9"
+         ],
+         "Topic": [],
+         "Cue": [
+            "61:4"
+         ],
+         "PTC": [
+            "61:10"
+         ]
+      },
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "63:6"
+         ],
+         "Source": [
+            "63:5"
+         ],
+         "Topic": [],
+         "Cue": [
+            "63:7"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "64:2"
+         ],
+         "Source": [
+            "64:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "64:3"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {}
+   ]
+}

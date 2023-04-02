@@ -1,0 +1,1536 @@
+{
+   "1": {
+      "Tokens": [
+         "Herr",
+         "Präsident",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "Meine",
+         "Damen",
+         "und",
+         "Herren",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "3": {
+      "Tokens": [
+         "Zu",
+         "Zeiten",
+         "des",
+         "Kalten",
+         "Krieges",
+         "bedrohte",
+         "der",
+         "nukleare",
+         "Rüstungswettlauf",
+         "die",
+         "Menschheit",
+         "mit",
+         "dem",
+         "Atomtod",
+         "."
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "Auch",
+         "das",
+         "brachte",
+         "mich",
+         "als",
+         "Schülerin",
+         "in",
+         "den",
+         "80er-Jahren",
+         "zur",
+         "Friedensbewegung",
+         "."
+      ],
+      "Annotations": []
+   },
+   "5": {
+      "Tokens": [
+         "Ich",
+         "hätte",
+         "es",
+         "mir",
+         "nicht",
+         "träumen",
+         "lassen",
+         ",",
+         "dass",
+         "heute",
+         ",",
+         "fast",
+         "30",
+         "Jahre",
+         "nach",
+         "dem",
+         "Fall",
+         "der",
+         "Berliner",
+         "Mauer",
+         ",",
+         "meine",
+         "Kinder",
+         "erneut",
+         "im",
+         "Schatten",
+         "eines",
+         "drohenden",
+         "Atomkrieges",
+         "aufwachsen",
+         "müssen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "5:8",
+               "5:9",
+               "5:10",
+               "5:11",
+               "5:12",
+               "5:13",
+               "5:14",
+               "5:15",
+               "5:16",
+               "5:17",
+               "5:18",
+               "5:19",
+               "5:20",
+               "5:21",
+               "5:22",
+               "5:23",
+               "5:24",
+               "5:25",
+               "5:26",
+               "5:27",
+               "5:28",
+               "5:29",
+               "5:30"
+            ],
+            "Source": [
+               "5:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "5:5"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "6": {
+      "Tokens": [
+         "Die",
+         "Atommächte",
+         "der",
+         "Welt",
+         "müssen",
+         "endlich",
+         "abrüsten",
+         "."
+      ],
+      "Annotations": []
+   },
+   "7": {
+      "Tokens": [
+         "Doch",
+         "sie",
+         "tun",
+         "das",
+         "Gegenteil",
+         "."
+      ],
+      "Annotations": []
+   },
+   "8": {
+      "Tokens": [
+         "Deshalb",
+         "erhielt",
+         "die",
+         "Antiatombewegung",
+         "ICAN",
+         "zu",
+         "Recht",
+         "den",
+         "Friedensnobelpreis",
+         "."
+      ],
+      "Annotations": []
+   },
+   "9": {
+      "Tokens": [
+         "ICAN",
+         "hat",
+         "sich",
+         "maßgeblich",
+         "dafür",
+         "eingesetzt",
+         ",",
+         "dass",
+         "im",
+         "vergangenen",
+         "Sommer",
+         "die",
+         "UN-Vollversammlung",
+         "einen",
+         "Vertrag",
+         "zum",
+         "Verbot",
+         "von",
+         "Atomwaffen",
+         "abgeschlossen",
+         "hat",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "9:15",
+               "9:16",
+               "9:17",
+               "9:18"
+            ],
+            "Cue": [
+               "9:14"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "9:17",
+               "9:18"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "9:16"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "10": {
+      "Tokens": [
+         "122",
+         "Länder",
+         "haben",
+         "unterzeichnet",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "10:0",
+               "10:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "10:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "11": {
+      "Tokens": [
+         "Doch",
+         "wer",
+         "fehlt",
+         "?"
+      ],
+      "Annotations": []
+   },
+   "12": {
+      "Tokens": [
+         "Die",
+         "Atommächte",
+         ",",
+         "die",
+         "­NATO-Staaten",
+         "und",
+         "auch",
+         "Deutschland",
+         "haben",
+         "nicht",
+         "unterzeichnet",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "12:0",
+               "12:1",
+               "12:2",
+               "12:3",
+               "12:4",
+               "12:5",
+               "12:6",
+               "12:7"
+            ],
+            "Topic": [],
+            "Cue": [
+               "12:10"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "13": {
+      "Tokens": [
+         "Ich",
+         "sage",
+         "Ihnen",
+         ":",
+         "Die",
+         "Bundesregierung",
+         "redet",
+         "von",
+         "Frieden",
+         "und",
+         "von",
+         "Abrüstung",
+         ",",
+         "doch",
+         "sie",
+         "verweigert",
+         "sich",
+         "diesem",
+         "wichtigen",
+         "Schritt",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "13:2"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "13:4",
+               "13:5",
+               "13:6",
+               "13:7",
+               "13:8",
+               "13:9",
+               "13:10",
+               "13:11",
+               "13:12",
+               "13:13",
+               "13:14",
+               "13:15",
+               "13:16",
+               "13:17",
+               "13:18",
+               "13:19"
+            ],
+            "Source": [
+               "13:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "13:1"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "13:4",
+               "13:5"
+            ],
+            "Topic": [
+               "13:7",
+               "13:8",
+               "13:9",
+               "13:10",
+               "13:11"
+            ],
+            "Cue": [
+               "13:6"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "14": {
+      "Tokens": [
+         "Das",
+         "ist",
+         "eine",
+         "Schande",
+         ",",
+         "meine",
+         "Damen",
+         "und",
+         "Herren",
+         "."
+      ],
+      "Annotations": []
+   },
+   "15": {
+      "Tokens": [
+         "Unterzeichnen",
+         "Sie",
+         "endlich",
+         "den",
+         "Atomwaffenverbotsvertrag",
+         "!"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "15:3",
+               "15:4"
+            ],
+            "Source": [
+               "15:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "15:0"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "16": {
+      "Tokens": [
+         "Offiziell",
+         "hat",
+         "Deutschland",
+         "keine",
+         "Atomwaffen",
+         ";"
+      ],
+      "Annotations": []
+   },
+   "17": {
+      "Tokens": [
+         "aber",
+         "auf",
+         "dem",
+         "Fliegerhorst",
+         "im",
+         "rheinland-pfälzischen",
+         "Büchel",
+         "lagern",
+         "wahrscheinlich",
+         "bis",
+         "zu",
+         "20",
+         "Atombomben",
+         "der",
+         "US-Armee",
+         "."
+      ],
+      "Annotations": []
+   },
+   "18": {
+      "Tokens": [
+         "Die",
+         "deutschen",
+         "Tornados",
+         "können",
+         "diese",
+         "im",
+         "Ernstfall",
+         "über",
+         "Ziele",
+         "in",
+         "Osteuropa",
+         "oder",
+         "Russland",
+         "abwerfen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "19": {
+      "Tokens": [
+         "Wir",
+         "wissen",
+         "nicht",
+         ",",
+         "wie",
+         "viele",
+         "Atombomben",
+         "genau",
+         "in",
+         "Büchel",
+         "lagern",
+         ";"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "19:2",
+               "19:3",
+               "19:4",
+               "19:5",
+               "19:6",
+               "19:7",
+               "19:8",
+               "19:9",
+               "19:10"
+            ],
+            "Source": [
+               "19:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "19:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "20": {
+      "Tokens": [
+         "denn",
+         "die",
+         "Bundesregierung",
+         "äußert",
+         "sich",
+         "dazu",
+         "nicht",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "20:1",
+               "20:2"
+            ],
+            "Topic": [
+               "20:5"
+            ],
+            "Cue": [
+               "20:3"
+            ],
+            "PTC": [
+               "20:4"
+            ]
+         }
+      ]
+   },
+   "21": {
+      "Tokens": [
+         "Ich",
+         "war",
+         "im",
+         "Januar",
+         "auf",
+         "dem",
+         "Luftwaffenstützpunkt",
+         "in",
+         "Büchel",
+         "."
+      ],
+      "Annotations": []
+   },
+   "22": {
+      "Tokens": [
+         "Es",
+         "ist",
+         "schon",
+         "bizarr",
+         "."
+      ],
+      "Annotations": []
+   },
+   "23": {
+      "Tokens": [
+         "Den",
+         "dort",
+         "stationierten",
+         "Bundeswehrsoldaten",
+         "war",
+         "es",
+         "verboten",
+         ",",
+         "mit",
+         "mir",
+         "über",
+         "die",
+         "Atombomben",
+         "und",
+         "die",
+         "sogenannte",
+         "nukleare",
+         "Teilhabe",
+         "zu",
+         "sprechen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "23:0",
+               "23:1",
+               "23:2",
+               "23:3"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "23:5",
+               "23:8",
+               "23:9",
+               "23:10",
+               "23:11",
+               "23:12",
+               "23:13",
+               "23:14",
+               "23:15",
+               "23:16",
+               "23:17",
+               "23:18",
+               "23:19"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "23:6"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [
+               "23:8",
+               "23:9"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "23:0",
+               "23:1",
+               "23:2",
+               "23:3"
+            ],
+            "Topic": [
+               "23:10",
+               "23:11",
+               "23:12",
+               "23:13",
+               "23:14",
+               "23:15",
+               "23:16",
+               "23:17"
+            ],
+            "Cue": [
+               "23:19"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "24": {
+      "Tokens": [
+         "Und",
+         "doch",
+         "bekam",
+         "ich",
+         "beim",
+         "Rundgang",
+         "durch",
+         "die",
+         "Hangars",
+         "die",
+         "Stellen",
+         "an",
+         "den",
+         "Tornados",
+         "gezeigt",
+         ",",
+         "an",
+         "denen",
+         "die",
+         "Atomwaffen",
+         "angebracht",
+         "werden",
+         "."
+      ],
+      "Annotations": []
+   },
+   "25": {
+      "Tokens": [
+         "Die",
+         "Zusammenarbeit",
+         "mit",
+         "der",
+         "US-Armee",
+         "sei",
+         "außerordentlich",
+         "eng",
+         ",",
+         "hieß",
+         "es",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "25:0",
+               "25:1",
+               "25:2",
+               "25:3",
+               "25:4",
+               "25:5",
+               "25:6",
+               "25:7"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "25:9"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "26": {
+      "Tokens": [
+         "Die",
+         "Bundesregierung",
+         "verschleiert",
+         "die",
+         "Wahrheit",
+         ",",
+         "um",
+         "sich",
+         "öffentlich",
+         "nicht",
+         "rechtfertigen",
+         "zu",
+         "müssen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "26:0",
+               "26:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "26:10"
+            ],
+            "PTC": [
+               "26:7"
+            ]
+         }
+      ]
+   },
+   "27": {
+      "Tokens": [
+         "Ich",
+         "sage",
+         ":",
+         "Die",
+         "Menschen",
+         "in",
+         "diesem",
+         "Land",
+         "haben",
+         "ein",
+         "Recht",
+         ",",
+         "zu",
+         "erfahren",
+         ",",
+         "wie",
+         "viele",
+         "Atombomben",
+         "hierzulande",
+         "lagern",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "27:3",
+               "27:4",
+               "27:5",
+               "27:6",
+               "27:7",
+               "27:8",
+               "27:9",
+               "27:10",
+               "27:11",
+               "27:12",
+               "27:13",
+               "27:14",
+               "27:15",
+               "27:16",
+               "27:17",
+               "27:18",
+               "27:19"
+            ],
+            "Source": [
+               "27:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "27:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "28": {
+      "Tokens": [
+         "Die",
+         "Linke",
+         "hat",
+         "diesen",
+         "Antrag",
+         "vorgelegt",
+         ",",
+         "der",
+         "den",
+         "Abzug",
+         "der",
+         "US-Atomwaffen",
+         "fordert",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "28:7",
+               "28:8",
+               "28:9",
+               "28:10",
+               "28:11",
+               "28:12"
+            ],
+            "Source": [
+               "28:0",
+               "28:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "28:5",
+               "28:4"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [
+               "28:7"
+            ],
+            "Message": [
+               "28:8",
+               "28:9",
+               "28:10",
+               "28:11"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "28:12"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "29": {
+      "Tokens": [
+         "SPD-Kanzlerkandidat",
+         "Schulz",
+         "hatte",
+         "im",
+         "Wahlkampf",
+         "versprochen",
+         ",",
+         "sich",
+         "genau",
+         "dafür",
+         "stark",
+         "zu",
+         "machen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "29:7",
+               "29:8",
+               "29:9",
+               "29:10",
+               "29:11",
+               "29:12"
+            ],
+            "Source": [
+               "29:0",
+               "29:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "29:5"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "30": {
+      "Tokens": [
+         "Doch",
+         "der",
+         "GroKo-Vertrag",
+         "bekennt",
+         "sich",
+         "ausdrücklich",
+         "zur",
+         "nuklearen",
+         "Teilhabe",
+         "und",
+         "damit",
+         "auch",
+         "zu",
+         "den",
+         "Atomwaffen",
+         "in",
+         "Büchel",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "30:2"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [
+               "30:1",
+               "30:2"
+            ],
+            "Message": [
+               "30:6",
+               "30:7",
+               "30:8",
+               "30:9",
+               "30:10",
+               "30:11",
+               "30:12",
+               "30:13",
+               "30:14",
+               "30:15",
+               "30:16"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "30:3"
+            ],
+            "PTC": [
+               "30:4"
+            ]
+         }
+      ]
+   },
+   "31": {
+      "Tokens": [
+         "Zu",
+         "den",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         "der",
+         "SPD",
+         "sage",
+         "ich",
+         ":",
+         "Das",
+         "ist",
+         "wirklich",
+         "mehr",
+         "als",
+         "enttäuschend",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "31:0",
+               "31:1",
+               "31:2",
+               "31:3",
+               "31:4",
+               "31:5",
+               "31:6"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "31:10",
+               "31:11",
+               "31:12",
+               "31:13",
+               "31:14",
+               "31:15"
+            ],
+            "Source": [
+               "31:8"
+            ],
+            "Topic": [],
+            "Cue": [
+               "31:7"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "32": {
+      "Tokens": [
+         "Die",
+         "Bundesregierung",
+         "zeigt",
+         "gerne",
+         "mit",
+         "dem",
+         "Finger",
+         "auf",
+         "das",
+         "Atombombenprogramm",
+         "des",
+         "nordkoreanischen",
+         "Diktators",
+         "."
+      ],
+      "Annotations": []
+   },
+   "33": {
+      "Tokens": [
+         "Ja",
+         ",",
+         "auch",
+         "dieses",
+         "Programm",
+         "ist",
+         "gefährlich",
+         ",",
+         "und",
+         "auch",
+         "dieses",
+         "Programm",
+         "lehnen",
+         "wir",
+         "ab",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "33:9",
+               "33:10",
+               "33:11"
+            ],
+            "Source": [
+               "33:13"
+            ],
+            "Topic": [],
+            "Cue": [
+               "33:12"
+            ],
+            "PTC": [
+               "33:14"
+            ]
+         }
+      ]
+   },
+   "34": {
+      "Tokens": [
+         "Tatsache",
+         "ist",
+         "aber",
+         ":",
+         "Von",
+         "den",
+         "weltweit",
+         "einsatzfähigen",
+         "Atombomben",
+         "entfallen",
+         "nicht",
+         "weniger",
+         "als",
+         "93",
+         "Prozent",
+         "auf",
+         "die",
+         "USA",
+         "und",
+         "Russland",
+         "."
+      ],
+      "Annotations": []
+   },
+   "35": {
+      "Tokens": [
+         "Nun",
+         "wollen",
+         "die",
+         "USA",
+         "in",
+         "den",
+         "nächsten",
+         "zehn",
+         "Jahren",
+         "400",
+         "Milliarden",
+         "Dollar",
+         "in",
+         "die",
+         "Modernisierung",
+         ",",
+         "das",
+         "heißt",
+         "Aufrüstung",
+         ",",
+         "ihrer",
+         "Nuklearstreitkräfte",
+         "investieren",
+         "."
+      ],
+      "Annotations": []
+   },
+   "36": {
+      "Tokens": [
+         "Dann",
+         "werden",
+         "in",
+         "Büchel",
+         "die",
+         "modernsten",
+         "Atomwaffen",
+         "der",
+         "Welt",
+         "lagern",
+         "."
+      ],
+      "Annotations": []
+   },
+   "37": {
+      "Tokens": [
+         "Deutschland",
+         "macht",
+         "mit",
+         "bei",
+         "dieser",
+         "Aufrüstungsspirale",
+         "."
+      ],
+      "Annotations": []
+   },
+   "38": {
+      "Tokens": [
+         "Die",
+         "Bundesregierung",
+         "plant",
+         ",",
+         "die",
+         "atomwaffenfähigen",
+         "Tornados",
+         "der",
+         "Luftwaffe",
+         "durch",
+         "ein",
+         "neues",
+         "Kampfflugzeug",
+         "zu",
+         "ersetzen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "39": {
+      "Tokens": [
+         "Das",
+         "wird",
+         "Milliarden",
+         "kosten",
+         "."
+      ],
+      "Annotations": []
+   },
+   "40": {
+      "Tokens": [
+         "Ich",
+         "sage",
+         ":",
+         "Die",
+         "Bundesregierung",
+         "muss",
+         "endlich",
+         "vor",
+         "der",
+         "eigenen",
+         "Haustür",
+         "kehren",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "40:3",
+               "40:4",
+               "40:5",
+               "40:6",
+               "40:7",
+               "40:8",
+               "40:9",
+               "40:10",
+               "40:11",
+               "40:12",
+               "41:0",
+               "41:1",
+               "41:2",
+               "41:3"
+            ],
+            "Source": [
+               "40:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "40:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "41": {
+      "Tokens": [
+         "Stoppen",
+         "Sie",
+         "diesen",
+         "Aufrüstungswahnsinn",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "42": {
+      "Tokens": [
+         "Die",
+         "Linke",
+         "fordert",
+         ":",
+         "Alle",
+         "Atombomben",
+         "müssen",
+         "unverzüglich",
+         "aus",
+         "Deutschland",
+         "abgezogen",
+         "werden",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "42:4",
+               "42:5",
+               "42:6",
+               "42:7",
+               "42:8",
+               "42:9",
+               "42:10",
+               "42:11",
+               "42:12",
+               "43:0",
+               "43:1",
+               "43:2",
+               "43:3",
+               "43:4",
+               "43:5"
+            ],
+            "Source": [
+               "42:0",
+               "42:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "42:2"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "43": {
+      "Tokens": [
+         "Deutschland",
+         "muss",
+         "endlich",
+         "dem",
+         "Atomwaffenverbotsvertrag",
+         "beitreten",
+         "."
+      ],
+      "Annotations": []
+   },
+   "44": {
+      "Tokens": [
+         "Deswegen",
+         "appelliere",
+         "ich",
+         "an",
+         "die",
+         "Fraktionen",
+         "in",
+         "diesem",
+         "Hause",
+         ":"
+      ],
+      "Annotations": [
+         {
+            "Addr": [
+               "44:3",
+               "44:4",
+               "44:5",
+               "44:6",
+               "44:7",
+               "44:8"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "45:0",
+               "45:1",
+               "45:2",
+               "45:3"
+            ],
+            "Source": [
+               "44:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "44:1"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "45": {
+      "Tokens": [
+         "Unterstützen",
+         "Sie",
+         "unseren",
+         "Antrag",
+         "!"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "45:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "45:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "46": {
+      "Tokens": [
+         "Die",
+         "Friedensbewegung",
+         "wird",
+         "ab",
+         "dem",
+         "26.",
+         "März",
+         "20",
+         "Wochen",
+         "gegen",
+         "die",
+         "Atombomben",
+         "in",
+         "Büchel",
+         "protestieren",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "46:9",
+               "46:10",
+               "46:11",
+               "46:12",
+               "46:13"
+            ],
+            "Source": [
+               "46:0",
+               "46:1"
+            ],
+            "Topic": [],
+            "Cue": [
+               "46:14"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "47": {
+      "Tokens": [
+         "Es",
+         "ist",
+         "ermutigend",
+         ":",
+         "Viele",
+         "junge",
+         "Leute",
+         "werden",
+         "sich",
+         "daran",
+         "beteiligen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "48": {
+      "Tokens": [
+         "Die",
+         "Linke",
+         "unterstützt",
+         "diese",
+         "Proteste",
+         "von",
+         "ganzem",
+         "Herzen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "48:4"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "49": {
+      "Tokens": [
+         "Dr.",
+         "Frank",
+         "Steffel",
+         "spricht",
+         "nun",
+         "für",
+         "die",
+         "CDU",
+         "/",
+         "CSU-Fraktion",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "49:0",
+               "49:1",
+               "49:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "49:3"
+            ],
+            "PTC": []
+         }
+      ]
+   }
+}

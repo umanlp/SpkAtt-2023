@@ -1,0 +1,1570 @@
+{
+   "1": {
+      "Tokens": [
+         "Sehr",
+         "geehrte",
+         "Frau",
+         "Präsidentin",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "2": {
+      "Tokens": [
+         "Meine",
+         "sehr",
+         "geehrten",
+         "Damen",
+         "und",
+         "Herren",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "3": {
+      "Tokens": [
+         "Die",
+         "Staatswirtschaft",
+         "ist",
+         "Gott",
+         "sei",
+         "Dank",
+         "vorbei",
+         "."
+      ],
+      "Annotations": []
+   },
+   "4": {
+      "Tokens": [
+         "Seit",
+         "dem",
+         "Wochenende",
+         "wissen",
+         "wir",
+         ",",
+         "dass",
+         "zwei",
+         "privatwirtschaftlich",
+         "organisierte",
+         "Banken",
+         "in",
+         "diesem",
+         "Land",
+         "Fusionsgespräche",
+         "miteinander",
+         "führen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "4:6",
+               "4:7",
+               "4:8",
+               "4:9",
+               "4:10",
+               "4:11",
+               "4:12",
+               "4:13",
+               "4:14",
+               "4:15",
+               "4:16"
+            ],
+            "Source": [
+               "4:4"
+            ],
+            "Topic": [],
+            "Cue": [
+               "4:3"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "4:7",
+               "4:8",
+               "4:9",
+               "4:10",
+               "4:11",
+               "4:12",
+               "4:13"
+            ],
+            "Topic": [],
+            "Cue": [
+               "4:16",
+               "4:14"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "5": {
+      "Tokens": [
+         "Das",
+         "wissen",
+         "wir",
+         "genau",
+         "wie",
+         "Sie",
+         ",",
+         "lieber",
+         "Herr",
+         "Kollege",
+         ",",
+         "aus",
+         "der",
+         "Presse",
+         ",",
+         "werden",
+         "das",
+         "natürlich",
+         "auch",
+         "zur",
+         "Kenntnis",
+         "nehmen",
+         "und",
+         "die",
+         "privatwirtschaftlichen",
+         "Entscheidungen",
+         "dann",
+         "akzeptieren",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [
+               "5:11",
+               "5:12",
+               "5:13"
+            ],
+            "Message": [
+               "5:0"
+            ],
+            "Source": [
+               "5:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "5:1"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "5:16"
+            ],
+            "Source": [
+               "5:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "5:21",
+               "5:20",
+               "5:19"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "5:25"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "5:23",
+               "5:24",
+               "5:25"
+            ],
+            "Source": [
+               "5:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "5:27"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "6": {
+      "Tokens": [
+         "Wir",
+         "kommen",
+         "ins",
+         "Spiel",
+         ",",
+         "weil",
+         "die",
+         "knapp",
+         "15",
+         "Prozent",
+         "-",
+         "ein",
+         "wenig",
+         "mehr",
+         "ist",
+         "es",
+         "-",
+         "bei",
+         "der",
+         "Commerzbank",
+         "deutsche",
+         "Staatsbeteiligungen",
+         "sind",
+         "."
+      ],
+      "Annotations": []
+   },
+   "7": {
+      "Tokens": [
+         "Da",
+         "müssen",
+         "wir",
+         "uns",
+         "eine",
+         "Meinung",
+         "bilden",
+         ",",
+         "eine",
+         "Meinung",
+         "darüber",
+         ",",
+         "wie",
+         "das",
+         "betriebswirtschaftlich",
+         "zukünftig",
+         "besser",
+         "werden",
+         "soll",
+         ",",
+         "und",
+         "eine",
+         "Meinung",
+         "darüber",
+         ",",
+         "was",
+         "für",
+         "volkswirtschaftliche",
+         "Konsequenzen",
+         "es",
+         "hat",
+         ",",
+         "wenn",
+         "diese",
+         "Banken",
+         "in",
+         "Deutschland",
+         "zusammengehen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "7:5"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "7:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "7:6"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "7:10",
+               "7:11",
+               "7:12",
+               "7:13",
+               "7:14",
+               "7:15",
+               "7:16",
+               "7:17",
+               "7:18"
+            ],
+            "Cue": [
+               "7:9"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "7:23",
+               "7:24",
+               "7:25",
+               "7:26",
+               "7:27",
+               "7:28",
+               "7:29",
+               "7:30",
+               "7:31",
+               "7:32",
+               "7:33",
+               "7:34",
+               "7:35",
+               "7:36",
+               "7:37"
+            ],
+            "Cue": [
+               "7:22"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "8": {
+      "Tokens": [
+         "Im",
+         "Vorfeld",
+         "ein",
+         "Votum",
+         "seitens",
+         "der",
+         "Politik",
+         "zu",
+         "erwarten",
+         ",",
+         "ist",
+         "aber",
+         "nicht",
+         "nur",
+         "obsolet",
+         ",",
+         "sondern",
+         "auch",
+         "nicht",
+         "redlich",
+         ",",
+         "weil",
+         "wir",
+         "Gott",
+         "sei",
+         "Dank",
+         "in",
+         "einer",
+         "sozialen",
+         "Marktwirtschaft",
+         "leben",
+         "und",
+         "nicht",
+         "in",
+         "einer",
+         "Staatswirtschaft",
+         ",",
+         "lieber",
+         "Kollege",
+         "von",
+         "den",
+         "Linken",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "8:2",
+               "8:3",
+               "8:4",
+               "8:5",
+               "8:6"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "8:8"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "9": {
+      "Tokens": [
+         "Deswegen",
+         "gehört",
+         "es",
+         "zur",
+         "Ehrlichkeit",
+         "dazu",
+         ",",
+         "dass",
+         "hier",
+         "Vorstände",
+         "und",
+         "Aufsichtsräte",
+         "das",
+         "Mandat",
+         "haben",
+         ",",
+         "miteinander",
+         "zu",
+         "verhandeln",
+         ",",
+         "und",
+         "den",
+         "Weg",
+         "dahin",
+         "können",
+         "wir",
+         "Politiker",
+         "der",
+         "Presse",
+         "entnehmen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "9:16"
+            ],
+            "Topic": [],
+            "Cue": [
+               "9:18"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "10": {
+      "Tokens": [
+         "Wenn",
+         "wir",
+         "dann",
+         "in",
+         "circa",
+         "drei",
+         "Wochen",
+         "die",
+         "Ergebnisse",
+         "beurteilen",
+         ",",
+         "ist",
+         "es",
+         "genau",
+         "der",
+         "richtige",
+         "Zeitpunkt",
+         ",",
+         "sich",
+         "hier",
+         "im",
+         "Parlament",
+         "darüber",
+         "zu",
+         "unterhalten",
+         ",",
+         "ob",
+         "der",
+         "Weg",
+         "der",
+         "richtige",
+         "ist",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [
+               "10:22",
+               "10:26",
+               "10:27",
+               "10:28",
+               "10:29",
+               "10:30",
+               "10:31"
+            ],
+            "Cue": [
+               "10:24"
+            ],
+            "PTC": [
+               "10:18"
+            ]
+         }
+      ]
+   },
+   "11": {
+      "Tokens": [
+         "Wieso",
+         "wollen",
+         "Sie",
+         "sich",
+         "an",
+         "so",
+         "prominenter",
+         "Stelle",
+         "über",
+         "diese",
+         "zwei",
+         "Banken",
+         "unterhalten",
+         ",",
+         "aber",
+         "nicht",
+         "über",
+         "das",
+         "Thema",
+         ",",
+         "wie",
+         "wir",
+         "den",
+         "deutschen",
+         "und",
+         "den",
+         "europäischen",
+         "Bankenmarkt",
+         "wieder",
+         "sicher",
+         "bekommen",
+         "?"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "11:2"
+            ],
+            "Topic": [
+               "11:8",
+               "11:9",
+               "11:10",
+               "11:11",
+               "11:16",
+               "11:17",
+               "11:18",
+               "11:19",
+               "11:20",
+               "11:21",
+               "11:22",
+               "11:23",
+               "11:24",
+               "11:25",
+               "11:26",
+               "11:27",
+               "11:28",
+               "11:29",
+               "11:30"
+            ],
+            "Cue": [
+               "11:12"
+            ],
+            "PTC": [
+               "11:3"
+            ]
+         }
+      ]
+   },
+   "12": {
+      "Tokens": [
+         "Da",
+         "freue",
+         "ich",
+         "mich",
+         ",",
+         "dass",
+         "unsere",
+         "Parteivorsitzende",
+         "Annegret",
+         "Kramp-­Karrenbauer",
+         "den",
+         "Binnenmarkt",
+         "für",
+         "die",
+         "Banken",
+         "in",
+         "Europa",
+         "ins",
+         "Spiel",
+         "gebracht",
+         "hat",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "12:5",
+               "12:6",
+               "12:7",
+               "12:8",
+               "12:9",
+               "12:10",
+               "12:11",
+               "12:12",
+               "12:13",
+               "12:14",
+               "12:15",
+               "12:16",
+               "12:17",
+               "12:18",
+               "12:19",
+               "12:20"
+            ],
+            "Source": [
+               "12:2"
+            ],
+            "Topic": [],
+            "Cue": [
+               "12:1"
+            ],
+            "PTC": [
+               "12:3"
+            ]
+         }
+      ]
+   },
+   "13": {
+      "Tokens": [
+         "Wir",
+         "haben",
+         "in",
+         "Europa",
+         "28",
+         "unterschiedliche",
+         "Regulierungssysteme",
+         "."
+      ],
+      "Annotations": []
+   },
+   "14": {
+      "Tokens": [
+         "Obwohl",
+         "wir",
+         "einen",
+         "einheitlichen",
+         "Aufsichtsmechanismus",
+         "auf",
+         "den",
+         "Weg",
+         "gebracht",
+         "haben",
+         ",",
+         "obwohl",
+         "wir",
+         "einen",
+         "einheitlichen",
+         "Abwicklungsmechanismus",
+         "auf",
+         "den",
+         "Weg",
+         "gebracht",
+         "haben",
+         ",",
+         "gelingt",
+         "es",
+         "uns",
+         "nicht",
+         ",",
+         "dass",
+         "wie",
+         "die",
+         "Unternehmen",
+         ",",
+         "die",
+         "innerhalb",
+         "von",
+         "Europa",
+         "alle",
+         "frei",
+         "finanzieren",
+         "und",
+         "investieren",
+         "können",
+         ",",
+         "auch",
+         "eine",
+         "Deutsche",
+         "Bank",
+         "einfach",
+         "in",
+         "Italien",
+         "oder",
+         "Estland",
+         "ein",
+         "Institut",
+         "aufmachen",
+         "und",
+         "dort",
+         "die",
+         "deutschen",
+         "Unternehmer",
+         "finanzieren",
+         "kann",
+         "."
+      ],
+      "Annotations": []
+   },
+   "15": {
+      "Tokens": [
+         "Deswegen",
+         "ist",
+         "es",
+         "richtig",
+         ",",
+         "dass",
+         "wir",
+         ",",
+         "um",
+         "die",
+         "Probleme",
+         "im",
+         "Bankenmarkt",
+         "in",
+         "Europa",
+         "anzugehen",
+         ",",
+         "zukünftig",
+         "einen",
+         "einheitlichen",
+         "Binnenmarkt",
+         "für",
+         "Banken",
+         "in",
+         "Europa",
+         "schaffen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "15:5",
+               "15:6",
+               "15:7",
+               "15:8",
+               "15:9",
+               "15:10",
+               "15:11",
+               "15:12",
+               "15:13",
+               "15:14",
+               "15:15",
+               "15:16",
+               "15:17",
+               "15:18",
+               "15:19",
+               "15:20",
+               "15:21",
+               "15:22",
+               "15:23",
+               "15:24",
+               "15:25"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "15:1",
+               "15:3"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "16": {
+      "Tokens": [
+         "Es",
+         "geht",
+         "nicht",
+         "nur",
+         "um",
+         "zwei",
+         "private",
+         "Banken",
+         "."
+      ],
+      "Annotations": []
+   },
+   "17": {
+      "Tokens": [
+         "Es",
+         "sind",
+         "grundlegende",
+         "Probleme",
+         ",",
+         "die",
+         "wir",
+         "im",
+         "europäischen",
+         "Bankenmarkt",
+         "sehen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "17:5"
+            ],
+            "Source": [
+               "17:6"
+            ],
+            "Topic": [],
+            "Cue": [
+               "17:10"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "18": {
+      "Tokens": [
+         "Diese",
+         "Probleme",
+         "sind",
+         "darin",
+         "begründet",
+         ",",
+         "dass",
+         "es",
+         "Ertragsprobleme",
+         "gibt",
+         "."
+      ],
+      "Annotations": []
+   },
+   "19": {
+      "Tokens": [
+         "Wenn",
+         "wir",
+         "uns",
+         "die",
+         "zehn",
+         "größten",
+         "Banken",
+         "in",
+         "der",
+         "Welt",
+         "anschauen",
+         ",",
+         "sehen",
+         "wir",
+         ",",
+         "dass",
+         "an",
+         "erster",
+         "Stelle",
+         "fünf",
+         "chinesische",
+         "Banken",
+         "stehen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "19:15",
+               "19:16",
+               "19:17",
+               "19:18",
+               "19:19",
+               "19:20",
+               "19:21",
+               "19:22"
+            ],
+            "Source": [
+               "19:13"
+            ],
+            "Topic": [],
+            "Cue": [
+               "19:12"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "20": {
+      "Tokens": [
+         "Dann",
+         "zu",
+         "meinen",
+         ",",
+         "wir",
+         "würden",
+         ",",
+         "wenn",
+         "wir",
+         "uns",
+         "über",
+         "die",
+         "Fusion",
+         "von",
+         "zwei",
+         "Privatbanken",
+         "unterhalten",
+         ",",
+         "das",
+         "Weltsystem",
+         "ändern",
+         ",",
+         "ist",
+         "nicht",
+         "nur",
+         "kleinkariertes",
+         "Denken",
+         ",",
+         "sondern",
+         "geht",
+         "an",
+         "der",
+         "Realität",
+         "vorbei",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "20:4",
+               "20:5",
+               "20:6",
+               "20:7",
+               "20:8",
+               "20:9",
+               "20:10",
+               "20:11",
+               "20:12",
+               "20:13",
+               "20:14",
+               "20:15",
+               "20:16",
+               "20:17",
+               "20:18",
+               "20:19",
+               "20:20"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "20:2"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [
+               "20:8"
+            ],
+            "Topic": [
+               "20:10",
+               "20:11",
+               "20:12",
+               "20:13",
+               "20:14",
+               "20:15"
+            ],
+            "Cue": [
+               "20:16"
+            ],
+            "PTC": [
+               "20:9"
+            ]
+         },
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "20:26"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "21": {
+      "Tokens": [
+         "Die",
+         "größte",
+         "chinesische",
+         "Bank",
+         "könnte",
+         "sich",
+         "beide",
+         "deutschen",
+         "Banken",
+         "aus",
+         "der",
+         "Portokasse",
+         "einverleiben",
+         "."
+      ],
+      "Annotations": []
+   },
+   "22": {
+      "Tokens": [
+         "Unser",
+         "Interesse",
+         "muss",
+         "sein",
+         ",",
+         "dass",
+         "der",
+         "Binnenmarkt",
+         "in",
+         "Europa",
+         "und",
+         "dass",
+         "der",
+         "Kapitalmarkt",
+         "stark",
+         "genug",
+         "ist",
+         ",",
+         "europäische",
+         "und",
+         "deutsche",
+         "Unternehmen",
+         "weltweit",
+         "zu",
+         "finanzieren",
+         "."
+      ],
+      "Annotations": []
+   },
+   "23": {
+      "Tokens": [
+         "Deswegen",
+         "brauchen",
+         "wir",
+         "einen",
+         "einheitlichen",
+         "Binnenmarkt",
+         "für",
+         "Banken",
+         "in",
+         "Europa",
+         "."
+      ],
+      "Annotations": []
+   },
+   "24": {
+      "Tokens": [
+         "Da",
+         "Sie",
+         "hier",
+         "schon",
+         "wieder",
+         "Mauern",
+         "aufbauen",
+         ",",
+         "Gedankenspiele",
+         "einbringen",
+         "und",
+         "die",
+         "Staatskeule",
+         "rausholen",
+         ",",
+         "sage",
+         "ich",
+         "Ihnen",
+         ",",
+         "liebe",
+         "Kollegen",
+         "von",
+         "den",
+         "Linken",
+         ":",
+         "Das",
+         "machen",
+         "wir",
+         "nicht",
+         "mit",
+         "!"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "24:8"
+            ],
+            "Source": [],
+            "Topic": [],
+            "Cue": [
+               "24:9"
+            ],
+            "PTC": []
+         },
+         {
+            "Addr": [
+               "24:17",
+               "24:18",
+               "24:19",
+               "24:20",
+               "24:21",
+               "24:22",
+               "24:23"
+            ],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "24:25",
+               "24:26",
+               "24:27",
+               "24:28",
+               "24:29"
+            ],
+            "Source": [
+               "24:16"
+            ],
+            "Topic": [],
+            "Cue": [
+               "24:15"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "25": {
+      "Tokens": [
+         "Wir",
+         "haben",
+         "privatwirtschaftlich",
+         "organisierte",
+         "Einheiten",
+         "."
+      ],
+      "Annotations": []
+   },
+   "26": {
+      "Tokens": [
+         "Diese",
+         "privatwirtschaftlich",
+         "organisierten",
+         "Banken",
+         ",",
+         "Deutsche",
+         "Bank",
+         "und",
+         "Commerzbank",
+         ",",
+         "werden",
+         "besser",
+         "wissen",
+         ",",
+         "ob",
+         "sie",
+         "zusammengehen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "26:14",
+               "26:15",
+               "26:16"
+            ],
+            "Source": [
+               "26:0",
+               "26:1",
+               "26:2",
+               "26:3",
+               "26:4",
+               "26:5",
+               "26:6",
+               "26:7",
+               "26:8"
+            ],
+            "Topic": [],
+            "Cue": [
+               "26:12"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "27": {
+      "Tokens": [
+         "Die",
+         "brauchen",
+         "keinen",
+         "Rat",
+         "vom",
+         "Bundesfinanzminister",
+         "oder",
+         "von",
+         "der",
+         "Bundeskanzlerin",
+         ",",
+         "sondern",
+         "sind",
+         "selbst",
+         "erfahren",
+         "genug",
+         "-",
+         "zum",
+         "einen",
+         "mit",
+         "der",
+         "Postbank",
+         ",",
+         "zum",
+         "anderen",
+         "mit",
+         "der",
+         "Dresdner",
+         "Bank",
+         "-",
+         ",",
+         "zu",
+         "entscheiden",
+         ",",
+         "ob",
+         "sie",
+         "eine",
+         "Hochzeit",
+         "eingehen",
+         "wollen",
+         "oder",
+         "nicht",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "27:34",
+               "27:35",
+               "27:36",
+               "27:37",
+               "27:38",
+               "27:39",
+               "27:40",
+               "27:41"
+            ],
+            "Source": [
+               "27:0"
+            ],
+            "Topic": [],
+            "Cue": [
+               "27:32"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "28": {
+      "Tokens": [
+         "Dieses",
+         "Know-how",
+         "sollten",
+         "wir",
+         "nutzen",
+         ",",
+         "um",
+         "am",
+         "Ende",
+         "des",
+         "Prozesses",
+         "-",
+         "am",
+         "Ende",
+         "des",
+         "Prozesses",
+         "!",
+         "-",
+         "zu",
+         "entscheiden",
+         ",",
+         "wie",
+         "wir",
+         "als",
+         "deutscher",
+         "Staat",
+         "mit",
+         "den",
+         "15",
+         "Prozent",
+         "Staatsbeteiligung",
+         "umgehen",
+         "."
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "28:21",
+               "28:22",
+               "28:23",
+               "28:24",
+               "28:25",
+               "28:26",
+               "28:27",
+               "28:28",
+               "28:29",
+               "28:30",
+               "28:31"
+            ],
+            "Source": [
+               "28:3"
+            ],
+            "Topic": [],
+            "Cue": [
+               "28:19"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "29": {
+      "Tokens": [
+         "Noch",
+         "einmal",
+         "klipp",
+         "und",
+         "klar",
+         ":",
+         "Das",
+         "Problem",
+         "liegt",
+         "nicht",
+         "bei",
+         "zwei",
+         "Banken",
+         "."
+      ],
+      "Annotations": []
+   },
+   "30": {
+      "Tokens": [
+         "Das",
+         "Problem",
+         "liegt",
+         "in",
+         "der",
+         "Ertragsschwäche",
+         "innerhalb",
+         "Europas",
+         "."
+      ],
+      "Annotations": []
+   },
+   "31": {
+      "Tokens": [
+         "Darauf",
+         "hat",
+         "unsere",
+         "Parteivorsitzende",
+         "Annegret",
+         "Kramp-Karrenbauer",
+         "eine",
+         "ordentliche",
+         "Antwort",
+         "gegeben",
+         ":",
+         "einen",
+         "einheitlichen",
+         "Binnenmarkt",
+         "für",
+         "europäische",
+         "Banken"
+      ],
+      "Annotations": [
+         {
+            "Addr": [],
+            "Evidence": [],
+            "Medium": [],
+            "Message": [
+               "31:11",
+               "31:12",
+               "31:13",
+               "31:14",
+               "31:15",
+               "31:16",
+               "32:0",
+               "32:1",
+               "32:2",
+               "32:3",
+               "32:4",
+               "32:5",
+               "32:6"
+            ],
+            "Source": [
+               "31:2",
+               "31:3",
+               "31:4",
+               "31:5"
+            ],
+            "Topic": [
+               "31:0"
+            ],
+            "Cue": [
+               "31:9",
+               "31:8"
+            ],
+            "PTC": []
+         }
+      ]
+   },
+   "32": {
+      "Tokens": [
+         "wie",
+         "den",
+         "einheitlichen",
+         "Binnenmarkt",
+         "für",
+         "die",
+         "Unternehmen",
+         "."
+      ],
+      "Annotations": []
+   },
+   "33": {
+      "Tokens": [
+         "Das",
+         "wollen",
+         "wir",
+         "befördern",
+         ",",
+         "damit",
+         "die",
+         "Ertragsprobleme",
+         "nicht",
+         "nur",
+         "im",
+         "Bankensystem",
+         ",",
+         "sondern",
+         "bei",
+         "den",
+         "Kreditinstituten",
+         "generell",
+         "aufhören",
+         "."
+      ],
+      "Annotations": []
+   },
+   "34": {
+      "Tokens": [
+         "Herzlichen",
+         "Dank",
+         "."
+      ],
+      "Annotations": []
+   },
+   "35": {
+      "Tokens": [
+         "Vielen",
+         "Dank",
+         ",",
+         "Sepp",
+         "Müller",
+         "."
+      ],
+      "Annotations": []
+   },
+   "36": {
+      "Tokens": [
+         "-",
+         "Einen",
+         "schönen",
+         "guten",
+         "Tag",
+         "von",
+         "mir",
+         ",",
+         "liebe",
+         "Kolleginnen",
+         "und",
+         "Kollegen",
+         "!"
+      ],
+      "Annotations": []
+   },
+   "37": {
+      "Tokens": [
+         "Der",
+         "nächste",
+         "Redner",
+         "ist",
+         "für",
+         "die",
+         "AfD-Fraktion",
+         "Peter",
+         "Boehringer",
+         "."
+      ],
+      "Annotations": []
+   }
+}

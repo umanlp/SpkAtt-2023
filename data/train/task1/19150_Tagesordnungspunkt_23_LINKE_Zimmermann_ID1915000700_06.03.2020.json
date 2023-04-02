@@ -1,0 +1,960 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Sehr",
+            "geehrter",
+            "Herr",
+            "Präsident",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Meine",
+            "Damen",
+            "und",
+            "Herren",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Ich",
+            "würde",
+            "mich",
+            "wirklich",
+            "freuen",
+            ",",
+            "wenn",
+            "ich",
+            "zum",
+            "Internationalen",
+            "Frauentag",
+            "nicht",
+            "Jahr",
+            "für",
+            "Jahr",
+            "immer",
+            "wieder",
+            "auf",
+            "dieselben",
+            "Probleme",
+            "hinweisen",
+            "müsste",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Aber",
+            "leider",
+            "hat",
+            "sich",
+            "an",
+            "der",
+            "Benachteiligung",
+            "von",
+            "Frauen",
+            "am",
+            "Arbeitsmarkt",
+            "in",
+            "unserem",
+            "Land",
+            "nichts",
+            "geändert",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Meine",
+            "Damen",
+            "und",
+            "Herren",
+            "der",
+            "Bundesregierung",
+            ",",
+            "das",
+            "ist",
+            "Ihre",
+            "Verantwortung",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Das",
+            "hätten",
+            "Sie",
+            "längst",
+            "ändern",
+            "müssen",
+            ",",
+            "wenn",
+            "Sie",
+            "es",
+            "wirklich",
+            "ernst",
+            "meinen",
+            "mit",
+            "der",
+            "Gleichstellung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Noch",
+            "immer",
+            "verdienen",
+            "Frauen",
+            "in",
+            "Deutschland",
+            "rund",
+            "20",
+            "Prozent",
+            "weniger",
+            "als",
+            "Männer",
+            ",",
+            "und",
+            "niedrige",
+            "Löhne",
+            ",",
+            "meine",
+            "Damen",
+            "und",
+            "Herren",
+            ",",
+            "ziehen",
+            "immer",
+            "niedrige",
+            "Renten",
+            "nach",
+            "sich",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Die",
+            "Alterseinkünfte",
+            "von",
+            "Frauen",
+            "sind",
+            "deshalb",
+            "um",
+            "die",
+            "Hälfte",
+            "niedriger",
+            "und",
+            "liegen",
+            "oft",
+            "im",
+            "Armutsbereich",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Das",
+            "ist",
+            "ungerecht",
+            ",",
+            "und",
+            "es",
+            "ist",
+            "das",
+            "Ergebnis",
+            "Ihrer",
+            "Politik",
+            "der",
+            "letzten",
+            "Jahre",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Frauen",
+            "arbeiten",
+            "häufiger",
+            "in",
+            "Teilzeit",
+            ",",
+            "häufiger",
+            "unter",
+            "ihrer",
+            "Qualifikation",
+            ",",
+            "aber",
+            "seltener",
+            "in",
+            "Führungspositionen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Wir",
+            "wissen",
+            "doch",
+            ",",
+            "was",
+            "das",
+            "heißt",
+            ":",
+            "weniger",
+            "Gehalt",
+            "und",
+            "weniger",
+            "Karrierechancen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Wer",
+            "weniger",
+            "verdient",
+            ",",
+            "steckt",
+            "eher",
+            "beruflich",
+            "für",
+            "die",
+            "Familie",
+            "zurück",
+            ",",
+            "und",
+            "wer",
+            "beruflich",
+            "zurücksteckt",
+            ",",
+            "verdient",
+            "weniger",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Durchbrechen",
+            "Sie",
+            "endlich",
+            "diesen",
+            "Teufelskreis",
+            ",",
+            "und",
+            "gehen",
+            "Sie",
+            "diese",
+            "Probleme",
+            "an",
+            ",",
+            "meine",
+            "Damen",
+            "und",
+            "Herren",
+            "der",
+            "Regierung",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Frauen",
+            "werden",
+            "schlechter",
+            "bezahlt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Frauen",
+            "leisten",
+            "aber",
+            "den",
+            "größten",
+            "Teil",
+            "der",
+            "Fürsorgearbeit",
+            "in",
+            "der",
+            "Familie",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Beides",
+            "hängt",
+            "zusammen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Was",
+            "man",
+            "von",
+            "Frauen",
+            "umsonst",
+            "erwartet",
+            ",",
+            "wird",
+            "auch",
+            "schlecht",
+            "vergütet",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Und",
+            "Sie",
+            ",",
+            "meine",
+            "Damen",
+            "und",
+            "Herren",
+            "der",
+            "Regierung",
+            ",",
+            "machen",
+            "dabei",
+            "mit",
+            ",",
+            "wenn",
+            "Sie",
+            "nicht",
+            "mehr",
+            "Geld",
+            "für",
+            "gute",
+            "Pflege",
+            "und",
+            "eine",
+            "gute",
+            "Kinderbetreuung",
+            "bereitstellen",
+            "und",
+            "wenn",
+            "Sie",
+            "weiterhin",
+            "den",
+            "Mindestlohn",
+            "kleinhalten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Das",
+            "sind",
+            "doch",
+            "Hindernisse",
+            ",",
+            "die",
+            "in",
+            "Ihrer",
+            "Verantwortung",
+            "liegen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Bitte",
+            "ändern",
+            "Sie",
+            "dies",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Die",
+            "Linke",
+            "fordert",
+            "gute",
+            "Tariflöhne",
+            "in",
+            "sozialen",
+            "Berufen",
+            "genauso",
+            "wie",
+            "in",
+            "technischen",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "sie",
+            "fordert",
+            "geregelte",
+            "Arbeitszeiten",
+            ",",
+            "nicht",
+            "mehr",
+            "als",
+            "40",
+            "Stunden",
+            "die",
+            "Woche",
+            ",",
+            "flächendeckende",
+            "Kinderbetreuung",
+            ",",
+            "gute",
+            "Pflege",
+            ",",
+            "vollfinanziert",
+            "über",
+            "eine",
+            "Pflegeversicherung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Das",
+            "wäre",
+            "eine",
+            "Politik",
+            "für",
+            "Millionen",
+            "Frauen",
+            "in",
+            "unserem",
+            "Land",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Daran",
+            "sollten",
+            "Sie",
+            "arbeiten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Aber",
+            "wenn",
+            "der",
+            "Wille",
+            "zu",
+            "grundlegenden",
+            "Veränderungen",
+            "fehlt",
+            ",",
+            "dann",
+            "ersparen",
+            "Sie",
+            "uns",
+            "bitte",
+            "wenigstens",
+            "Ihre",
+            "Alibiaktionen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Die",
+            "letzte",
+            "Bundesregierung",
+            "kümmerte",
+            "sich",
+            "um",
+            "20",
+            "Aufsichtsrätinnen",
+            ",",
+            "Sie",
+            ",",
+            "Frau",
+            "Dr.",
+            "Giffey",
+            ",",
+            "wollen",
+            "ein",
+            "paar",
+            "Dutzend",
+            "Frauen",
+            "in",
+            "Konzernvorstände",
+            "holen",
+            "-",
+            "schön",
+            "für",
+            "die",
+            "wenigen",
+            ",",
+            "die",
+            "es",
+            "betrifft",
+            ",",
+            "aber",
+            "reichlich",
+            "egal",
+            "für",
+            "die",
+            "Mehrheit",
+            "der",
+            "Frauen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "Um",
+            "die",
+            "geht",
+            "es",
+            "aber",
+            "-",
+            "nicht",
+            "nur",
+            "am",
+            "Internationalen",
+            "Frauentag",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Es",
+            "geht",
+            "um",
+            "die",
+            "Verkäuferin",
+            "im",
+            "Einzelhandel",
+            ",",
+            "die",
+            "einfach",
+            "keine",
+            "Vollzeitstelle",
+            "bekommt",
+            "und",
+            "einen",
+            "Zweit-",
+            "und",
+            "Drittjob",
+            "annehmen",
+            "muss",
+            ",",
+            "um",
+            "überhaupt",
+            "über",
+            "die",
+            "Runden",
+            "zu",
+            "kommen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Es",
+            "geht",
+            "um",
+            "die",
+            "Pflegerin",
+            ",",
+            "die",
+            "sich",
+            "für",
+            "wenig",
+            "Geld",
+            "den",
+            "Rücken",
+            "krumm",
+            "schuftet",
+            "und",
+            "ständig",
+            "aus",
+            "dem",
+            "Frei",
+            "einspringen",
+            "muss",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "Es",
+            "geht",
+            "um",
+            "die",
+            "Alleinerziehende",
+            ",",
+            "die",
+            "keinen",
+            "Kitaplatz",
+            "bekommt",
+            "und",
+            "nicht",
+            "in",
+            "ihrem",
+            "Beruf",
+            "arbeiten",
+            "kann",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 30,
+         "Tokens": [
+            "Und",
+            "ja",
+            ",",
+            "es",
+            "geht",
+            "auch",
+            "um",
+            "den",
+            "jungen",
+            "Mann",
+            ",",
+            "der",
+            "Altenpfleger",
+            "werden",
+            "will",
+            ",",
+            "aber",
+            "einen",
+            "Schreck",
+            "bekommt",
+            ",",
+            "wenn",
+            "er",
+            "nachschaut",
+            ",",
+            "was",
+            "man",
+            "in",
+            "der",
+            "Pflege",
+            "verdient",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 31,
+         "Tokens": [
+            "Ich",
+            "komme",
+            "zum",
+            "Schluss",
+            ",",
+            "meine",
+            "Damen",
+            "und",
+            "Herren",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 32,
+         "Tokens": [
+            "Es",
+            "geht",
+            "nicht",
+            "um",
+            "Mann",
+            "gegen",
+            "Frau",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 33,
+         "Tokens": [
+            "Es",
+            "geht",
+            "um",
+            "gute",
+            "Löhne",
+            "und",
+            "faire",
+            "Arbeitsbedingungen",
+            "für",
+            "Frauen",
+            "und",
+            "für",
+            "Männer",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 34,
+         "Tokens": [
+            "Danke",
+            "schön",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 35,
+         "Tokens": [
+            "Nächste",
+            "Rednerin",
+            "ist",
+            "die",
+            "Kollegin",
+            "Katja",
+            "Dörner",
+            ",",
+            "Bündnis",
+            "90",
+            "/",
+            "Die",
+            "Grünen",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "2:6",
+            "2:7",
+            "2:8",
+            "2:9",
+            "2:10",
+            "2:11",
+            "2:12",
+            "2:13",
+            "2:14",
+            "2:15",
+            "2:16",
+            "2:17",
+            "2:18",
+            "2:19",
+            "2:20",
+            "2:21"
+         ],
+         "Source": [
+            "2:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "2:4"
+         ],
+         "PTC": [
+            "2:2"
+         ]
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "2:17",
+            "2:18",
+            "2:19"
+         ],
+         "Source": [
+            "2:7"
+         ],
+         "Topic": [],
+         "Cue": [
+            "2:20"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "5:9",
+            "5:13",
+            "5:14",
+            "5:15"
+         ],
+         "Source": [
+            "5:8"
+         ],
+         "Topic": [],
+         "Cue": [
+            "5:12",
+            "5:11"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "10:4",
+            "10:5",
+            "10:6",
+            "10:7",
+            "10:8",
+            "10:9",
+            "10:10",
+            "10:11",
+            "10:12"
+         ],
+         "Source": [
+            "10:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "10:1"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+         "Addr": [
+            "16:2",
+            "16:3"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "16:0"
+         ],
+         "Source": [
+            "16:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "16:5"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "20:3",
+            "20:4",
+            "20:5",
+            "20:6",
+            "20:7",
+            "20:8",
+            "20:9",
+            "20:10",
+            "20:11"
+         ],
+         "Source": [
+            "20:0",
+            "20:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "20:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "21:2",
+            "21:3",
+            "21:4",
+            "21:5",
+            "21:6",
+            "21:7",
+            "21:8",
+            "21:9",
+            "21:10",
+            "21:11",
+            "21:12",
+            "21:13",
+            "21:14",
+            "21:15",
+            "21:16",
+            "21:17",
+            "21:18",
+            "21:19",
+            "21:20",
+            "21:21",
+            "21:22"
+         ],
+         "Source": [
+            "21:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "21:1"
+         ],
+         "PTC": []
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+   ]
+}
