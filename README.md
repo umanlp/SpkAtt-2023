@@ -23,7 +23,7 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
 
 <p>The data is available in json format where each document (speech) is a json file.</p>
 
-<p>The unit of analysis is a <strike>paragraph</strike> <b>sentence</b>.</p>
+<p>The unit of analysis is a <strike>paragraph</strike> <b>sentence</b> (we changed the format from paragraphs to sentences).</p>
 
 <p>The json dictionary includes a list of Sentences and a list of Annotations. 
 Each item in the Sentences list is a dictionary with SentenceID and a list of Tokens for this sentence.
