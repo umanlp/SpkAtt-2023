@@ -1,0 +1,951 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Frau",
+            "Präsidentin",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Sehr",
+            "geehrte",
+            "Damen",
+            "und",
+            "Herren",
+            "Abgeordnete",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "1,6",
+            "Milliarden",
+            "Plastiktüten",
+            "pro",
+            "Jahr",
+            "verbrauchen",
+            "wir",
+            "in",
+            "Deutschland",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Oft",
+            "werden",
+            "sie",
+            "nur",
+            "wenige",
+            "Minuten",
+            "genutzt",
+            ",",
+            "viel",
+            "zu",
+            "häufig",
+            "landen",
+            "sie",
+            "dann",
+            "in",
+            "der",
+            "Umwelt",
+            ",",
+            "und",
+            "es",
+            "braucht",
+            "100",
+            "Jahre",
+            ",",
+            "bis",
+            "sie",
+            "sich",
+            "zersetzen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Die",
+            "Tüte",
+            "ist",
+            "also",
+            "der",
+            "Inbegriff",
+            "der",
+            "Ressourcenverschwendung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Gerade",
+            "in",
+            "Zeiten",
+            ",",
+            "in",
+            "denen",
+            "es",
+            "um",
+            "Mehrweglösungen",
+            "geht",
+            ",",
+            "um",
+            "wiederbefüllbare",
+            "Kaffeebecher",
+            "und",
+            "Essensbehälter",
+            "-",
+            "sie",
+            "setzen",
+            "sich",
+            "langsam",
+            "durch",
+            "-",
+            ",",
+            "in",
+            "Zeiten",
+            ",",
+            "in",
+            "denen",
+            "man",
+            "sogar",
+            "Weihnachtsbäume",
+            "mieten",
+            "kann",
+            ",",
+            "muss",
+            "man",
+            "dieser",
+            "Mentalität",
+            "-",
+            "einmal",
+            "nutzen",
+            "und",
+            "dann",
+            "einfach",
+            "wegschmeißen",
+            "-",
+            "endlich",
+            "etwas",
+            "entgegensetzen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Das",
+            "hat",
+            "in",
+            "der",
+            "heutigen",
+            "Zeit",
+            "nichts",
+            "mehr",
+            "zu",
+            "suchen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Der",
+            "Konsum",
+            "von",
+            "Plastiktüten",
+            "ist",
+            "in",
+            "den",
+            "letzten",
+            "Jahren",
+            "stark",
+            "zurückgegangen",
+            ",",
+            "auch",
+            "dank",
+            "der",
+            "Vereinbarung",
+            "meiner",
+            "Vorgängerin",
+            "Barbara",
+            "Hendricks",
+            "mit",
+            "dem",
+            "Handel",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Und",
+            "jetzt",
+            "ist",
+            "es",
+            "an",
+            "der",
+            "Zeit",
+            ",",
+            "den",
+            "Verbrauch",
+            "auf",
+            "null",
+            "zu",
+            "senken",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Wir",
+            "brauchen",
+            "die",
+            "Tüten",
+            "nicht",
+            "mehr",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Die",
+            "neue",
+            "gesetzliche",
+            "Regelung",
+            "erreicht",
+            "auch",
+            "diejenigen",
+            ",",
+            "die",
+            "sich",
+            "bisher",
+            "nicht",
+            "an",
+            "den",
+            "freiwilligen",
+            "Vereinbarungen",
+            "beteiligt",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Das",
+            "Verbot",
+            "gilt",
+            "für",
+            "die",
+            "Tüten",
+            ",",
+            "die",
+            "besonders",
+            "selten",
+            "wiederverwendet",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Ausgenommen",
+            "sind",
+            "die",
+            "Hemdchenbeutel",
+            ",",
+            "also",
+            "diese",
+            "ganz",
+            "dünnen",
+            "Tüten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Sie",
+            "werden",
+            "oft",
+            "aus",
+            "hygienischen",
+            "Gründen",
+            "für",
+            "lose",
+            "Lebensmittel",
+            "genutzt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Wenn",
+            "man",
+            "sie",
+            "verbieten",
+            "würde",
+            ",",
+            "würden",
+            "sie",
+            "durch",
+            "viel",
+            "aufwendigere",
+            "Plastikverpackungen",
+            "ersetzt",
+            ",",
+            "und",
+            "deswegen",
+            "wollen",
+            "wir",
+            "das",
+            "nicht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Es",
+            "darf",
+            "uns",
+            "nicht",
+            "passieren",
+            ",",
+            "dass",
+            "die",
+            "Plastiktüten",
+            "durch",
+            "etwas",
+            "Aufwendigeres",
+            "ersetzt",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Deswegen",
+            "wird",
+            "das",
+            "Bundesumweltministerium",
+            "beobachten",
+            ",",
+            "wodurch",
+            "die",
+            "Plastiktüte",
+            "ersetzt",
+            "wird",
+            ",",
+            "und",
+            "dann",
+            "gegebenenfalls",
+            "auch",
+            "noch",
+            "mal",
+            "nachsteuern",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Das",
+            "Verbot",
+            "der",
+            "Plastiktüte",
+            "ist",
+            "der",
+            "erste",
+            "Schritt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Dem",
+            "werden",
+            "weitere",
+            "folgen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Ich",
+            "habe",
+            "ja",
+            "in",
+            "der",
+            "vergangenen",
+            "Woche",
+            "einen",
+            "Gesetzentwurf",
+            "vorgelegt",
+            ",",
+            "mit",
+            "dem",
+            "künftig",
+            "immer",
+            "auch",
+            "eine",
+            "Mehrwegalternative",
+            "zu",
+            "Einwegverpackungen",
+            "für",
+            "To‑go-Gerichte",
+            "und",
+            "To‑go-Getränke",
+            "angeboten",
+            "werden",
+            "muss",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Denn",
+            "vollkommen",
+            "klar",
+            "ist",
+            ":",
+            "Mehrweg",
+            "ist",
+            "die",
+            "Zukunft",
+            "-",
+            "auch",
+            "beim",
+            "Einkaufen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Eine",
+            "Mehrwegtragetasche",
+            "aus",
+            "Kunststoff",
+            "rechnet",
+            "sich",
+            "für",
+            "die",
+            "Umwelt",
+            "bereits",
+            "nach",
+            "dreimaligem",
+            "Benutzen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Deswegen",
+            "muss",
+            "das",
+            "die",
+            "Alternative",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Sie",
+            "wissen",
+            ",",
+            "dass",
+            "ich",
+            "das",
+            "Plastiktütenverbot",
+            "ursprünglich",
+            "ein",
+            "halbes",
+            "Jahr",
+            "nach",
+            "dem",
+            "Inkrafttreten",
+            "des",
+            "Gesetzes",
+            "in",
+            "Kraft",
+            "setzen",
+            "wollte",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Viele",
+            "Geschäfte",
+            "stehen",
+            "jetzt",
+            "durch",
+            "Corona",
+            "unter",
+            "erheblichem",
+            "Druck",
+            ",",
+            "und",
+            "es",
+            "macht",
+            "auch",
+            "keinen",
+            "Sinn",
+            ",",
+            "Restbestände",
+            "von",
+            "Plastiktüten",
+            "jetzt",
+            "einfach",
+            "zu",
+            "vernichten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Deshalb",
+            "stehe",
+            "ich",
+            "dem",
+            "Vorschlag",
+            "sehr",
+            "offen",
+            "gegenüber",
+            ",",
+            "dass",
+            "die",
+            "Anwendung",
+            "des",
+            "Verbots",
+            "erst",
+            "ab",
+            "dem",
+            "1.",
+            "Januar",
+            "2022",
+            "realisiert",
+            "wird",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "Meine",
+            "Damen",
+            "und",
+            "Herren",
+            "Abgeordnete",
+            ",",
+            "diese",
+            "Woche",
+            "ist",
+            "die",
+            "Europäische",
+            "Woche",
+            "der",
+            "Abfallvermeidung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Europaweit",
+            "werden",
+            "Projekte",
+            "vorgestellt",
+            ",",
+            "die",
+            "Alternativen",
+            "zu",
+            "dieser",
+            "Wegwerfgesellschaft",
+            "aufzeigen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Ich",
+            "glaube",
+            ",",
+            "das",
+            "ist",
+            "ein",
+            "guter",
+            "Zeitpunkt",
+            "für",
+            "das",
+            "Verbot",
+            "der",
+            "Plastiktüte",
+            ",",
+            "und",
+            "ich",
+            "bin",
+            "mir",
+            "sicher",
+            ":",
+            "Wir",
+            "werden",
+            "sie",
+            "alle",
+            "nicht",
+            "vermissen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "Herzlichen",
+            "Dank",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 30,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            ",",
+            "Svenja",
+            "Schulze",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 31,
+         "Tokens": [
+            "-",
+            "Nächster",
+            "Redner",
+            ":",
+            "für",
+            "die",
+            "AfD-Fraktion",
+            "Andreas",
+            "Bleck",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {
+         "Addr": [
+            "7:20",
+            "7:21",
+            "7:22"
+         ],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [
+            "7:16",
+            "7:17",
+            "7:18",
+            "7:19"
+         ],
+         "Topic": [],
+         "Cue": [
+            "7:15"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "10:15"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "11:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "14:2"
+         ],
+         "Source": [
+            "14:1"
+         ],
+         "Topic": [],
+         "Cue": [
+            "14:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "17:2",
+            "17:3"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "17:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "19:8"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "19:7",
+            "19:8",
+            "19:11",
+            "19:12",
+            "19:13",
+            "19:14",
+            "19:15",
+            "19:16",
+            "19:17",
+            "19:18",
+            "19:19",
+            "19:20",
+            "19:21",
+            "19:22",
+            "19:23",
+            "19:24",
+            "19:25",
+            "19:26"
+         ],
+         "Source": [
+            "19:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "19:9"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "23:3",
+            "23:4",
+            "23:5",
+            "23:6",
+            "23:7",
+            "23:8",
+            "23:9",
+            "23:10",
+            "23:11",
+            "23:12",
+            "23:13",
+            "23:14",
+            "23:15",
+            "23:16",
+            "23:17",
+            "23:18",
+            "23:19"
+         ],
+         "Source": [
+            "23:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "23:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "23:15"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "25:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "25:13"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "27:2",
+            "27:5",
+            "27:6",
+            "27:7",
+            "27:8",
+            "27:9",
+            "27:10"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "27:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [
+            "27:5"
+         ],
+         "Medium": [],
+         "Message": [
+            "27:6",
+            "27:7",
+            "27:8",
+            "27:9"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "27:10"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "28:3",
+            "28:4",
+            "28:5",
+            "28:6",
+            "28:7",
+            "28:8",
+            "28:9",
+            "28:10",
+            "28:11",
+            "28:12"
+         ],
+         "Source": [
+            "28:0"
+         ],
+         "Topic": [],
+         "Cue": [
+            "28:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "28:11",
+            "28:12"
+         ],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "28:10"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [
+            "28:20",
+            "28:21",
+            "28:22",
+            "28:23",
+            "28:24",
+            "28:25"
+         ],
+         "Source": [
+            "28:15"
+         ],
+         "Topic": [],
+         "Cue": [
+            "28:16",
+            "28:18"
+         ],
+         "PTC": []
+      }
+   ]
+}
