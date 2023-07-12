@@ -1,0 +1,625 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Frau",
+            "Bundestagspr\u00e4sidentin",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Sehr",
+            "geehrte",
+            "Damen",
+            "und",
+            "Herren",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "In",
+            "der",
+            "vergangenen",
+            "Woche",
+            "haben",
+            "wir",
+            "den",
+            "65.",
+            "Jahrestag",
+            "der",
+            "Gr\u00fcndung",
+            "der",
+            "Bundeswehr",
+            "gefeiert",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Nach",
+            "dem",
+            "verlorenen",
+            "Kriege",
+            "stellte",
+            "dies",
+            "f\u00fcr",
+            "die",
+            "junge",
+            "Bundesrepublik",
+            "einen",
+            "zentralen",
+            "Schritt",
+            "auf",
+            "dem",
+            "Weg",
+            "zur",
+            "Souver\u00e4nit\u00e4t",
+            "des",
+            "Landes",
+            "und",
+            "zur",
+            "Anerkennung",
+            "im",
+            "westlichen",
+            "B\u00fcndnis",
+            "dar",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Damals",
+            "bestand",
+            "f\u00fcr",
+            "viele",
+            "Soldaten",
+            "ein",
+            "Widerspruch",
+            "zwischen",
+            "dem",
+            "Bild",
+            "des",
+            "soldatischen",
+            "Kriegers",
+            ",",
+            "ausgebildet",
+            ",",
+            "um",
+            "zu",
+            "k\u00e4mpfen",
+            "und",
+            "zu",
+            "siegen",
+            ",",
+            "und",
+            "eben",
+            "den",
+            "neuen",
+            "Prinzipien",
+            "der",
+            "jungen",
+            "Bundeswehr",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Heute",
+            "jedoch",
+            "mit",
+            "Blick",
+            "auf",
+            "den",
+            "61.",
+            "Jahresbericht",
+            "des",
+            "Wehrbeauftragten",
+            "unseres",
+            "Parlaments",
+            "ist",
+            "dieser",
+            "Widerspruch",
+            "aufgel\u00f6st",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Niemand",
+            "zweifelt",
+            "mehr",
+            "an",
+            "der",
+            "Sinnhaftigkeit",
+            "der",
+            "Institution",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Die",
+            "Soldatinnen",
+            "und",
+            "Soldaten",
+            ",",
+            "aber",
+            "auch",
+            "die",
+            "zivilen",
+            "Bediensteten",
+            "sind",
+            "nach",
+            "rund",
+            "einem",
+            "Vierteljahrhundert",
+            "mit",
+            "ganz",
+            "unterschiedlichen",
+            "Eins\u00e4tzen",
+            ",",
+            "insbesondere",
+            "mit",
+            "den",
+            "Erfahrungen",
+            "aus",
+            "Afghanistan",
+            ",",
+            "angekommen",
+            ",",
+            "und",
+            "zwar",
+            "mit",
+            "Erfolg",
+            "angekommen",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "denn",
+            "die",
+            "M\u00e4nner",
+            "und",
+            "Frauen",
+            "unserer",
+            "Armee",
+            "haben",
+            "sowohl",
+            "im",
+            "Auslandseinsatz",
+            "als",
+            "auch",
+            "bei",
+            "schwierigen",
+            "Auftr\u00e4gen",
+            "im",
+            "Inland",
+            "ihre",
+            "Leistungsf\u00e4higkeit",
+            "mehrfach",
+            "eindrucksvoll",
+            "unter",
+            "Beweis",
+            "gestellt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Die",
+            "Beteiligung",
+            "der",
+            "Bundeswehr",
+            "im",
+            "Kampf",
+            "gegen",
+            "die",
+            "Coronapandemie",
+            "ist",
+            "das",
+            "beste",
+            "Beispiel",
+            "daf\u00fcr",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Jahresberichte",
+            "des",
+            "Wehrbeauftragten",
+            "sind",
+            "aber",
+            "auch",
+            "immer",
+            "ein",
+            "Spiegelbild",
+            "der",
+            "Lage",
+            "unserer",
+            "Bundeswehr",
+            ",",
+            "so",
+            "auch",
+            "diesmal",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Der",
+            "vorliegende",
+            "Bericht",
+            "zeigt",
+            ",",
+            "dass",
+            "man",
+            "weiter",
+            "mit",
+            "Personall\u00fccken",
+            ",",
+            "materialer",
+            "M\u00e4ngelwirtschaft",
+            "und",
+            "B\u00fcrokratie",
+            "zu",
+            "k\u00e4mpfen",
+            "hat",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "F\u00fcr",
+            "eine",
+            "Armee",
+            "im",
+            "Frieden",
+            "ist",
+            "das",
+            "nicht",
+            "ungew\u00f6hnlich",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Doch",
+            "es",
+            "ist",
+            "unsere",
+            "gemeinsame",
+            "Aufgabe",
+            ",",
+            "diese",
+            "Probleme",
+            "nachdr\u00fccklicher",
+            "anzugehen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Die",
+            "vielzitierten",
+            "Trendwenden",
+            "m\u00fcssen",
+            "in",
+            "der",
+            "Truppe",
+            "noch",
+            "sp\u00fcrbarer",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Naturgem\u00e4\u00df",
+            "m\u00f6chte",
+            "ich",
+            "einen",
+            "kurzen",
+            "Blick",
+            "auf",
+            "die",
+            "personelle",
+            "Einsatzbereitschaftslage",
+            "werfen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Ja",
+            ",",
+            "mit",
+            "dem",
+            "Besoldungsstrukturenmodernisierungsgesetz",
+            "und",
+            "dem",
+            "Einsatzbereitschaftsst\u00e4rkungsgesetz",
+            "haben",
+            "wir",
+            "wirklich",
+            "viel",
+            "f\u00fcr",
+            "die",
+            "Bundeswehr",
+            "getan",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Dienstzufriedenheit",
+            "hat",
+            "eben",
+            "auch",
+            "mit",
+            "Sozial-",
+            "und",
+            "F\u00fcrsorgewesen",
+            "zu",
+            "tun",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "das",
+            "m\u00f6chte",
+            "ich",
+            "einmal",
+            "ganz",
+            "positiv",
+            "betonen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Doch",
+            "noch",
+            "immer",
+            "sind",
+            "leider",
+            "zahlreiche",
+            "Dienstposten",
+            "unbesetzt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Laut",
+            "Bericht",
+            "verzeichnete",
+            "man",
+            "Ende",
+            "2019",
+            "ein",
+            "Fehl",
+            "in",
+            "H\u00f6he",
+            "von",
+            "21",
+            "_",
+            "000",
+            "bei",
+            "den",
+            "Offizieren",
+            "und",
+            "Unteroffizieren",
+            "und",
+            "von",
+            "2",
+            "_",
+            "100",
+            "bei",
+            "den",
+            "Mannschaften",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Dieser",
+            "Mangel",
+            "betrifft",
+            "vor",
+            "allem",
+            "hochqualifiziertes",
+            "Fachpersonal",
+            ",",
+            "wie",
+            "beispielsweise",
+            "Hubschrauberpiloten",
+            ",",
+            "Fernmeldetechniker",
+            "oder",
+            "auch",
+            "\u00c4rzte",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Neben",
+            "der",
+            "Materiallage",
+            "ist",
+            "also",
+            "die",
+            "Personallage",
+            "ein",
+            "Problem",
+            ",",
+            "welches",
+            "den",
+            "Kern",
+            "der",
+            "Bundeswehr",
+            "ber\u00fchrt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Hier",
+            "gilt",
+            "es",
+            ",",
+            "nicht",
+            "einfach",
+            "abzuwarten",
+            "und",
+            "auf",
+            "Heilung",
+            "zu",
+            "hoffen",
+            ",",
+            "sondern",
+            "wir",
+            "m\u00fcssen",
+            "gemeinsam",
+            "nach",
+            "L\u00f6sungen",
+            "suchen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Ich",
+            "w\u00fcrde",
+            "mir",
+            "sehr",
+            "w\u00fcnschen",
+            ",",
+            "dass",
+            "dies",
+            "gelingt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "Abschlie\u00dfend",
+            "danke",
+            "nat\u00fcrlich",
+            "auch",
+            "ich",
+            "Herrn",
+            "Dr.",
+            "Bartels",
+            ",",
+            "aber",
+            "auch",
+            "Frau",
+            "Dr.",
+            "H\u00f6gl",
+            "nebst",
+            "ihrer",
+            "Mitarbeiterschaft",
+            "f\u00fcr",
+            "die",
+            "sehr",
+            "gute",
+            "Arbeit",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Ich",
+            "freue",
+            "mich",
+            "auf",
+            "ein",
+            "weiterhin",
+            "erfolgreiches",
+            "Miteinander",
+            "im",
+            "Sinne",
+            "unserer",
+            "Bundeswehr",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            ",",
+            "Kerstin",
+            "Vieregge",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "-",
+            "Der",
+            "letzte",
+            "Redner",
+            "in",
+            "dieser",
+            "Debatte",
+            ":",
+            "f\u00fcr",
+            "die",
+            "CDU",
+            "/",
+            "CSU-Fraktion",
+            "Dr.",
+            "Reinhard",
+            "Brandl",
+            "."
+         ]
+      }
+   ],
+   "Annotations": []
+}

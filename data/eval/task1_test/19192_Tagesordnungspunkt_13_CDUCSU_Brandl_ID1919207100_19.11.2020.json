@@ -1,0 +1,785 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Frau",
+            "Pr\u00e4sidentin",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Verehrte",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Ich",
+            "freue",
+            "mich",
+            "sehr",
+            ",",
+            "dass",
+            "der",
+            "alte",
+            "Wehrbeauftragte",
+            "Hans-Peter",
+            "Bartels",
+            "unter",
+            "uns",
+            "ist",
+            ";",
+            "ein",
+            "guter",
+            "Mann",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "-",
+            "Der",
+            "ehemalige",
+            "Wehrbeauftragte",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Ich",
+            "freue",
+            "mich",
+            "so",
+            ",",
+            "dass",
+            "der",
+            "ehemalige",
+            "Wehrbeauftragte",
+            "uns",
+            "auch",
+            "noch",
+            "weiter",
+            "begleitet",
+            "in",
+            "der",
+            "sicherheitspolitischen",
+            "Debatte",
+            "und",
+            "kluge",
+            "Papiere",
+            "verfasst",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Ich",
+            "w\u00fcrde",
+            "mich",
+            "freuen",
+            ",",
+            "auch",
+            "in",
+            "Zukunft",
+            "weiter",
+            "von",
+            "ihm",
+            "zu",
+            "h\u00f6ren",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Lieber",
+            "Hans-Peter",
+            ",",
+            "sch\u00f6n",
+            "dass",
+            "du",
+            "da",
+            "bist",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Meine",
+            "Damen",
+            "und",
+            "Herren",
+            ",",
+            "ich",
+            "freue",
+            "mich",
+            "auch",
+            ",",
+            "dass",
+            "die",
+            "neue",
+            "Wehrbeauftragte",
+            "gut",
+            "ins",
+            "Amt",
+            "gekommen",
+            "ist",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Nach",
+            "f\u00fcnf",
+            "Monaten",
+            "kann",
+            "ich",
+            "sagen",
+            ":",
+            "Eva",
+            "H\u00f6gl",
+            ",",
+            "eine",
+            "gute",
+            "Frau",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "-",
+            "Frau",
+            "Strack-Zimmermann",
+            ",",
+            "zu",
+            "Ihnen",
+            "habe",
+            "ich",
+            "das",
+            "noch",
+            "nicht",
+            "gesagt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Aber",
+            "Sie",
+            "haben",
+            "ja",
+            "noch",
+            "eine",
+            "Zeit",
+            "lang",
+            "Zeit",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Sie",
+            "k\u00f6nnen",
+            "sich",
+            "das",
+            "bei",
+            "mir",
+            "noch",
+            "verdienen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Was",
+            "ich",
+            "zu",
+            "Frau",
+            "H\u00f6gl",
+            "sagen",
+            "wollte",
+            ":",
+            "Frau",
+            "H\u00f6gl",
+            "hat",
+            "einen",
+            "guten",
+            "Blick",
+            "auch",
+            "auf",
+            "die",
+            "Herausforderungen",
+            ",",
+            "vor",
+            "denen",
+            "die",
+            "Bundeswehr",
+            "steht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Meine",
+            "Damen",
+            "und",
+            "Herren",
+            ",",
+            "ich",
+            "will",
+            "jetzt",
+            "wieder",
+            "ernst",
+            "werden",
+            ",",
+            "weil",
+            "die",
+            "Bundeswehr",
+            "im",
+            "Kern",
+            "kein",
+            "attraktiver",
+            "Arbeitgeber",
+            "ist",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Die",
+            "Soldaten",
+            ",",
+            "die",
+            "sich",
+            "f\u00fcr",
+            "diesen",
+            "Beruf",
+            "entscheiden",
+            ",",
+            "nehmen",
+            "gro\u00dfe",
+            "Entbehrungen",
+            "f\u00fcr",
+            "sich",
+            "und",
+            "ihre",
+            "Familien",
+            "auf",
+            "sich",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Das",
+            ",",
+            "was",
+            "wir",
+            "ihnen",
+            "schuldig",
+            "sind",
+            ",",
+            "das",
+            "Mindeste",
+            ",",
+            "was",
+            "wir",
+            "tun",
+            "k\u00f6nnen",
+            ",",
+            "ist",
+            ",",
+            "dass",
+            "wir",
+            "versuchen",
+            ",",
+            "die",
+            "Rahmenbedingungen",
+            ",",
+            "unter",
+            "denen",
+            "sie",
+            "ihren",
+            "schwierigen",
+            "Job",
+            "machen",
+            ",",
+            "zu",
+            "verbessern",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Frau",
+            "H\u00f6gl",
+            ",",
+            "Sie",
+            "sind",
+            "die",
+            "Anw\u00e4ltin",
+            "der",
+            "Soldaten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Sie",
+            "sind",
+            "aber",
+            "auch",
+            "unser",
+            "Auge",
+            "und",
+            "Ohr",
+            ",",
+            "und",
+            "Sie",
+            "sind",
+            "auch",
+            "so",
+            "etwas",
+            "wie",
+            "ein",
+            "Briefkasten",
+            "f\u00fcr",
+            "die",
+            "Soldaten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Durch",
+            "Sie",
+            "erfahren",
+            "wir",
+            "sehr",
+            "viel",
+            ",",
+            "was",
+            "in",
+            "der",
+            "Bundeswehr",
+            "vorgeht",
+            ",",
+            "und",
+            "Sie",
+            "helfen",
+            "uns",
+            "auch",
+            "dabei",
+            ",",
+            "die",
+            "Stellschrauben",
+            "so",
+            "zu",
+            "drehen",
+            ",",
+            "dass",
+            "der",
+            "Dienst",
+            "in",
+            "der",
+            "Bundeswehr",
+            "f\u00fcr",
+            "die",
+            "Soldatinnen",
+            "und",
+            "Soldaten",
+            "so",
+            "gut",
+            ",",
+            "so",
+            "angenehm",
+            "wie",
+            "m\u00f6glich",
+            "erfolgt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Aber",
+            "neben",
+            "diesen",
+            "vielen",
+            "kleinen",
+            "Stellschrauben",
+            "in",
+            "der",
+            "Truppe",
+            "gibt",
+            "es",
+            "auch",
+            "ein",
+            "paar",
+            "gro\u00dfe",
+            "Stellschrauben",
+            ",",
+            "die",
+            "wir",
+            "gemeinsam",
+            "hier",
+            "im",
+            "Parlament",
+            "drehen",
+            "m\u00fcssen",
+            ":"
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Die",
+            "erste",
+            "ist",
+            "politische",
+            "R\u00fcckendeckung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Unsere",
+            "Soldaten",
+            "brauchen",
+            "unser",
+            "Zutrauen",
+            "und",
+            "unser",
+            "Vertrauen",
+            ",",
+            "auch",
+            "in",
+            "schwierigen",
+            "Situationen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Zum",
+            "Beispiel",
+            "eine",
+            "Situation",
+            "wie",
+            "beim",
+            "KSK",
+            "war",
+            "f\u00fcr",
+            "die",
+            "Bundeswehr",
+            "und",
+            "f\u00fcr",
+            "die",
+            "betroffene",
+            "Einheit",
+            "eine",
+            "schwierige",
+            "Situation",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Deswegen",
+            "ist",
+            "es",
+            "wichtig",
+            ",",
+            "dass",
+            "man",
+            "auch",
+            "hier",
+            "den",
+            "richtigen",
+            "Ton",
+            "findet",
+            ",",
+            "nicht",
+            "wegschaut",
+            ",",
+            "aber",
+            "auch",
+            "keine",
+            "Vorverurteilungen",
+            "vornimmt",
+            "und",
+            "keine",
+            "pauschalen",
+            "Urteile",
+            "f\u00e4llt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Herzlichen",
+            "Dank",
+            "daf\u00fcr",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Die",
+            "zweite",
+            "gro\u00dfe",
+            "Stellschraube",
+            "ist",
+            "das",
+            "Thema",
+            "Ausr\u00fcstung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "Es",
+            "ist",
+            "einem",
+            "Soldaten",
+            ",",
+            "der",
+            "in",
+            "Mali",
+            "in",
+            "einen",
+            "Hinterhalt",
+            "ger\u00e4t",
+            ",",
+            "nicht",
+            "zu",
+            "erkl\u00e4ren",
+            ",",
+            "dass",
+            "die",
+            "Drohne",
+            ",",
+            "die",
+            "\u00fcber",
+            "ihn",
+            "wacht",
+            ",",
+            "im",
+            "Fall",
+            "der",
+            "F\u00e4lle",
+            "nicht",
+            "eingreifen",
+            "kann",
+            ",",
+            "sondern",
+            "er",
+            "eine",
+            "Stunde",
+            "auf",
+            "einen",
+            "amerikanischen",
+            "Hubschrauber",
+            "warten",
+            "muss",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Deswegen",
+            "brauchen",
+            "unsere",
+            "Soldatinnen",
+            "und",
+            "Soldaten",
+            "zu",
+            "ihrem",
+            "Schutz",
+            "die",
+            "Ausr\u00fcstung",
+            "f\u00fcr",
+            "ihre",
+            "Arbeit",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Ich",
+            "bin",
+            "froh",
+            ",",
+            "dass",
+            "die",
+            "Wehrbeauftragte",
+            "hier",
+            "so",
+            "klar",
+            "Position",
+            "bezogen",
+            "hat",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "Und",
+            "ich",
+            "brauche",
+            "das",
+            "Ende",
+            "Ihrer",
+            "Rede",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 30,
+         "Tokens": [
+            "Ja",
+            ",",
+            "aber",
+            "ich",
+            "habe",
+            "noch",
+            "eine",
+            "dritte",
+            "Stellschraube",
+            ",",
+            "Frau",
+            "Pr\u00e4sidentin",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 31,
+         "Tokens": [
+            "H\u00e4tten",
+            "Sie",
+            "nicht",
+            "so",
+            "viel",
+            "genderpolitisch",
+            "geredet",
+            ",",
+            "dann",
+            "w\u00e4ren",
+            "Sie",
+            "durchgekommen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 32,
+         "Tokens": [
+            "Die",
+            "dritte",
+            "Stellschraube",
+            "w\u00e4ren",
+            "die",
+            "Finanzen",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 33,
+         "Tokens": [
+            "auch",
+            "die",
+            "sind",
+            "wichtig",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 34,
+         "Tokens": [
+            "Ich",
+            "hoffe",
+            ",",
+            "dass",
+            "wir",
+            "in",
+            "den",
+            "Haushaltsberatungen",
+            "der",
+            "Bundeswehr",
+            "viel",
+            "Geld",
+            "zur",
+            "Verf\u00fcgung",
+            "stellen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 35,
+         "Tokens": [
+            "Ich",
+            "danke",
+            "Ihnen",
+            "f\u00fcr",
+            "die",
+            "Aufmerksamkeit",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 36,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            ",",
+            "Dr.",
+            "Reinhard",
+            "Brandl",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 37,
+         "Tokens": [
+            "-",
+            "Damit",
+            "schlie\u00dfe",
+            "ich",
+            "die",
+            "Aussprache",
+            "."
+         ]
+      }
+   ],
+   "Annotations": []
+}

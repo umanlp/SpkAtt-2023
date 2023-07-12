@@ -1,0 +1,660 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Frau",
+            "Pr\u00e4sidentin",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Sehr",
+            "geehrte",
+            "Damen",
+            "und",
+            "Herren",
+            "Abgeordnete",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "1,6",
+            "Milliarden",
+            "Plastikt\u00fcten",
+            "pro",
+            "Jahr",
+            "verbrauchen",
+            "wir",
+            "in",
+            "Deutschland",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Oft",
+            "werden",
+            "sie",
+            "nur",
+            "wenige",
+            "Minuten",
+            "genutzt",
+            ",",
+            "viel",
+            "zu",
+            "h\u00e4ufig",
+            "landen",
+            "sie",
+            "dann",
+            "in",
+            "der",
+            "Umwelt",
+            ",",
+            "und",
+            "es",
+            "braucht",
+            "100",
+            "Jahre",
+            ",",
+            "bis",
+            "sie",
+            "sich",
+            "zersetzen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Die",
+            "T\u00fcte",
+            "ist",
+            "also",
+            "der",
+            "Inbegriff",
+            "der",
+            "Ressourcenverschwendung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Gerade",
+            "in",
+            "Zeiten",
+            ",",
+            "in",
+            "denen",
+            "es",
+            "um",
+            "Mehrwegl\u00f6sungen",
+            "geht",
+            ",",
+            "um",
+            "wiederbef\u00fcllbare",
+            "Kaffeebecher",
+            "und",
+            "Essensbeh\u00e4lter",
+            "-",
+            "sie",
+            "setzen",
+            "sich",
+            "langsam",
+            "durch",
+            "-",
+            ",",
+            "in",
+            "Zeiten",
+            ",",
+            "in",
+            "denen",
+            "man",
+            "sogar",
+            "Weihnachtsb\u00e4ume",
+            "mieten",
+            "kann",
+            ",",
+            "muss",
+            "man",
+            "dieser",
+            "Mentalit\u00e4t",
+            "-",
+            "einmal",
+            "nutzen",
+            "und",
+            "dann",
+            "einfach",
+            "wegschmei\u00dfen",
+            "-",
+            "endlich",
+            "etwas",
+            "entgegensetzen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Das",
+            "hat",
+            "in",
+            "der",
+            "heutigen",
+            "Zeit",
+            "nichts",
+            "mehr",
+            "zu",
+            "suchen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Der",
+            "Konsum",
+            "von",
+            "Plastikt\u00fcten",
+            "ist",
+            "in",
+            "den",
+            "letzten",
+            "Jahren",
+            "stark",
+            "zur\u00fcckgegangen",
+            ",",
+            "auch",
+            "dank",
+            "der",
+            "Vereinbarung",
+            "meiner",
+            "Vorg\u00e4ngerin",
+            "Barbara",
+            "Hendricks",
+            "mit",
+            "dem",
+            "Handel",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Und",
+            "jetzt",
+            "ist",
+            "es",
+            "an",
+            "der",
+            "Zeit",
+            ",",
+            "den",
+            "Verbrauch",
+            "auf",
+            "null",
+            "zu",
+            "senken",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Wir",
+            "brauchen",
+            "die",
+            "T\u00fcten",
+            "nicht",
+            "mehr",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Die",
+            "neue",
+            "gesetzliche",
+            "Regelung",
+            "erreicht",
+            "auch",
+            "diejenigen",
+            ",",
+            "die",
+            "sich",
+            "bisher",
+            "nicht",
+            "an",
+            "den",
+            "freiwilligen",
+            "Vereinbarungen",
+            "beteiligt",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Das",
+            "Verbot",
+            "gilt",
+            "f\u00fcr",
+            "die",
+            "T\u00fcten",
+            ",",
+            "die",
+            "besonders",
+            "selten",
+            "wiederverwendet",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Ausgenommen",
+            "sind",
+            "die",
+            "Hemdchenbeutel",
+            ",",
+            "also",
+            "diese",
+            "ganz",
+            "d\u00fcnnen",
+            "T\u00fcten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Sie",
+            "werden",
+            "oft",
+            "aus",
+            "hygienischen",
+            "Gr\u00fcnden",
+            "f\u00fcr",
+            "lose",
+            "Lebensmittel",
+            "genutzt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Wenn",
+            "man",
+            "sie",
+            "verbieten",
+            "w\u00fcrde",
+            ",",
+            "w\u00fcrden",
+            "sie",
+            "durch",
+            "viel",
+            "aufwendigere",
+            "Plastikverpackungen",
+            "ersetzt",
+            ",",
+            "und",
+            "deswegen",
+            "wollen",
+            "wir",
+            "das",
+            "nicht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Es",
+            "darf",
+            "uns",
+            "nicht",
+            "passieren",
+            ",",
+            "dass",
+            "die",
+            "Plastikt\u00fcten",
+            "durch",
+            "etwas",
+            "Aufwendigeres",
+            "ersetzt",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Deswegen",
+            "wird",
+            "das",
+            "Bundesumweltministerium",
+            "beobachten",
+            ",",
+            "wodurch",
+            "die",
+            "Plastikt\u00fcte",
+            "ersetzt",
+            "wird",
+            ",",
+            "und",
+            "dann",
+            "gegebenenfalls",
+            "auch",
+            "noch",
+            "mal",
+            "nachsteuern",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Das",
+            "Verbot",
+            "der",
+            "Plastikt\u00fcte",
+            "ist",
+            "der",
+            "erste",
+            "Schritt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Dem",
+            "werden",
+            "weitere",
+            "folgen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Ich",
+            "habe",
+            "ja",
+            "in",
+            "der",
+            "vergangenen",
+            "Woche",
+            "einen",
+            "Gesetzentwurf",
+            "vorgelegt",
+            ",",
+            "mit",
+            "dem",
+            "k\u00fcnftig",
+            "immer",
+            "auch",
+            "eine",
+            "Mehrwegalternative",
+            "zu",
+            "Einwegverpackungen",
+            "f\u00fcr",
+            "To\u2011go-Gerichte",
+            "und",
+            "To\u2011go-Getr\u00e4nke",
+            "angeboten",
+            "werden",
+            "muss",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Denn",
+            "vollkommen",
+            "klar",
+            "ist",
+            ":",
+            "Mehrweg",
+            "ist",
+            "die",
+            "Zukunft",
+            "-",
+            "auch",
+            "beim",
+            "Einkaufen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Eine",
+            "Mehrwegtragetasche",
+            "aus",
+            "Kunststoff",
+            "rechnet",
+            "sich",
+            "f\u00fcr",
+            "die",
+            "Umwelt",
+            "bereits",
+            "nach",
+            "dreimaligem",
+            "Benutzen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Deswegen",
+            "muss",
+            "das",
+            "die",
+            "Alternative",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Sie",
+            "wissen",
+            ",",
+            "dass",
+            "ich",
+            "das",
+            "Plastikt\u00fctenverbot",
+            "urspr\u00fcnglich",
+            "ein",
+            "halbes",
+            "Jahr",
+            "nach",
+            "dem",
+            "Inkrafttreten",
+            "des",
+            "Gesetzes",
+            "in",
+            "Kraft",
+            "setzen",
+            "wollte",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Viele",
+            "Gesch\u00e4fte",
+            "stehen",
+            "jetzt",
+            "durch",
+            "Corona",
+            "unter",
+            "erheblichem",
+            "Druck",
+            ",",
+            "und",
+            "es",
+            "macht",
+            "auch",
+            "keinen",
+            "Sinn",
+            ",",
+            "Restbest\u00e4nde",
+            "von",
+            "Plastikt\u00fcten",
+            "jetzt",
+            "einfach",
+            "zu",
+            "vernichten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Deshalb",
+            "stehe",
+            "ich",
+            "dem",
+            "Vorschlag",
+            "sehr",
+            "offen",
+            "gegen\u00fcber",
+            ",",
+            "dass",
+            "die",
+            "Anwendung",
+            "des",
+            "Verbots",
+            "erst",
+            "ab",
+            "dem",
+            "1.",
+            "Januar",
+            "2022",
+            "realisiert",
+            "wird",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "Meine",
+            "Damen",
+            "und",
+            "Herren",
+            "Abgeordnete",
+            ",",
+            "diese",
+            "Woche",
+            "ist",
+            "die",
+            "Europ\u00e4ische",
+            "Woche",
+            "der",
+            "Abfallvermeidung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Europaweit",
+            "werden",
+            "Projekte",
+            "vorgestellt",
+            ",",
+            "die",
+            "Alternativen",
+            "zu",
+            "dieser",
+            "Wegwerfgesellschaft",
+            "aufzeigen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Ich",
+            "glaube",
+            ",",
+            "das",
+            "ist",
+            "ein",
+            "guter",
+            "Zeitpunkt",
+            "f\u00fcr",
+            "das",
+            "Verbot",
+            "der",
+            "Plastikt\u00fcte",
+            ",",
+            "und",
+            "ich",
+            "bin",
+            "mir",
+            "sicher",
+            ":",
+            "Wir",
+            "werden",
+            "sie",
+            "alle",
+            "nicht",
+            "vermissen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "Herzlichen",
+            "Dank",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 30,
+         "Tokens": [
+            "Vielen",
+            "Dank",
+            ",",
+            "Svenja",
+            "Schulze",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 31,
+         "Tokens": [
+            "-",
+            "N\u00e4chster",
+            "Redner",
+            ":",
+            "f\u00fcr",
+            "die",
+            "AfD-Fraktion",
+            "Andreas",
+            "Bleck",
+            "."
+         ]
+      }
+   ],
+   "Annotations": []
+}

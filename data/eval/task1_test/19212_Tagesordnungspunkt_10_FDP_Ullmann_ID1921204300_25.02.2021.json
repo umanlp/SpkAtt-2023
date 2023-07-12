@@ -1,0 +1,845 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Herr",
+            "Pr\u00e4sident",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Meine",
+            "Damen",
+            "und",
+            "Herren",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Ein",
+            "kleines",
+            "Virus",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Ein",
+            "kleines",
+            "Virus",
+            "hat",
+            "die",
+            "Fragilit\u00e4t",
+            "unseres",
+            "Systems",
+            "zum",
+            "Vorschein",
+            "gebracht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Es",
+            "nutzt",
+            "die",
+            "Risse",
+            "innerhalb",
+            "unserer",
+            "Gesellschaften",
+            "und",
+            "zwischen",
+            "den",
+            "Nationen",
+            "aus",
+            "und",
+            "vertieft",
+            "sie",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Es",
+            "hat",
+            "auf",
+            "brutalste",
+            "Weise",
+            "gezeigt",
+            ",",
+            "dass",
+            "es",
+            "ohne",
+            "Gesundheit",
+            "keine",
+            "wirtschaftliche",
+            "Stabilit\u00e4t",
+            ",",
+            "keine",
+            "Sicherheit",
+            ",",
+            "keine",
+            "Entwicklung",
+            "und",
+            "keine",
+            "Perspektive",
+            "gibt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Wir",
+            "m\u00fcssen",
+            "endlich",
+            "die",
+            "akute",
+            "Phase",
+            "der",
+            "Pandemie",
+            "verantwortungsvoll",
+            "beenden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Das",
+            "erfordert",
+            "ein",
+            "globales",
+            "koordiniertes",
+            "Vorgehen",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "denn",
+            "wir",
+            "m\u00fcssen",
+            "\u00fcberall",
+            "die",
+            "Pandemie",
+            "beenden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Wie",
+            "es",
+            "der",
+            "Generaldirektor",
+            "der",
+            "WHO",
+            ",",
+            "Dr.",
+            "Tedros",
+            ",",
+            "schon",
+            "mal",
+            "gesagt",
+            "hat",
+            ":",
+            "Niemand",
+            "ist",
+            "sicher",
+            ",",
+            "bis",
+            "alle",
+            "sicher",
+            "sind",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "-",
+            "Das",
+            "ist",
+            "nicht",
+            "nur",
+            "Politrhetorik",
+            ",",
+            "das",
+            "ist",
+            "eine",
+            "epidemiologische",
+            "Tatsache",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Deshalb",
+            "sind",
+            "wir",
+            "explizit",
+            "dankbar",
+            ",",
+            "dass",
+            "die",
+            "Gr\u00fcnen",
+            "dieses",
+            "Thema",
+            "auf",
+            "die",
+            "Tagesordnung",
+            "gesetzt",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Einige",
+            "Ans\u00e4tze",
+            "sind",
+            "gut",
+            ",",
+            "andere",
+            "sehen",
+            "wir",
+            "kritisch",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Vor",
+            "allem",
+            "vermissen",
+            "wir",
+            "die",
+            "Weitsicht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Was",
+            "passiert",
+            "in",
+            "Zukunft",
+            "mit",
+            "dem",
+            "ACT-Accelerator",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Wie",
+            "k\u00f6nnen",
+            "wir",
+            "unsere",
+            "Systeme",
+            "widerstandsf\u00e4higer",
+            "machen",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Und",
+            "wie",
+            "k\u00f6nnen",
+            "wir",
+            "in",
+            "Zukunft",
+            "Pandemien",
+            "verhindern",
+            "?"
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Mit",
+            "unserem",
+            "Antrag",
+            "fordern",
+            "wir",
+            ",",
+            "dass",
+            "die",
+            "Vorbereitung",
+            "auf",
+            "die",
+            "n\u00e4chste",
+            "Pandemie",
+            "bereits",
+            "jetzt",
+            "beginnt",
+            ",",
+            "und",
+            "zwar",
+            "heute",
+            "und",
+            "nicht",
+            "erst",
+            "morgen",
+            "oder",
+            "in",
+            "ein",
+            "paar",
+            "Jahren",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Wir",
+            "sollten",
+            "nicht",
+            "nur",
+            "auf",
+            "eine",
+            "Pandemie",
+            "wie",
+            "die",
+            "letzte",
+            "vorbereitet",
+            "sein",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "dieser",
+            "t\u00f6dliche",
+            "Kreislauf",
+            "aus",
+            "Panik",
+            "und",
+            "Vernachl\u00e4ssigung",
+            "in",
+            "der",
+            "Politik",
+            "muss",
+            "ein",
+            "f\u00fcr",
+            "alle",
+            "Mal",
+            "durchbrochen",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "In",
+            "der",
+            "Infektionsmedizin",
+            "ist",
+            "klar",
+            ":",
+            "Die",
+            "gr\u00f6\u00dften",
+            "Gefahren",
+            "gehen",
+            "von",
+            "Zoonosen",
+            "aus",
+            ":",
+            "SARS",
+            ",",
+            "Zika",
+            ",",
+            "Ebola",
+            "oder",
+            "jetzt",
+            "Covid-19",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "das",
+            "ist",
+            "wohl",
+            "eine",
+            "der",
+            "verheerendsten",
+            "Zoonosen",
+            ",",
+            "die",
+            "wir",
+            "bisher",
+            "kennengelernt",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Uns",
+            "muss",
+            "klar",
+            "sein",
+            ",",
+            "dass",
+            "fast",
+            "zwei",
+            "Drittel",
+            "der",
+            "Infektionskrankheiten",
+            "in",
+            "der",
+            "Humanmedizin",
+            "Zoonosen",
+            "sind",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Das",
+            "l\u00e4sst",
+            "bef\u00fcrchten",
+            ",",
+            "das",
+            "SARS-CoV-2",
+            "nur",
+            "die",
+            "Spitze",
+            "des",
+            "Eisberges",
+            "ist",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "denn",
+            "Klimawandel",
+            ",",
+            "steigende",
+            "Mobilit\u00e4t",
+            ",",
+            "das",
+            "Vordringen",
+            "des",
+            "Menschen",
+            "in",
+            "unber\u00fchrte",
+            "Lebensr\u00e4ume",
+            ",",
+            "industrielle",
+            "Landwirtschaft",
+            ",",
+            "Nutztierhaltung",
+            "f\u00fchren",
+            "dazu",
+            ",",
+            "dass",
+            "sich",
+            "Krankheitserreger",
+            "schneller",
+            "ausbreiten",
+            "k\u00f6nnen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Ohne",
+            "Pr\u00e4ventionsma\u00dfnahmen",
+            "werden",
+            "Pandemien",
+            "h\u00e4ufiger",
+            "auftreten",
+            ",",
+            "sich",
+            "schneller",
+            "ausbreiten",
+            ",",
+            "mehr",
+            "Menschen",
+            "umbringen",
+            "und",
+            "die",
+            "Weltwirtschaft",
+            "mit",
+            "verheerenderen",
+            "Auswirkungen",
+            "als",
+            "je",
+            "zuvor",
+            "beeinflussen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "Wir",
+            "m\u00fcssen",
+            "die",
+            "Covid-19-Pandemie",
+            "als",
+            "Weckruf",
+            "begreifen",
+            ",",
+            "unser",
+            "System",
+            "neu",
+            "zu",
+            "denken",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Wir",
+            "m\u00fcssen",
+            "in",
+            "globaler",
+            "Zusammenarbeit",
+            "Verantwortung",
+            "\u00fcbernehmen",
+            "f\u00fcr",
+            "die",
+            "Gesundheit",
+            "von",
+            "Mensch",
+            ",",
+            "Tier",
+            "und",
+            "Umwelt",
+            "und",
+            "die",
+            "gegenseitige",
+            "Abh\u00e4ngigkeit",
+            "ber\u00fccksichtigen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Unser",
+            "Leitfaden",
+            "muss",
+            "das",
+            "One-Health-Konzept",
+            "sein",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "\u201e",
+            "One",
+            "Health",
+            "\u201c",
+            "darf",
+            "nicht",
+            "nur",
+            "Rhetorik",
+            "sein",
+            ",",
+            "sondern",
+            "muss",
+            "auf",
+            "allen",
+            "Ebenen",
+            "konsequent",
+            "umgesetzt",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 30,
+         "Tokens": [
+            "Ich",
+            "m\u00f6chte",
+            "kurz",
+            "5",
+            "unserer",
+            "15",
+            "Forderungen",
+            "vorstellen",
+            ":"
+         ]
+      },
+      {
+         "SentenceId": 31,
+         "Tokens": [
+            "Erstens",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 32,
+         "Tokens": [
+            "Unsere",
+            "Fr\u00fchwarnsysteme",
+            "m\u00fcssen",
+            "verbessert",
+            "und",
+            "weiterentwickelt",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 33,
+         "Tokens": [
+            "Wir",
+            "brauchen",
+            "ein",
+            "funktionierendes",
+            "Fr\u00fchwarnsystem",
+            "f\u00fcr",
+            "Zoonosen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 34,
+         "Tokens": [
+            "Zweitens",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 35,
+         "Tokens": [
+            "Partnerl\u00e4nder",
+            "in",
+            "der",
+            "Entwicklungszusammenarbeit",
+            "m\u00fcssen",
+            "gezielt",
+            "bei",
+            "der",
+            "fr\u00fchzeitigen",
+            "Erkennung",
+            "und",
+            "Eind\u00e4mmung",
+            "von",
+            "Zoonosen",
+            "unterst\u00fctzt",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 36,
+         "Tokens": [
+            "Drittens",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 37,
+         "Tokens": [
+            "Die",
+            "Bedrohung",
+            "von",
+            "Naturw\u00e4ldern",
+            "mit",
+            "ausgepr\u00e4gter",
+            "Biodiversit\u00e4t",
+            "muss",
+            "auf",
+            "internationaler",
+            "Ebene",
+            "angezeigt",
+            "werden",
+            ",",
+            "und",
+            "es",
+            "m\u00fcssen",
+            "ihr",
+            "Schutz",
+            ",",
+            "ihre",
+            "Wiederherstellung",
+            "und",
+            "ihr",
+            "Ausbau",
+            "gef\u00f6rdert",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 38,
+         "Tokens": [
+            "Viertens",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 39,
+         "Tokens": [
+            "Die",
+            "dreigliedrige",
+            "Zusammenarbeit",
+            "der",
+            "Weltorganisation",
+            "f\u00fcr",
+            "Tiergesundheit",
+            ",",
+            "OIE",
+            ",",
+            "der",
+            "Weltgesundheitsorganisation",
+            ",",
+            "WHO",
+            ",",
+            "der",
+            "Ern\u00e4hrungs-",
+            "und",
+            "Landwirtschaftsorganisation",
+            ",",
+            "FAO",
+            ",",
+            "muss",
+            "gest\u00e4rkt",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 40,
+         "Tokens": [
+            "Umweltaspekte",
+            "m\u00fcssen",
+            "dabei",
+            "st\u00e4rker",
+            "in",
+            "den",
+            "Fokus",
+            "r\u00fccken",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 41,
+         "Tokens": [
+            "F\u00fcnftens",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 42,
+         "Tokens": [
+            "Die",
+            "Pandemiepr\u00e4vention",
+            "erfordert",
+            "starke",
+            "Gesundheitssysteme",
+            "weltweit",
+            "in",
+            "Analogie",
+            "zu",
+            "SDG",
+            "3",
+            ",",
+            "der",
+            "Agenda",
+            "2030."
+         ]
+      },
+      {
+         "SentenceId": 43,
+         "Tokens": [
+            "Dabei",
+            "kann",
+            "die",
+            "One-Health-Agenda",
+            "sehr",
+            "hilfreich",
+            "sein",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 44,
+         "Tokens": [
+            "Ein",
+            "Weiter-so",
+            "nach",
+            "der",
+            "Covid-19-Pandemie",
+            "darf",
+            "es",
+            "nicht",
+            "geben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 45,
+         "Tokens": [
+            "Es",
+            "liegt",
+            "in",
+            "unserer",
+            "Verantwortung",
+            ",",
+            "eine",
+            "weitere",
+            "Krise",
+            "zu",
+            "verhindern",
+            ",",
+            "frei",
+            "nach",
+            "dem",
+            "UN-Motto",
+            "\u201e",
+            "Let",
+            "\u2019s",
+            "build",
+            "back",
+            "better",
+            "\u201c",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 46,
+         "Tokens": [
+            "Danke",
+            "sch\u00f6n",
+            "."
+         ]
+      }
+   ],
+   "Annotations": []
+}
