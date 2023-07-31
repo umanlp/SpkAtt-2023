@@ -1,0 +1,964 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Frau",
+            "Präsidentin",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Liebe",
+            "Zuschauerinnen",
+            "und",
+            "Zuschauer",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Nach",
+            "einer",
+            "Schätzung",
+            "des",
+            "ZDF",
+            "bearbeiten",
+            "Inkassounternehmen",
+            "in",
+            "Deutschland",
+            "jährlich",
+            "20",
+            "Millionen",
+            "Mahnungen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Es",
+            "mag",
+            "überwiegend",
+            "berechtigt",
+            "sein",
+            ",",
+            "dass",
+            "diese",
+            "Forderungen",
+            "bestehen",
+            ",",
+            "und",
+            "überwiegend",
+            "mögen",
+            "die",
+            "Inkassobüros",
+            "auch",
+            "seriös",
+            "vorgehen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Aber",
+            "es",
+            "gibt",
+            "eben",
+            "auch",
+            "Missbrauchsfälle",
+            "in",
+            "der",
+            "Branche",
+            ",",
+            "wo",
+            "die",
+            "Rechtsunerfahrenheit",
+            "der",
+            "Schuldner",
+            "wirklich",
+            "ausgenutzt",
+            "wird",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Deswegen",
+            "machen",
+            "wir",
+            "dieses",
+            "Gesetz",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Wir",
+            "wollen",
+            "keine",
+            "Abzocke",
+            "der",
+            "Schuldner",
+            ",",
+            "liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Wir",
+            "stoppen",
+            "mit",
+            "diesem",
+            "Gesetz",
+            ",",
+            "dass",
+            "für",
+            "Schuldner",
+            "unnötige",
+            "Belastungen",
+            "dadurch",
+            "entstehen",
+            ",",
+            "dass",
+            "in",
+            "bestimmten",
+            "Fällen",
+            "eine",
+            "Geschäftsgebühr",
+            "und",
+            "eine",
+            "Einigungsgebühr",
+            "anfällt",
+            ",",
+            "und",
+            "wir",
+            "stellen",
+            "klar",
+            ",",
+            "dass",
+            "ein",
+            "Gläubiger",
+            ",",
+            "der",
+            "ein",
+            "Inkassobüro",
+            "und",
+            "einen",
+            "Rechtsanwalt",
+            "beauftragt",
+            ",",
+            "grundsätzlich",
+            "nur",
+            "einmal",
+            "eine",
+            "Gebühr",
+            "verlangen",
+            "kann",
+            ",",
+            "es",
+            "sei",
+            "denn",
+            ",",
+            "es",
+            "tritt",
+            "die",
+            "Ausnahme",
+            "ein",
+            ",",
+            "dass",
+            "der",
+            "Schuldner",
+            "die",
+            "Forderung",
+            "nach",
+            "der",
+            "Beauftragung",
+            "des",
+            "Inkassounternehmens",
+            "bestritten",
+            "hat",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Und",
+            "wir",
+            "stellen",
+            "klar",
+            ",",
+            "dass",
+            "dieses",
+            "Bestreiten",
+            "wirklich",
+            "durch",
+            "ein",
+            "aktives",
+            "Tun",
+            "erfolgen",
+            "muss",
+            ",",
+            "damit",
+            "es",
+            "hier",
+            "also",
+            "keine",
+            "Unklarheiten",
+            "gibt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Wir",
+            "wollen",
+            "die",
+            "Schuldner",
+            "vor",
+            "doppelten",
+            "Gebühren",
+            "schützen",
+            ",",
+            "liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Wichtig",
+            "war",
+            "uns",
+            "auch",
+            ",",
+            "dass",
+            "wir",
+            "bei",
+            "den",
+            "üblichen",
+            "Vorgängen",
+            "im",
+            "Inkassogeschäft",
+            "die",
+            "Gebühren",
+            "reduzieren",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "So",
+            "stellen",
+            "wir",
+            "ausdrücklich",
+            "klar",
+            ",",
+            "dass",
+            "es",
+            "keine",
+            "erhöhte",
+            "Einigungsgebühr",
+            "mit",
+            "einem",
+            "Gebührensatz",
+            "von",
+            "1,5",
+            "geben",
+            "wird",
+            ",",
+            "wenn",
+            "der",
+            "Hauptanspruch",
+            "anerkannt",
+            "wird",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "bei",
+            "Rechtsanwälten",
+            "gibt",
+            "es",
+            "ja",
+            "durchaus",
+            "entsprechende",
+            "Fälle",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Hier",
+            "stellen",
+            "wir",
+            "jetzt",
+            "klar",
+            ",",
+            "dass",
+            "der",
+            "Gebührensatz",
+            "von",
+            "1,5",
+            "nicht",
+            "anfällt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Das",
+            "war",
+            "ein",
+            "sehr",
+            "großer",
+            "Kostenfaktor",
+            "in",
+            "der",
+            "Vergangenheit",
+            ",",
+            "und",
+            "deswegen",
+            "gehen",
+            "wir",
+            "hier",
+            "dagegen",
+            "vor",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Und",
+            "wenn",
+            "der",
+            "Anspruch",
+            "anerkannt",
+            "wird",
+            "und",
+            "eine",
+            "Zahlungsvereinbarung",
+            "getroffen",
+            "wird",
+            ",",
+            "dann",
+            "kann",
+            "nur",
+            "die",
+            "niedrige",
+            "Einigungsgebühr",
+            "mit",
+            "einem",
+            "Gebührensatz",
+            "von",
+            "0,7",
+            "abgerechnet",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Weil",
+            "wir",
+            "die",
+            "Anwaltsgebühren",
+            "zum",
+            "Jahreswechsel",
+            "vermutlich",
+            "beim",
+            "nächsten",
+            "Tagesordnungspunkt",
+            "erhöhen",
+            "werden",
+            ",",
+            "wollen",
+            "wir",
+            "klarstellen",
+            ",",
+            "dass",
+            "diese",
+            "Erhöhung",
+            "der",
+            "Gebühren",
+            "nicht",
+            "dazu",
+            "führt",
+            ",",
+            "dass",
+            "die",
+            "Reduzierung",
+            ",",
+            "die",
+            "wir",
+            "hier",
+            "für",
+            "die",
+            "Schuldner",
+            "erreichen",
+            "wollen",
+            ",",
+            "wieder",
+            "aufgefressen",
+            "wird",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Deswegen",
+            "haben",
+            "wir",
+            "hier",
+            "auch",
+            "geregelt",
+            ",",
+            "dass",
+            "die",
+            "Geschäftsgebühr",
+            "10",
+            "Prozent",
+            "niedriger",
+            "als",
+            "vorgesehen",
+            "ausfällt",
+            ",",
+            "also",
+            "nur",
+            "noch",
+            "eine",
+            "Geschäftsgebühr",
+            "von",
+            "0,9",
+            "abgerechnet",
+            "werden",
+            "kann",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "All",
+            "das",
+            "wird",
+            "dazu",
+            "führen",
+            ",",
+            "dass",
+            "die",
+            "Inkassogebühren",
+            "für",
+            "die",
+            "Schuldner",
+            "und",
+            "Schuldnerinnen",
+            "geringer",
+            "ausfallen",
+            "werden",
+            ",",
+            "liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Wir",
+            "werden",
+            "auch",
+            "die",
+            "Informationspflichten",
+            "deutlich",
+            "erweitern",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Oft",
+            "sind",
+            "die",
+            "Schuldner",
+            "ja",
+            "geschäftsunerfahren",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Deshalb",
+            "sind",
+            "die",
+            "Inkassounternehmen",
+            "zukünftig",
+            "verpflichtet",
+            ",",
+            "über",
+            "ihre",
+            "Auftraggeber",
+            "genaue",
+            "Daten",
+            "anzugeben",
+            ",",
+            "etwa",
+            "den",
+            "Namen",
+            "und",
+            "den",
+            "Forderungsgrund",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Und",
+            "damit",
+            "kein",
+            "Schuldner",
+            "vorschnell",
+            "im",
+            "Wege",
+            "eines",
+            "Anerkenntnisses",
+            "auf",
+            "seine",
+            "Rechte",
+            "verzichtet",
+            ",",
+            "wird",
+            "zukünftig",
+            "ein",
+            "Schuldanerkenntnis",
+            "nur",
+            "dann",
+            "wirksam",
+            "sein",
+            ",",
+            "wenn",
+            "der",
+            "Schuldner",
+            "ausdrücklich",
+            "darauf",
+            "hingewiesen",
+            "wurde",
+            ",",
+            "dass",
+            "er",
+            "durch",
+            "das",
+            "Anerkenntnis",
+            "die",
+            "Möglichkeit",
+            "verliert",
+            ",",
+            "Einreden",
+            "und",
+            "Einwendungen",
+            "geltend",
+            "zu",
+            "machen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Es",
+            "gibt",
+            "also",
+            "ganz",
+            "wichtige",
+            "Verbesserungen",
+            "für",
+            "die",
+            "Schuldnerinnen",
+            "und",
+            "Schuldner",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "In",
+            "unserem",
+            "Entschließungsantrag",
+            "greifen",
+            "wir",
+            "zwei",
+            "Missstände",
+            "auf",
+            ",",
+            "nämlich",
+            "zum",
+            "einen",
+            ",",
+            "dass",
+            "die",
+            "Aufsicht",
+            "über",
+            "die",
+            "Inkassobüros",
+            "erheblich",
+            "zersplittert",
+            "ist",
+            ",",
+            "und",
+            "zum",
+            "anderen",
+            ",",
+            "dass",
+            "immer",
+            "häufiger",
+            "gerade",
+            "beim",
+            "Onlinehandel",
+            "Identitäten",
+            "gestohlen",
+            "werden",
+            ",",
+            "also",
+            "unter",
+            "falschem",
+            "Namen",
+            "Bestellungen",
+            "aufgegeben",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "Es",
+            "ist",
+            "ein",
+            "gutes",
+            "Gesetz",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Dank",
+            "an",
+            "das",
+            "Justizministerium",
+            "für",
+            "die",
+            "gute",
+            "Vorlage",
+            "und",
+            "an",
+            "die",
+            "Kollegen",
+            "für",
+            "die",
+            "gute",
+            "Zusammenarbeit",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Wir",
+            "schützen",
+            "mit",
+            "diesem",
+            "Gesetz",
+            "wirklich",
+            "die",
+            "Schuldner",
+            "vor",
+            "Abzocke",
+            "durch",
+            "Inkassounternehmen",
+            ",",
+            "liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "Das",
+            "Wort",
+            "hat",
+            "der",
+            "Abgeordnete",
+            "Jens",
+            "Maier",
+            "für",
+            "die",
+            "AfD-Fraktion",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "3:0"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "6:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "8:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "8:27"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "8:47"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "8:70"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "9:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "9:7"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "12:1",
+            "12:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "14:1",
+            "14:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "17:15"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "23:28"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "25:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "26:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "27:0"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "27:7"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "28:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "29:1"
+         ],
+         "PTC": []
+      }
+   ]
+}

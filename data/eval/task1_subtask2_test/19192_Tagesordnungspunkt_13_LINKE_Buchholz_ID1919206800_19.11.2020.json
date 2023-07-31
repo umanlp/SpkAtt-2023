@@ -1,0 +1,923 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Frau",
+            "Präsidentin",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Liebe",
+            "Eva",
+            "Högl",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Liebe",
+            "Mitarbeiterinnen",
+            "und",
+            "Mitarbeiter",
+            "der",
+            "Wehrbeauftragten",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Meine",
+            "Damen",
+            "und",
+            "Herren",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Als",
+            "wir",
+            "hier",
+            "vor",
+            "wenigen",
+            "Monaten",
+            "den",
+            "Jahresbericht",
+            "2019",
+            "das",
+            "erste",
+            "Mal",
+            "diskutierten",
+            ",",
+            "hatten",
+            "wir",
+            "gerade",
+            "diesen",
+            "Waffenfund",
+            "im",
+            "Garten",
+            "eines",
+            "KSK-Soldaten",
+            "in",
+            "Sachsen",
+            "erlebt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Wir",
+            "haben",
+            "danach",
+            "viel",
+            "diskutiert",
+            "über",
+            "Rechtsextremismus",
+            "in",
+            "der",
+            "Bundeswehr",
+            "und",
+            "speziell",
+            "beim",
+            "KSK",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Die",
+            "Bundesregierung",
+            "erweckt",
+            "in",
+            "ihrem",
+            "Kommentar",
+            "zum",
+            "Jahresbericht",
+            "den",
+            "Eindruck",
+            ",",
+            "sie",
+            "habe",
+            "das",
+            "Problem",
+            "im",
+            "Griff",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Wir",
+            "aber",
+            "sagen",
+            ":",
+            "Es",
+            "gibt",
+            "eine",
+            "Höchstzahl",
+            "von",
+            "rechtsextremen",
+            "Verdachtsfällen",
+            "in",
+            "der",
+            "Bundeswehr",
+            ",",
+            "Dutzende",
+            "davon",
+            "im",
+            "und",
+            "um",
+            "das",
+            "KSK",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Und",
+            "es",
+            "beruhigt",
+            "uns",
+            "nicht",
+            ",",
+            "dass",
+            "die",
+            "Munitions-",
+            "und",
+            "Sprengstoffverluste",
+            "laut",
+            "Bundesregierung",
+            "wohl",
+            "Buchungsfehler",
+            "sind",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "aber",
+            "genau",
+            "kann",
+            "sie",
+            "das",
+            "nicht",
+            "sagen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Meine",
+            "Damen",
+            "und",
+            "Herren",
+            ",",
+            "das",
+            "ist",
+            "hoch",
+            "riskant",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Klären",
+            "Sie",
+            "auf",
+            ",",
+            "wo",
+            "die",
+            "Munition",
+            "und",
+            "der",
+            "Sprengstoff",
+            "verblieben",
+            "sind",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Was",
+            "uns",
+            "aber",
+            "misstrauisch",
+            "macht",
+            ",",
+            "ist",
+            ",",
+            "dass",
+            "das",
+            "BMVg",
+            "bereits",
+            "neue",
+            "Einsätze",
+            "für",
+            "das",
+            "KSK",
+            "plant",
+            "und",
+            "ab",
+            "Anfang",
+            "2021",
+            "wieder",
+            "eine",
+            "stärkere",
+            "operative",
+            "Rolle",
+            "für",
+            "das",
+            "KSK",
+            "vorsieht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "Wir",
+            "sagen",
+            "ganz",
+            "klar",
+            ":",
+            "Stellen",
+            "Sie",
+            "die",
+            "Einsatzfähigkeit",
+            "des",
+            "KSK",
+            "nicht",
+            "vor",
+            "die",
+            "Gründlichkeit",
+            "der",
+            "Aufklärung",
+            "der",
+            "rechtsextremen",
+            "Vorfälle",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Da",
+            "sehen",
+            "wir",
+            "Eva",
+            "Högl",
+            "auch",
+            "ganz",
+            "klar",
+            "in",
+            "der",
+            "Verantwortung",
+            ",",
+            "einen",
+            "ganz",
+            "klaren",
+            "Blick",
+            "drauf",
+            "zu",
+            "haben",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Die",
+            "Linke",
+            "lehnt",
+            "die",
+            "Auslandseinsätze",
+            "der",
+            "Bundeswehr",
+            "grundsätzlich",
+            "ab",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "das",
+            "ist",
+            "Ihnen",
+            "bekannt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Was",
+            "aber",
+            "unserer",
+            "Meinung",
+            "nach",
+            "gar",
+            "nicht",
+            "geht",
+            ",",
+            "ist",
+            ",",
+            "dass",
+            "die",
+            "Einsätze",
+            "auf",
+            "dem",
+            "Rücken",
+            "der",
+            "Soldatinnen",
+            "und",
+            "Soldaten",
+            "ausgetragen",
+            "werden",
+            ",",
+            "wie",
+            "man",
+            "zum",
+            "Beispiel",
+            "an",
+            "der",
+            "Verlängerung",
+            "der",
+            "Stehzeit",
+            "von",
+            "vier",
+            "auf",
+            "sechs",
+            "Monate",
+            "im",
+            "Einsatz",
+            "sieht",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "Hinzu",
+            "kommen",
+            "die",
+            "langen",
+            "Quarantänezeiten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Das",
+            "bedeutet",
+            "für",
+            "die",
+            "Soldatinnen",
+            "und",
+            "Soldaten",
+            "und",
+            "ihre",
+            "Familien",
+            "eine",
+            "hohe",
+            "Belastung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Wir",
+            "sagen",
+            "ganz",
+            "klar",
+            ":",
+            "Es",
+            "kann",
+            "nicht",
+            "sein",
+            ",",
+            "dass",
+            "die",
+            "Familien",
+            "die",
+            "Konsequenzen",
+            "der",
+            "Ausweitung",
+            "von",
+            "Bundeswehreinsätzen",
+            "tragen",
+            "müssen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Sorgen",
+            "Sie",
+            "dafür",
+            ",",
+            "dass",
+            "die",
+            "Soldatinnen",
+            "und",
+            "Soldaten",
+            "nach",
+            "Hause",
+            "kommen",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Sorgen",
+            "Sie",
+            "dafür",
+            ",",
+            "dass",
+            "die",
+            "Soldatinnen",
+            "und",
+            "Soldaten",
+            "Weihnachten",
+            "mit",
+            "ihren",
+            "Familien",
+            "feiern",
+            "können",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Die",
+            "Aufgabe",
+            "des",
+            "Wehrbeauftragten",
+            "bzw.",
+            "der",
+            "Wehrbeauftragten",
+            "ist",
+            "es",
+            "laut",
+            "Wehrbeauftragtengesetz",
+            ",",
+            "die",
+            "Grundrechte",
+            "der",
+            "Soldatinnen",
+            "und",
+            "Soldaten",
+            "und",
+            "die",
+            "Grundsätze",
+            "der",
+            "Inneren",
+            "Führung",
+            "zu",
+            "schützen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Hans-Peter",
+            "Bartels",
+            "haben",
+            "wir",
+            "immer",
+            "für",
+            "seine",
+            "Reden",
+            "für",
+            "mehr",
+            "Aufrüstung",
+            "kritisiert",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 25,
+         "Tokens": [
+            "Dass",
+            "Sie",
+            ",",
+            "Frau",
+            "Högl",
+            ",",
+            "sich",
+            "jetzt",
+            "starkmachen",
+            "für",
+            "die",
+            "Beschaffung",
+            "von",
+            "Kampfdrohnen",
+            ","
+         ]
+      },
+      {
+         "SentenceId": 26,
+         "Tokens": [
+            "das",
+            "ist",
+            "uns",
+            "mehr",
+            "als",
+            "sauer",
+            "aufgestoßen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 27,
+         "Tokens": [
+            "Kampfdrohnen",
+            "schützen",
+            "nicht",
+            ",",
+            "sie",
+            "töten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 28,
+         "Tokens": [
+            "Sie",
+            "führen",
+            "zu",
+            "Belastungsstörungen",
+            "bei",
+            "der",
+            "Bevölkerung",
+            "in",
+            "den",
+            "Einsatzländern",
+            "und",
+            "bei",
+            "den",
+            "Soldatinnen",
+            "und",
+            "Soldaten",
+            ",",
+            "die",
+            "sie",
+            "steuern",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 29,
+         "Tokens": [
+            "Sie",
+            "entgrenzen",
+            "den",
+            "Krieg",
+            "und",
+            "bringen",
+            "uns",
+            "näher",
+            "an",
+            "automatische",
+            "Kriegsführung",
+            "heran",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 30,
+         "Tokens": [
+            "Frau",
+            "Högl",
+            "und",
+            "die",
+            "SPD-Fraktion",
+            ",",
+            "wir",
+            "sagen",
+            "ganz",
+            "klar",
+            ":",
+            "Sagen",
+            "Sie",
+            "Nein",
+            "zu",
+            "der",
+            "Beschaffung",
+            "von",
+            "Kampfdrohnen",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 31,
+         "Tokens": [
+            "Frau",
+            "Kollegin",
+            ",",
+            "das",
+            "war",
+            "es",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 32,
+         "Tokens": [
+            "Danke",
+            "schön",
+            ",",
+            "Christine",
+            "Buchholz",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 33,
+         "Tokens": [
+            "-",
+            "Nächster",
+            "Redner",
+            ":",
+            "für",
+            "die",
+            "Fraktion",
+            "Bündnis",
+            "90",
+            "/",
+            "Die",
+            "Grünen",
+            "Dr.",
+            "Tobias",
+            "Lindner",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "4:7"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "4:12"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "5:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "6:2",
+            "6:9"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "6:5"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "6:7"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "7:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "8:11"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "9:6"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "13:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "15:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "16:1",
+            "16:3"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "17:3",
+            "17:4"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "17:40"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "20:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "23:9"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "24:7"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "24:11"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "30:7"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "30:11"
+         ],
+         "PTC": []
+      }
+   ]
+}

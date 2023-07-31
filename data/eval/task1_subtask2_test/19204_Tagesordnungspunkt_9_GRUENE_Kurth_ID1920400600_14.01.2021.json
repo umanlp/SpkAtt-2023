@@ -1,0 +1,774 @@
+{
+   "Sentences": [
+      {
+         "SentenceId": 0,
+         "Tokens": [
+            "Herr",
+            "Präsident",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 1,
+         "Tokens": [
+            "Liebe",
+            "Kolleginnen",
+            "und",
+            "Kollegen",
+            "!"
+         ]
+      },
+      {
+         "SentenceId": 2,
+         "Tokens": [
+            "Wir",
+            "leben",
+            "mit",
+            "den",
+            "geburtenstarken",
+            "Jahrgängen",
+            "im",
+            "Erwerbsleben",
+            "seit",
+            "Jahren",
+            "in",
+            "einer",
+            "demografischen",
+            "Schönwetterphase",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 3,
+         "Tokens": [
+            "Wir",
+            "haben",
+            "-",
+            "bis",
+            "zur",
+            "Coronapandemie",
+            "-",
+            "eine",
+            "zehnjährige",
+            "Phase",
+            "der",
+            "Hochkonjunktur",
+            "mit",
+            "guter",
+            "Beschäftigungsentwicklung",
+            "und",
+            "guter",
+            "Lohnentwicklung",
+            "hinter",
+            "uns",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 4,
+         "Tokens": [
+            "Da",
+            "müsste",
+            "es",
+            "mit",
+            "dem",
+            "Teufel",
+            "zugehen",
+            ",",
+            "wenn",
+            "die",
+            "Rentenfinanzen",
+            "nicht",
+            "relativ",
+            "in",
+            "Ordnung",
+            "wären",
+            ",",
+            "was",
+            "sie",
+            "sind",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 5,
+         "Tokens": [
+            "Was",
+            "Sie",
+            ",",
+            "Herr",
+            "Heil",
+            ",",
+            "aber",
+            "verschwiegen",
+            "haben",
+            "-",
+            "Sie",
+            "schwelgen",
+            "ja",
+            "in",
+            "der",
+            "Vergangenheit",
+            "und",
+            "in",
+            "der",
+            "Erinnerung",
+            "-",
+            ",",
+            "ist",
+            ",",
+            "dass",
+            "Sie",
+            "diese",
+            "wirklich",
+            "guten",
+            "Jahre",
+            "komplett",
+            "verschenkt",
+            "haben",
+            ",",
+            "um",
+            "die",
+            "Rentenversicherung",
+            "auf",
+            "die",
+            "Zukunft",
+            "vorzubereiten",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 6,
+         "Tokens": [
+            "Ganz",
+            "im",
+            "Gegenteil",
+            "haben",
+            "Sie",
+            "mit",
+            "Mütterrente",
+            "I",
+            "und",
+            "II",
+            ",",
+            "Rente",
+            "mit",
+            "63",
+            "neue",
+            "Ausgabenblöcke",
+            "geschaffen",
+            ",",
+            "die",
+            "aus",
+            "Steuermitteln",
+            "hätten",
+            "finanziert",
+            "werden",
+            "müssen",
+            "und",
+            "nicht",
+            "aus",
+            "Beitragseinnahmen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 7,
+         "Tokens": [
+            "Das",
+            "belastet",
+            "die",
+            "gesetzliche",
+            "Rentenversicherung",
+            "mit",
+            "insgesamt",
+            "13",
+            "Milliarden",
+            "Euro",
+            "pro",
+            "Jahr",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 8,
+         "Tokens": [
+            "Das",
+            "ist",
+            "die",
+            "Bilanz",
+            "von",
+            "sieben",
+            "Jahren",
+            "Großer",
+            "Koalition",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 9,
+         "Tokens": [
+            "Und",
+            "dann",
+            "sprechen",
+            "Sie",
+            ",",
+            "Herr",
+            "Weiß",
+            ",",
+            "von",
+            "präzisen",
+            "Zahlen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 10,
+         "Tokens": [
+            "Tatsache",
+            "ist",
+            ",",
+            "dass",
+            "dieser",
+            "Rentenversicherungsbericht",
+            "die",
+            "Wirklichkeit",
+            "verschleiert",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 11,
+         "Tokens": [
+            "Sie",
+            "sprechen",
+            "von",
+            "einem",
+            "Gesamtversorgungsniveau",
+            "von",
+            "53",
+            "bis",
+            "55",
+            "Prozent",
+            "und",
+            "nehmen",
+            "dabei",
+            "an",
+            ",",
+            "dass",
+            "die",
+            "Leute",
+            "vom",
+            "ersten",
+            "Tag",
+            "an",
+            "in",
+            "die",
+            "Riester-Rente",
+            "einzahlen",
+            ",",
+            "dass",
+            "4",
+            "Prozent",
+            "Rendite",
+            "dabei",
+            "herausspringen",
+            "und",
+            "dass",
+            "nicht",
+            "mehr",
+            "als",
+            "10",
+            "Prozent",
+            "Verwaltungskosten",
+            "fällig",
+            "werden",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 12,
+         "Tokens": [
+            "Die",
+            "Wirklichkeit",
+            "ist",
+            ",",
+            "dass",
+            "gerade",
+            "mal",
+            "11",
+            "Millionen",
+            "Personen",
+            "von",
+            "35",
+            "Millionen",
+            "Berechtigten",
+            "überhaupt",
+            "die",
+            "Riester-Zulagen",
+            "kriegen",
+            ",",
+            "die",
+            "meisten",
+            "davon",
+            "noch",
+            "nicht",
+            "mal",
+            "vollständig",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 13,
+         "Tokens": [
+            "4",
+            "Prozent",
+            "Rendite",
+            "kriegt",
+            "man",
+            "bei",
+            "einer",
+            "sicheren",
+            "Anlage",
+            "niemals",
+            ",",
+            "und",
+            "die",
+            "durchschnittlichen",
+            "Verwaltungskosten",
+            "betragen",
+            "25",
+            "Prozent",
+            ",",
+            "so",
+            "nach",
+            "Untersuchung",
+            "des",
+            "Vereins",
+            "Finanzwende",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 14,
+         "Tokens": [
+            "Das",
+            "ist",
+            "die",
+            "Wirklichkeit",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 15,
+         "Tokens": [
+            "Das",
+            "habe",
+            "ich",
+            "auch",
+            "Ihr",
+            "Ministerium",
+            "gefragt",
+            ",",
+            "und",
+            "das",
+            "Ministerium",
+            ",",
+            "Herr",
+            "Heil",
+            ",",
+            "hat",
+            "gesagt",
+            ",",
+            "das",
+            "seien",
+            "alles",
+            "Modellannahmen",
+            ",",
+            "die",
+            "Praxis",
+            "-",
+            "so",
+            "nahezu",
+            "wörtlich",
+            "-",
+            "sei",
+            "irrelevant",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 16,
+         "Tokens": [
+            "Also",
+            ",",
+            "wenn",
+            "die",
+            "Praxis",
+            "für",
+            "Sie",
+            "irrelevant",
+            "ist",
+            ",",
+            "wenn",
+            "es",
+            "um",
+            "so",
+            "etwas",
+            "Entscheidendes",
+            "geht",
+            "wie",
+            "das",
+            "Gesamtversorgungsniveau",
+            ",",
+            "dann",
+            "kann",
+            "man",
+            "bei",
+            "diesem",
+            "Rentenversicherungsbericht",
+            "überhaupt",
+            "nicht",
+            "von",
+            "präzisen",
+            "Zahlen",
+            "und",
+            "von",
+            "der",
+            "Wirklichkeit",
+            "sprechen",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 17,
+         "Tokens": [
+            "Ich",
+            "sage",
+            "jetzt",
+            "ganz",
+            "klar",
+            ":",
+            "Für",
+            "Bündnis",
+            "90",
+            "/",
+            "Die",
+            "Grünen",
+            "-",
+            "das",
+            "haben",
+            "wir",
+            "in",
+            "unserem",
+            "Grundsatzprogramm",
+            "erst",
+            "jüngst",
+            "beschlossen",
+            "-",
+            "hat",
+            "ein",
+            "stabiles",
+            "Rentenniveau",
+            "oberste",
+            "Priorität",
+            ";"
+         ]
+      },
+      {
+         "SentenceId": 18,
+         "Tokens": [
+            "denn",
+            "wir",
+            "wollen",
+            "eine",
+            "verlässliche",
+            "Einkommensabsicherung",
+            "für",
+            "alle",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 19,
+         "Tokens": [
+            "Und",
+            "wenn",
+            "wir",
+            "andere",
+            "Gruppen",
+            "in",
+            "die",
+            "Rentenversicherung",
+            "einbeziehen",
+            "wollen",
+            ",",
+            "zum",
+            "Beispiel",
+            "die",
+            "Selbstständigen",
+            ",",
+            "dann",
+            "geht",
+            "dies",
+            "nur",
+            ",",
+            "wenn",
+            "diese",
+            "mehr",
+            "erwarten",
+            "können",
+            "als",
+            "eine",
+            "etwas",
+            "bessere",
+            "Armutsabsicherung",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 20,
+         "Tokens": [
+            "Das",
+            "geht",
+            "aber",
+            "nur",
+            ",",
+            "wenn",
+            "es",
+            "eine",
+            "stabile",
+            "Einkommensabsicherung",
+            "gibt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 21,
+         "Tokens": [
+            "Das",
+            "sage",
+            "ich",
+            "den",
+            "Leuten",
+            ",",
+            "die",
+            "vielleicht",
+            "Angst",
+            "haben",
+            "vor",
+            "der",
+            "Bürgerversicherung",
+            ":"
+         ]
+      },
+      {
+         "SentenceId": 22,
+         "Tokens": [
+            "Mit",
+            "Bündnis",
+            "90",
+            "/",
+            "Die",
+            "Grünen",
+            "kann",
+            "man",
+            "sich",
+            "darauf",
+            "verlassen",
+            ",",
+            "dass",
+            "das",
+            "System",
+            "der",
+            "gesetzlichen",
+            "Versicherung",
+            "intakt",
+            "und",
+            "solidarisch",
+            "bleibt",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 23,
+         "Tokens": [
+            "Danke",
+            "."
+         ]
+      },
+      {
+         "SentenceId": 24,
+         "Tokens": [
+            "Ralf",
+            "Kapschack",
+            ",",
+            "SPD",
+            ",",
+            "ist",
+            "der",
+            "nächste",
+            "Redner",
+            "."
+         ]
+      }
+   ],
+   "Annotations": [
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "5:7"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "5:19"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "9:2"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "11:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "11:11"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "15:6"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "15:16"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "16:36"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "17:1"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "17:6"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "17:21"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "19:24"
+         ],
+         "PTC": []
+      },
+      {
+         "Addr": [],
+         "Evidence": [],
+         "Medium": [],
+         "Message": [],
+         "Source": [],
+         "Topic": [],
+         "Cue": [
+            "21:1"
+         ],
+         "PTC": []
+      }
+   ]
+}
