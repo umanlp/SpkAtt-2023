@@ -17,7 +17,7 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
  * <strike>August 3, 2023 - Submissions for Task1, subtask 2 (roles only) close</strike>
  * <strike>August 14, 2023 - System descriptions due</strike>
  * September 15, 2023 - Camera-ready system paper deadline
- * September 18-22, 2023 - Workshop at KONVENS 2023
+ * September 18, 2023 - Workshop at KONVENS 2023
 
 
 ## Task 1 data format:
