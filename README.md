@@ -13,10 +13,10 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
  * <strike>April 1, 2023 - Training and development data release</strike>
  * <strike>June 15, 2023 - Test data release (blind)</strike>
  * <strike>July 1, 2023 - Submissions open</strike>
- * July 31, 2023 - Submissions for Task1, subtask1 (full task) close
- * August 3, 2023 - Submissions for Task1, subtask 2 (roles only) close
- * August 14, 2023 - System descriptions due
- * September 7, 2023 - Camera-ready system paper deadline
+ * <strike>July 31, 2023 - Submissions for Task1, subtask1 (full task) close</strike>
+ * <strike>August 3, 2023 - Submissions for Task1, subtask 2 (roles only) close</strike>
+ * <strike>August 14, 2023 - System descriptions due</strike>
+ * September 15, 2023 - Camera-ready system paper deadline
  * September 18-22, 2023 - Workshop at KONVENS 2023
 
 
