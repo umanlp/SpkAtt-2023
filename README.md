@@ -16,8 +16,21 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
  * <strike>July 31, 2023 - Submissions for Task1, subtask1 (full task) close</strike>
  * <strike>August 3, 2023 - Submissions for Task1, subtask 2 (roles only) close</strike>
  * <strike>August 14, 2023 - System descriptions due</strike>
- * September 15, 2023 - Camera-ready system paper deadline
+ * <strike>September 15, 2023 - Camera-ready system paper deadline</strike>
  * September 18, 2023 - Workshop at KONVENS 2023
+
+
+## Workshop programm
+
+ * 15:00 Uhr    Welcome & Shared Task Overview (ST organisers)
+ * 15:30 Uhr    Speaker Attribution in German Parliamentary Debates with QLoRA-adapted Large Language Models (Tobias Bornheim, Niklas Grieger, Patrick Gustav Blaneck and Stephan Bialonski)
+ * 16:00 Uhr    Politics, BERTed: Automatic Attribution of Speech Events in German Parliamentary Debates (Anton Ehrmanntraut)
+ * 16:30 Uhr    Discussion
+ * 17:00 Uhr    Closing
+
+## Proceedings
+
+The proceedings can be found here: <a href="./doc/SpkAtt2023-proceedings.pdf">pdf</a>.
 
 
 ## Task 1 data format:
@@ -39,12 +52,6 @@ For more information on our annotation scheme, please refer to the <a href="./do
 
 We tried to harmonise the data format for Task1 and Task2 as much as possible, which resulted in a file format where the annotations are separated from the text. This makes it a bit harder to inspect the data. We therefore also provide an alternative data format, mostly to make the data more human-readible. This alternative format is described <a href="./doc/Dataformat_Task1_b.pdf">here</a>.
 However, the official shared task format is the one described in the first document (Dataformat_Task1_a.pdf) and we do not provide evaluation scripts for the second format.
-
-
-
-
-
-
 
 
 
