@@ -22,11 +22,16 @@ co-located with [KONVENS 2023](https://www.thi.de/konvens-2023/).
 
 ## Workshop programm
 
+### Sep 18, 2023 @ <a href="https://www.thi.de/konvens-2023/">KONVENS 2023</a>
+
+<b>Program schedule</b>
+
  * 15:00 Uhr    Welcome & Shared Task Overview (ST organisers)
  * 15:30 Uhr    Speaker Attribution in German Parliamentary Debates with QLoRA-adapted Large Language Models (Tobias Bornheim, Niklas Grieger, Patrick Gustav Blaneck and Stephan Bialonski)
  * 16:00 Uhr    Politics, BERTed: Automatic Attribution of Speech Events in German Parliamentary Debates (Anton Ehrmanntraut)
  * 16:30 Uhr    Discussion
  * 17:00 Uhr    Closing
+
 
 ## Proceedings
 
